@@ -17,4 +17,6 @@ Verificado en fuentes externas (anexo §11): Acuerdos de Isaac (Cancillería, 19
 
 ## Artículo de blog
 
-Pieza ceremonial (*Tlatoani* / *in tlilli, in tlapalli*): **[ARTICULO_BLOG_ESTERAS_PARTIDAS.md](./ARTICULO_BLOG_ESTERAS_PARTIDAS.md)** · [HTML](./ARTICULO_BLOG_ESTERAS_PARTIDAS.html) 
+Pieza ceremonial (*Tlatoani* / *in tlilli, in tlapalli*): **[ARTICULO_BLOG_ESTERAS_PARTIDAS.md](./ARTICULO_BLOG_ESTERAS_PARTIDAS.md)** · [HTML](./ARTICULO_BLOG_ESTERAS_PARTIDAS.html)
+
+Versión lúcida (llano político): **[ARTICULO_LUCIDO_ESCUDO_Y_TIERRA.md](./ARTICULO_LUCIDO_ESCUDO_Y_TIERRA.md)** · [HTML](./ARTICULO_LUCIDO_ESCUDO_Y_TIERRA.html)
