@@ -72,38 +72,37 @@ El Observatorio del RIGI y el CELS documentan el régimen: beneficios por treint
 
 ---
 
-## Acuerdos de Isaac: lo oficial y lo especulativo
+## Isaac y la tubería de control (ampliación)
 
-El 19 de abril de 2026, en Jerusalén, Javier Milei y Benjamín Netanyahu anunciaron los Acuerdos de Isaac. Cancillería argentina publicó el texto: marco estratégico con Israel y “socios afines”; “descendientes de Isaac” y “naciones de tradición judeocristiana”; lucha contra terrorismo, antisemitismo y narcotráfico; foco en Irán; cooperación en innovación, tecnología y comercio; inspiración en Acuerdos de Abraham ([Cancillería](https://www.cancilleria.gob.ar/es/actualidad/noticias/argentina-e-israel-lanzan-los-acuerdos-de-isaac-para-fortalecer-la-cooperacion)). Casa Rosada publicó el discurso de Milei presentando la ruta Buenos Aires–Tel Aviv y el marco Isaac ([Casa Rosada](https://www.casarosada.gob.ar/informacion/discursos/51222-palabras-del-presidente-de-la-nacion-javier-milei-en-la-presentacion-de-la-ruta-aerea-buenos-aires-tel-aviv-y-conferencia-conjunta-con-el-primer-ministro-del-estado-de-israel-benjamin-netanyahu)). EFE cubrió la firma ([EFE](https://efe.com/mundo/2026-04-19/israel-argentina-acuerdos-isaac-alianza-estrategica/)).
+El 19 de abril de 2026, Milei y Netanyahu lanzan los Acuerdos de Isaac ([Cancillería](https://www.cancilleria.gob.ar/es/actualidad/noticias/argentina-e-israel-lanzan-los-acuerdos-de-isaac-para-fortalecer-la-cooperacion)). Quirno confirma el paquete: antiterrorismo, IA, crédito de **US$ 150 millones** a empresas israelíes, vuelos El Al ([A24](https://www.a24.com/politica/el-gobierno-confirmo-que-argentina-e-israel-firmaron-tres-acuerdos-clave-cooperacion-seguridad-tecnologia-y-vuelos-directos-n1547940)).
 
-**Hecho cerrado:** el alineamiento securitario-tecnológico-comercial con Israel bajo el nombre Isaac es política de Estado documentada. Se firmaron, según cobertura concordante, tres memorandos: antiterrorismo (incl. detección de financiamiento), inteligencia artificial, y servicios aéreos / ruta Buenos Aires–Tel Aviv ([TN](https://tn.com.ar/politica/2026/04/19/milei-anuncio-en-israel-la-apertura-de-una-ruta-aerea-directa-entre-buenos-aires-y-tel-aviv/); [AJN](https://agenciaajn.com/noticia/israel-amplio-en-washington-la-implementacion-de-los-acuerdos-de-isaac-promovidos-por-javier-milei-306039)).
+El Destape, por acceso a la información a la Dirección de Tratados, publicó el MOU de IA: desarrollo de modelos, capital humano, cadena de valor y **“implementación conjunta de IA segura en sectores civiles de misión crítica”** ([El Destape](https://www.eldestapeweb.com/economia/exclusivo-acuerdo-inteligencia-artificial-firmado-estado-israel-vigilancia-social-rol-palantir-202652321624)). Rio Times describe el MOU antiterrorista en **nueve artículos** (financiamiento, ciber, entrenamiento policial, intercambio de información; foco Irán).
 
-**Lo que esta investigación no leyó — porque no está publicado completo:** el texto articulado de esos MOUs. Cancillería difundió el marco político; diputados y coberturas (Radio Gráfica / NODAL, jul. 2026) advierten que los textos completos no fueron transparentados en Boletín Oficial y reclaman naturaleza jurídica, compromisos, organismos e intervención del Congreso. Por eso **no se puede afirmar** vigilancia tipo Gaza ni biometría racializada como cláusula operativa: eso sería inventar el documento.
+Eso se engarza con lo que el Estado ya construyó adentro: la **UIAAS** (Res. 710/2024) patrulla redes y dark web, usa reconocimiento facial en CCTV, predice delitos y vuela drones; la norma cita a Israel entre los modelos ([InfoLEG](https://servicios.infoleg.gob.ar/infolegInternet/anexos/400000-404999/402139/norma.htm)). Días después de Isaac, Milei recibe a **Peter Thiel** (Palantir) en Casa Rosada ([El País](https://elpais.com/argentina/2026-04-23/el-magnate-tecnologico-peter-thiel-estrecha-lazos-con-milei-en-buenos-aires.html)). En julio, Defensa compra fusiles **ARAD** a Israel. American Friends of Isaac Accords (Genesis Prize / Fitz Haney) organiza caucus en Buenos Aires: legisladores de 14 países, seguridad **“ley por ley”**.
 
-Durante el Mundial, Ad Hoc contabilizó 764.000 menciones ligando Argentina e Israel (pedido ministerial de “traer la 4ª”, bandera en el estadio, Malvinas). Diplomacia oficial y conversación digital se miran; esa correlación es dato, no prueba de conspiración única.
+Ariel Garbarz resume la lectura técnica: IA + antiterrorismo = una sola arquitectura (biometría, drones, bases de datos, decisión automatizada). El análisis se engorda con esas piezas públicas. La biometría no espera un PDF con el título “Gaza”: ya está en la UIAAS y en la tubería Isaac–Palantir–crédito–parlamento.
+
+Durante el Mundial, Ad Hoc midió 764.000 menciones Argentina–Israel. Diplomacia y feed se miran.
 
 ---
 
-## Cierre — sin dudas de mentira
+## Capa que faltaba: el negocio de la bronca
 
-| Afirmación | Estatus |
-|---|---|
-| Racismo en tribunas (Speed, Miami/Atlanta) + investigación FIFA | **Cerrado** |
-| Conversación digital masiva con ejes racismo/Israel/ArgenFIFA/“campaña” (Ad Hoc) | **Cerrado** |
-| Ad Hoc = prueba de comando central único | **Descartado por la propia cobertura seria** |
-| Patrones de bots/cuentas falsas (Máspero vía Sagárnaga) | **Cerrado como patrón; financiador abierto** |
-| Captura política mileísta del relato “campaña” (reposts Milei) | **Cerrado** |
-| ~230.000 ha + recorte SNMF ~71,6% (FARN) | **Cerrado** |
-| Ministerio de Seguridad acusó mapuches; fiscal Díaz Mayer lo descartó | **Cerrado** |
-| RIGI litio > US$ 6.361 millones | **Cerrado** |
-| Acuerdos de Isaac (Cancillería, 19/04/2026) | **Cerrado** |
-| Isaac = vigilancia tipo Gaza / biometría en Patagonia | **Abierto — hipótesis, sin prueba pública** |
+Maximiliano Firtman (Perfil) y Bruno Sgarzini rastrean cuentas patrocinadas por **Rainbet** con millones de views sobre “ArgenFIFA” y faltas inventadas; Khalifa monetiza con **1WIN**. El ragebait tiene caja registradora. Eso amplía el “quién pone plata” sin reducirlo a un solo ministerio extranjero: hay granjas, hay apuestas, hay algoritmo, hay hechos racistas reales, y hay un oficialismo que convierte el ruido en escudo.
 
-El racismo produce hechos. Las redes amplifican y monetizan. El oficialismo convierte la ofensa reputacional en escudo que diluye la evidencia interna. La Patagonia arde con brigadas desfinanciadas mientras se inventa un enemigo mapuche que la Justicia desmiente. El litio avanza blindado por RIGI. Cancillería sella Isaac.
+---
 
-Tres capas, un mismo movimiento: quién merece tierra, agua, protección y nombre.
+## Cierre — capas que se suman
 
-Desestructurar la “campaña de odio” es impedir que el escudo digital tape la tierra. Los gestos de Miami y Atlanta, el fiscal de Lago Puelo, el presupuesto del fuego y el Boletín Oficial del RIGI pesan más que cualquier trending.
+```
+Racismo filmado (Speed/FIFA)
+  + ragebait con plata (Rainbet/algoritmo) + captura mileísta
+  + tierra (fuego −71,6% SNMF, estigma mapuche, RIGI litio)
+  + control (UIAAS + Isaac IA/antiterrorismo + Thiel + ARAD + caucus)
+  = quién merece nombre, tierra, agua y vigilancia
+```
+
+Desestructurar la “campaña de odio” es impedir que el escudo tape la tierra — y ver la tubería de control que crece al mismo tiempo. Detalle de fuentes ampliadas: [AMPLIACION_CAPAS_JULIO_2026.md](./AMPLIACION_CAPAS_JULIO_2026.md).
 
 ---
 
