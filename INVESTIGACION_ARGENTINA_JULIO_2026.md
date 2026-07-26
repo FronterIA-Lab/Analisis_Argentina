@@ -210,7 +210,7 @@ Isabel Santi: el dicho “acá no hay racismo porque no hay negros” afirma, im
 Según MDZ (25 jul. 2026) y el dossier de racismo:
 
 1. Durante el Mundial 2026 circula una ola de contenidos hostiles a la Selección (“campaña antiargentina”, teorías “ArgenFIFA”).
-2. Tras la derrota ante España en la final, celebridades (Samuel L. Jackson, Mia Khalifa; eco de Rosalía) festejan o encuadran la derrota como castigo a “uno de los países más racistas del mundo”.
+2. Tras la derrota ante España en la final, figuras públicas (Samuel L. Jackson; eco de Rosalía) festejan o encuadran la derrota como castigo a “uno de los países más racistas del mundo”. Apuestas públicas a España circulan en paralelo; no equivalen, por sí solas, a insulto ni a campaña.
 3. El algoritmo amplifica indignación: acusaciones globales desde desconocimiento + clips descontextualizados.
 4. Surge la contracampaña: Pigna y otros denuncian hipocresía colonial europea/estadounidense; sectores de redes locales convierten la defensa en **negación total**.
 

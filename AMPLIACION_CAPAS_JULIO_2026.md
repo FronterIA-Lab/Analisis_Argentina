@@ -11,7 +11,7 @@
 
 **Lo que amplía:**
 
-1. **Capa económica del ragebait.** Maximiliano Firtman (Perfil) y Bruno Sgarzini detectan cuentas patrocinadas por **Rainbet** (Curazao/Comoras) con millones de visualizaciones sobre faltas inventadas de Messi y “ArgenFIFA”. Mia Khalifa promociona ganancias en **1WIN** tras apostar a España. Perfil titula “el negocio de la bronca”: el odio factura. Eso no borra el racismo de tribuna; **explica por qué el ruido escala** y por qué el oficialismo puede montarse encima.
+1. **Capa económica del ragebait.** Maximiliano Firtman (Perfil) y Bruno Sgarzini detectan cuentas patrocinadas por casas de apuestas offshore, entre ellas Rainbet (Curazao/Comoras), con millones de visualizaciones montadas sobre jugadas polémicas y “ArgenFIFA”. Perfil titula “el negocio de la bronca”: el odio factura. Eso amplifica el ruido; el racismo de tribuna sigue en su propio piso.
 2. **Chequeado** documentó oleadas de fake news (virus en video, Haaland/Malvinas, IA). El dispositivo es mixto: bots + apuestas + algoritmo + hechos racistas reales.
 3. **Captura legislativa:** Tiempo Argentino — LLA usa la “campaña” para arancelar salud/educación a extranjeros. El escudo baja del feed al decreto.
 

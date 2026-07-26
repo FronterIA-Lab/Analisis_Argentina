@@ -88,7 +88,7 @@ Durante el Mundial, Ad Hoc midió 764.000 menciones Argentina–Israel. Diplomac
 
 ## Capa que faltaba: el negocio de la bronca
 
-Maximiliano Firtman (Perfil) y Bruno Sgarzini rastrean cuentas patrocinadas por **Rainbet** con millones de views sobre “ArgenFIFA” y faltas inventadas; Khalifa monetiza con **1WIN**. El ragebait tiene caja registradora. Eso amplía el “quién pone plata” sin reducirlo a un solo ministerio extranjero: hay granjas, hay apuestas, hay algoritmo, hay hechos racistas reales, y hay un oficialismo que convierte el ruido en escudo.
+Maximiliano Firtman (Perfil) y Bruno Sgarzini rastrean cuentas patrocinadas por casas de apuestas offshore, entre ellas Rainbet, con millones de views montadas sobre jugadas polémicas y el relato ArgenFIFA. El ragebait tiene caja registradora. Eso amplía el “quién pone plata” sin reducirlo a un solo ministerio extranjero: hay granjas, hay apuestas, hay algoritmo, hay hechos racistas reales, y hay un oficialismo que convierte el ruido en escudo.
 
 ---
 
