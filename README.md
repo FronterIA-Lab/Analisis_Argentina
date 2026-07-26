@@ -22,3 +22,7 @@ Pieza ceremonial (*Tlatoani* / *in tlilli, in tlapalli*): **[ARTICULO_BLOG_ESTER
 Versión lúcida (llano político): **[ARTICULO_LUCIDO_ESCUDO_Y_TIERRA.md](./ARTICULO_LUCIDO_ESCUDO_Y_TIERRA.md)** · [HTML](./ARTICULO_LUCIDO_ESCUDO_Y_TIERRA.html)
 
 Ampliación de capas (datos externos que engordan el análisis): **[AMPLIACION_CAPAS_JULIO_2026.md](./AMPLIACION_CAPAS_JULIO_2026.md)**
+
+## Análisis geopolítico (pieza central)
+
+**[ANALISIS_GEOPOLITICO_ARGENTINA_JULIO_2026.md](./ANALISIS_GEOPOLITICO_ARGENTINA_JULIO_2026.md)** · [HTML](./ANALISIS_GEOPOLITICO_ARGENTINA_JULIO_2026.html)
