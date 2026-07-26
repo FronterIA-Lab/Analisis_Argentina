@@ -2,7 +2,9 @@
 
 **Investigación de soberanía cognitiva · FronterIA-Lab**  
 **Fecha de cierre:** 26 de julio de 2026 (rev. triangulación web)  
-**Marco:** corpus documental del repositorio `Analisis_Argentina` + contraste analítico fuera de las dos narrativas hegemónicas en disputa + verificación externa vía búsqueda web (julio 2026)
+**Marco:** el corpus del repositorio formula la **pregunta** y el horizonte político. La **evidencia** de esta revisión son fuentes externas trianguladas (FIFA, Cancillería, Casa Rosada, Ad Hoc Digital vía Infobae, Clarín, FARN, AP/BBC, etc.). Los dossiers del repo **no cuentan como dato**.
+
+**Pieza pública basada en esa evidencia:** [ARTICULO_LUCIDO_ESCUDO_Y_TIERRA.md](./ARTICULO_LUCIDO_ESCUDO_Y_TIERRA.md)
 
 ---
 
