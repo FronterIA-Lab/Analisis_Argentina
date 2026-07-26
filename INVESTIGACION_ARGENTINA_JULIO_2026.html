@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Argentina, julio 2026 — Investigación FronterIA-Lab</title>
+<style>
+  :root {
+    --bg: #f7f3eb;
+    --ink: #1c1917;
+    --muted: #57534e;
+    --accent: #0f3d2e;
+    --line: #d6d3d1;
+    --quote: #e7e5e4;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+    color: var(--ink);
+    background:
+      radial-gradient(ellipse at top, #fffdf8 0%, var(--bg) 55%, #ebe4d8 100%);
+    line-height: 1.55;
+  }
+  main {
+    max-width: 820px;
+    margin: 0 auto;
+    padding: 2.5rem 1.25rem 4rem;
+  }
+  h1, h2, h3, h4 {
+    font-family: "Avenir Next", "Segoe UI", Helvetica, sans-serif;
+    color: var(--accent);
+    line-height: 1.25;
+  }
+  h1 { font-size: 1.85rem; margin-top: 0; }
+  h2 { font-size: 1.35rem; margin-top: 2.2rem; border-bottom: 1px solid var(--line); padding-bottom: .35rem; }
+  h3 { font-size: 1.1rem; margin-top: 1.6rem; }
+  p, li { font-size: 1.02rem; }
+  a { color: var(--accent); }
+  blockquote {
+    margin: 1.2rem 0;
+    padding: .85rem 1rem;
+    background: var(--quote);
+    border-left: 4px solid var(--accent);
+  }
+  blockquote p { margin: .35rem 0; }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.2rem 0;
+    font-size: .92rem;
+    background: #fff;
+  }
+  th, td {
+    border: 1px solid var(--line);
+    padding: .55rem .65rem;
+    vertical-align: top;
+    text-align: left;
+  }
+  th { background: #efeae2; }
+  code, pre {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    font-size: .88rem;
+  }
+  pre {
+    background: #1c1917;
+    color: #f5f5f4;
+    padding: 1rem;
+    overflow-x: auto;
+    border-radius: 4px;
+  }
+  hr { border: 0; border-top: 1px solid var(--line); margin: 2rem 0; }
+  ul, ol { padding-left: 1.3rem; }
+  @media print {
+    body { background: white; }
+    main { max-width: none; padding: 0; }
+    a { color: inherit; text-decoration: none; }
+  }
+</style>
+</head>
+<body>
+<main>
+<h1>Argentina, julio 2026: racismo de Estado, campaña de odio y despojo territorial</h1>
+<p><strong>Investigación de soberanía cognitiva · FronterIA-Lab</strong>  </p>
+<p><strong>Fecha de cierre:</strong> 26 de julio de 2026 (rev. triangulación web)  </p>
+<p><strong>Marco:</strong> corpus documental del repositorio <code>Analisis_Argentina</code> + contraste analítico fuera de las dos narrativas hegemónicas en disputa + verificación externa vía búsqueda web (julio 2026)</p>
+<hr>
+<h2>0. Pregunta de investigación</h2>
+<p>El README del repositorio formula el problema con precisión:</p>
+<blockquote>
+<p>Desestructurar la campaña de odio que denuncian y entender qué está pasando. […] lo de campaña de odio contra Argentina es una herramienta de Estado, lo mismo que el racismo […] los señalamientos que hay son reales […] el grupo de argentinos de redes […] se apropió de esa supuesta campaña para no aceptar lo obvio.</p>
+</blockquote>
+<p>La pregunta no es un ranking moral ni un tribunal de naciones. Tampoco se agota en “existe o no una campaña antiargentina”. Es más dura:</p>
+<p><strong>¿Cómo opera, a la vez, un racismo estructural históricamente construido —percibido, vivido, filmado— y una operación cognitiva que convierte su denuncia en “odio” o “victimismo”, desactivando el pensamiento crítico?</strong></p>
+<p>Este informe responde con tres capas que deben leerse juntas:</p>
+<ol>
+<li><strong>Genealogía del racismo argentino</strong> como proyecto de Estado (blanqueamiento, invisibilización, racialización de clase).</li>
+<li><strong>Dispositivo narrativo de la “campaña de odio”</strong> post-Mundial 2026 como instrumento de negación y cierre identitario.</li>
+<li><strong>Despojo territorial</strong> (Patagonia, litio, marcos comerciales) como materialización contemporánea del mismo orden racial-colonial.</li>
+</ol>
+<hr>
+<h2>1. Método y límites del corpus</h2>
+<h3>1.1 Materiales revisados</h3>
+<table>
+<tr><th>Tipo</th><th>Documento</th><th>Función en el análisis</th></tr>
+<tr><td>Dossier</td><td><code>DOSSIER_ARGENTINA_Y_EL_RACISMO.txt</code></td><td>Historia del racismo, vocabulario, negación, fuentes 2026 (Infobae, MDZ, Perfil/Adamovsky)</td></tr>
+<tr><td>Dossier</td><td><code>DOSSIER_RACISMO_EN_LATINOAMERICA.txt</code></td><td>Marco continental: mestizaje, “democracia racial”, racismo sin razas</td></tr>
+<tr><td>Dossier</td><td><code>DOSSIER_CAMPA_A_DE_ODIO_ARGENTINA.txt</code></td><td>Uso previo de “campaña de odio” (atentado a CFK, 2022): odio político ≠ racismo</td></tr>
+<tr><td>Dossier</td><td><code>DOSSIER_CAMPA_A_DE_ODIO_M_XICO___ARGENTINA_JULIO.txt</code></td><td>Captura fallida: calendario Mundial 2026; muestra el ruido informativo del vector</td></tr>
+<tr><td>Informe</td><td><code>La patagonia arde dos veces.pdf</code> (feb. 2026)</td><td>Racismo de Estado + narrativa de “terrorismo ambiental” + tierra post-incendio</td></tr>
+<tr><td>Libro</td><td><code>1028_Litio_en_Sudamerica.pdf</code> (Fornillo et al., 2019)</td><td>Despojo en salares, “minería del agua”, territorios vacíos</td></tr>
+<tr><td>Estadística</td><td><code>Argentina_Informe_SNIC_Nacional_2025.pdf</code></td><td>Silencio estadístico: seguridad sin odio étnico ni conflicto territorial</td></tr>
+<tr><td>Ensayo</td><td>Acuerdos ambientales anexos a TLC (OLCA)</td><td>Soberanía jurídica vaciada por mecanismos comerciales</td></tr>
+<tr><td>Contexto</td><td><code>El Mapa de la Resistencia…</code> (mayo 2026)</td><td>Marco geopolítico de alineamientos; se usa con reserva (ver §1.3)</td></tr>
+<tr><td>HTML</td><td><code>DOSSIER_RACISMO_ARGENTINA.html</code></td><td>Réplica web del corpus racismo</td></tr>
+</table>
+<h3>1.2 Criterio epistémico</h3>
+<p>Se distinguen tres tipos de afirmación:</p>
+<ul>
+<li><strong>Hechos verificables o altamente documentados</strong> (censos, fallos judiciales, genealogía constitucional, recortes presupuestarios citados en informes).</li>
+<li><strong>Interpretaciones académicas</strong> (Adamovsky, Morales, Wade, Margulis, van Dijk).</li>
+<li><strong>Narrativas en disputa</strong> (viral “país más racista”, defensa “campaña antiargentina”, marcos geopolíticos especulativos).</li>
+</ul>
+<p>El informe no adopta ninguna de las dos narrativas virales. Las trata como <em>objetos</em> a desarmar.</p>
+<h3>1.3 Acuerdos de Isaac: estratificación forense (corrección metodológica)</h3>
+<p>En la primera versión de este informe se condensó el marco de <em>El Mapa de la Resistencia…</em> como “hipótesis geopolítica, no hecho cerrado”. Esa formulación fue <strong>demasiado gruesa</strong>: mezcló en un solo cajón (a) hechos o patrones con respaldo fuerte en el resto del corpus, (b) afirmaciones mediáticas sobre un acuerdo Argentina–Israel, y (c) la interpretación maximalista del documento (vigilancia, biometría, “modelo Gaza”). Aquí se separan.</p>
+<h4>Por qué se aplicó cautela (y qué justifica esa cautela)</h4>
+<p>Al auditar <em>El Mapa de la Resistencia…</em> (mayo 2026) aparece esto:</p>
+<table>
+<tr><th>Problema epistémico</th><th>Evidencia en el propio texto</th></tr>
+<tr><td>Fuente madre del gran relato</td><td>La nota [1] —que sostiene guerra EE.UU./Israel–Irán, “Plan B” latinoamericano, bloques 120 vs 477 millones, etc.— apunta a un <strong>TikTok</strong> (<code>@javierhalamadrid</code>)</td></tr>
+<tr><td>Lagunas admitidas</td><td>La tabla país-por-país repite: <strong>“Información no disponible en fuentes proporcionadas”</strong> (Argentina incluida en la columna de datos de mayo)</td></tr>
+<tr><td>Contaminación de corpus</td><td>Se mezclan UNESCO, Banco Mundial, OCHA-Gaza, JSTOR con TikToks (incl. uno sobre el “Gral. Isaac Bravo” en México, homonimia irrelevante)</td></tr>
+<tr><td>Salto interpretativo</td><td>El texto dice explícitamente “según esta interpretación” al pasar de cooperación estratégica a exportación de vigilancia / “modelo Gaza”</td></tr>
+<tr><td>Autolimitación</td><td>Concluye que la semana 16–21 mayo “no está detallada en eventos específicos en las fuentes proporcionadas”</td></tr>
+</table>
+<p>Eso <strong>no autoriza a descartar el eje</strong>. Autoriza a no tomar el empaquetado narrativo como tratado verificado.</p>
+<h4>Tres capas que no deben confundirse</h4>
+<p><strong>Capa A — Patrón material documentado en otros textos del repo (alta confianza)</strong></p>
+<p>Independiente del nombre “Isaac”, el corpus sostiene:</p>
+<ol>
+<li><strong>Patagonia como territorio estratégico en disputa</strong>, no “desierto”: agua dulce, hidrocarburos, biodiversidad; tierra abierta a capital extranjero tras derogación de la Ley de Tierras (2023); Benetton ~900.000 ha; cuatro grupos extranjeros ~110.000 ha Bariloche–El Bolsón (<em>La Patagonia arde dos veces</em>).</li>
+<li><strong>Securitización racista del pueblo mapuche</strong> como enemigo interno (“terrorismo ambiental”), desmentida por la Justicia de Chubut, funcional al despojo.</li>
+<li><strong>Desfinanciamiento ambiental deliberado</strong> (presupuesto Ambiente −80%, brigadistas −50%, etc.) coherente con liberación de territorio.</li>
+<li><strong>Extractivismo de litio</strong> en Puna con narrativa de territorios vacíos y asimetría informativa (Fornillo et al.).</li>
+<li><strong>Aparato de seguridad que no tipifica odio étnico</strong> (SNIC) mientras la narrativa política sí fabrica amenazas.</li>
+</ol>
+<p>Esta capa <strong>no es hipótesis</strong>. Es el piso sobre el que cualquier alianza externa se apoya. Decir “Patagonia como infraestructura” en sentido de <em>territorio ofrecido al capital y al modelo securitario</em> está respaldado aquí; decir que eso ya está “instalado como base Isaac” exige otra prueba.</p>
+<p><strong>Capa B — Marco “Acuerdos de Isaac” (ahora triangulado: alta confianza sobre el anuncio oficial)</strong></p>
+<p>Triangulación web (26 jul. 2026) confirma el branding y el anuncio, no el relato maximalista:</p>
+<table>
+<tr><th>Fuente</th><th>Qué establece</th></tr>
+<tr><td><strong>Cancillería argentina</strong> (19 abr. 2026)</td><td>Milei y Netanyahu anuncian en Jerusalén el lanzamiento de los Acuerdos de Isaac: marco estratégico Argentina–Israel–“socios afines” del Hemisferio Occidental; lenguaje de “descendientes de Isaac” y “naciones de tradición judeocristiana”; ejes terrorismo / antisemitismo / narcotráfico; foco especial en Irán; cooperación en innovación, tecnología, comercio; inspiración en Acuerdos de Abraham (Trump); concebidos por Milei</td></tr>
+<tr><td>EFE / AJN / TRT Español / RPP</td><td>Mismo acto; memorandos en lucha antiterrorista, inteligencia artificial y transporte aéreo; ruta aérea directa Buenos Aires–Tel Aviv anunciada (El Al)</td></tr>
+<tr><td>Corpus <em>Mapa</em> (DEF Online, JPost)</td><td>Coherente con lo anterior como cobertura mediática del mismo anuncio</td></tr>
+</table>
+<p><strong>Qué queda verificado:</strong> el nombre “Acuerdos de Isaac”, la fecha, los firmantes simbólicos, el marco securitario-tecnológico-comercial y el lenguaje civilizatorio judeocristiano son <strong>hecho oficial + cobertura internacional</strong>, no invención de TikTok.</p>
+<p><strong>Qué sigue sin cerrarse:</strong> el texto integral de cada memorando, el volumen presupuestario, la presencia operativa en Patagonia, y cualquier cláusula de vigilancia/biometría. Eso no aparece en el comunicado de Cancillería.</p>
+<p><strong>Capa C — Interpretación geopolítica maximalista (sigue siendo hipótesis de trabajo)</strong></p>
+<p>Del anuncio oficial (Capa B) el <em>Mapa</em> y lecturas afines deducen:</p>
+<ul>
+<li>bloque de “gobiernos capturables” vs. “bloque soberano”;</li>
+<li>intercambio soberanía ↔ vigilancia/armamento/drones;</li>
+<li>Patagonia / zonas francas / Galápagos como nodos de infraestructura del pacto;</li>
+<li>datos biométricos de poblaciones racializadas para IA;</li>
+<li>continuidad colonial 1492 bajo lenguaje “judeocristiano”.</li>
+</ul>
+<p>El lenguaje oficial (“tradición judeocristiana”, antiterrorismo, Irán, IA) <strong>hace plausible</strong> leer el pacto como alineación securitaria civilizatoria. Eso no equivale a inventariar bases, drones o biometría racializada en Patagonia. La Capa C sigue siendo <strong>marco hermenéutico</strong>: útil anclada en Capa A + B; abusiva si se cita como tratado.</p>
+<h4>Criterio corregido (post-triangulación)</h4>
+<table>
+<tr><th>Afirmación</th><th>Estatus</th></tr>
+<tr><td>Argentina bajo Milei abre tierra patagónica y criminaliza mapuches</td><td><strong>Hecho de corpus + eco externo</strong> (Capa A)</td></tr>
+<tr><td>Existe un marco oficial “Acuerdos de Isaac” Argentina–Israel (19 abr. 2026)</td><td><strong>Hecho oficial triangulado</strong> (Capa B)</td></tr>
+<tr><td>Ese acuerdo = instalación de vigilancia tipo Gaza + biometría racializada en Patagonia</td><td><strong>Hipótesis interpretativa</strong> (Capa C)</td></tr>
+<tr><td>El patrón despojo + racismo de Estado + alineación securitaria externa es el conflicto central</td><td><strong>Conclusión analítica fuerte</strong>; el branding Isaac ahora es pieza verificada del alineamiento, no su prueba única</td></tr>
+</table>
+<p>En resumen: la reserva no era “ignorar Isaac”; era <strong>no dejar que un TikTok + collage de fuentes lleven el peso de toda la geopolítica</strong>. Con Cancillería + agencias internacionales, la Capa B sube de “pendiente” a <strong>hecho oficial</strong>. La Capa C no sube automáticamente.</p>
+<hr>
+<h2>2. Hallazgo central</h2>
+<p><strong>La “campaña de odio contra Argentina” y el racismo estructural no son hipótesis rivales: son dos caras del mismo dispositivo.</strong></p>
+<ul>
+<li>El racismo produce hechos visibles (cantos, gestos simiescos, estigmatización mapuche, xenofobia anti-boliviana/paraguaya, jerarquía color-clase).</li>
+<li>La narrativa de “campaña de odio” convierte esos hechos en <em>ataque externo</em>, permitiendo a un sector (mediático, político, de redes) afirmarse como víctima colectiva y negar, a la vez, la experiencia de argentinos no blancos.</li>
+<li>Esa negación —“nombrar el racismo es victimismo porque no existe”— es la fórmula que lo vuelve herramienta de Estado: no hace falta un régimen de segregación tipo Jim Crow si el mito de la Argentina blanca ya organiza oportunidades, tierra, seguridad y sentido común.</li>
+</ul>
+<p>El piso epistémico de esta investigación es uno solo:</p>
+<blockquote>
+<p><strong>Es ridículo decir que en Argentina no existe racismo.</strong></p>
+</blockquote>
+<p>Esa frase basta. No necesita segunda cláusula.</p>
+<h3>2.1 Crítica a la fórmula “existe, pero no es el más…”</h3>
+<p>Ezequiel Adamovsky (Perfil, 22 jul. 2026) formuló:</p>
+<blockquote>
+<p>Es ridículo decir que en Argentina no existe racismo; existe un racismo intenso. Pero es igualmente ridículo decir que es el país más racista del mundo.</p>
+</blockquote>
+<p>La primera mitad es correcta. La segunda <strong>parece equilibrada y no aporta nada</strong>: recentra el debate en un ranking imposible (“¿el más?”) que nadie puede medir y que nadie que vive el racismo necesita. Es una respuesta <strong>colonial</strong> en el sentido preciso:</p>
+<ol>
+<li>Acepta el tribunal del Norte (métrica comparativa global) como marco de validez.</li>
+<li>Trata la percepción de quienes son racializados como si exigiera prueba de “intensidad relativa”.</li>
+<li>Abre la puerta al negacionismo suave: “sí hay racismo, <em>pero</em>…” — y ese <em>pero</em> es el que desactiva.</li>
+</ol>
+<p>La percepción del racismo <strong>no necesita medidas</strong>. Quien recibe el gesto de mono, el “boliguayo”, el “cabecita negra” o el estigma mapuche no está midiendo un índice internacional: está leyendo un orden. Exigir ranking para legitimar esa lectura es otra forma de pedirle permiso al mismo sistema que blanqueó al país.</p>
+<p>Por eso esta investigación <strong>no parte del doble rechazo</strong> (ni viralismo ni negacionismo). Parte del rechazo al negacionismo. El viral “país más racista” se trata como ruido algorítmico —objeto a desarmar cuando opera como clickbait—, no como hipótesis rival que obligue a relativizar lo que ya está documentado y percibido.</p>
+<hr>
+<h2>3. Genealogía: el racismo como proyecto de Estado</h2>
+<h3>3.1 Arquitectura constitucional del blanqueamiento</h3>
+<p>El artículo 25 de la Constitución Nacional —intocado en todas las reformas— ordena fomentar la <strong>inmigración europea</strong>. Alberdi lo fundamentó con una jerarquía racial explícita: el gaucho, el cholo, el “roto” no podían, a su juicio, devenir obrero inglés; “gobernar es poblar” con poblaciones “civilizadas”.</p>
+<p>Eso no es folklore historiográfico. Es el software fundacional:</p>
+<ol>
+<li>Europa = progreso / América no europea = lastre.</li>
+<li>El Estado elige qué cuerpos cuentan como materia nacional.</li>
+<li>Lo indígena, afro y latinoamericano fronterizo queda fuera del “nosotros” deseable.</li>
+</ol>
+<h3>3.2 Conquista, “desierto” e invisibilización</h3>
+<p>La Campaña del Desierto (y su equivalente chaqueño) no fue solo guerra: fue producción de un vacío narrativo. “Poblar el desierto” significó, como resume Bartolomé, matar o desplazar a quienes ya habitaban. Roca formuló la contienda como “contienda de razas”. El Censo de 1895 anticipó una “nueva y hermosa raza blanca”.</p>
+<p>Paralelamente, la población afro —visible (~30% en Buenos Aires hacia 1830)— fue diluida demográficamente por inmigración europea, mestizaje y, sobre todo, por <strong>borrado censal y escolar</strong>. La pregunta afro reaparece en 2010; en 2022 se autorreconocen 302.936 personas (≈0,7%). Eso no “prueba” ausencia histórica: prueba éxito de la invisibilización.</p>
+<h3>3.3 El racismo argentino no es “como el de EE.UU.” — y eso no lo absuelve</h3>
+<p>Aquí está el truco cognitivo más eficaz:</p>
+<table>
+<tr><th>Comparador estadounidense/europeo</th><th>Forma argentina</th></tr>
+<tr><td>Segregación legal, Jim Crow, apartheid formal</td><td>Ausencia de segregación legal explícita</td></tr>
+<tr><td>Categorías rígidas blanco/negro</td><td>Ambigüedad mestiza + racialización de clase</td></tr>
+<tr><td>Racismo “reconocible” en discurso público</td><td>Negación: “acá no hay racismo porque no hay negros”</td></tr>
+</table>
+<p>Adamovsky y Morales coinciden: nunca hubo baños separados ni prohibición de matrimonio interracial; hubo, en cambio, un <strong>racismo social</strong> donde “negro” marca plebeyez, pobreza, origen provincial, rasgos amarronados, cultura popular —independientemente del fenotipo africano estricto—.</p>
+<p>Esa especificidad no refuta el racismo: lo hace más difícil de acusar con las categorías importadas del debate estadounidense. Por eso el conteo de “futbolistas negros en la Selección” es un indicador pobre; y por eso también es pobre usarlo para absolver al país.</p>
+<h3>3.4 Cuatro formas contemporáneas (síntesis Infobae / Palacios + corpus)</h3>
+<ol>
+<li><strong>Internalizado:</strong> vergüenza de reconocer raíz indígena (2,4–2,8% se reconoce indígena; estudios genéticos regionales muestran aportes mucho mayores).</li>
+<li><strong>Estructural:</strong> correlación color de piel / oportunidades educativas e ingresos; pobreza racializada.</li>
+<li><strong>Xenófobo regional:</strong> bolivianos, paraguayos, “boliguayos”; crímenes de odio documentados (Marcelina Meneses; condena a policía por intento de asesinato por ser boliviano).</li>
+<li><strong>Político-clasista:</strong> “cabecita negra”, “groncho”, antiperonismo racializado; estigma piquetero/villero.</li>
+</ol>
+<p>Teun van Dijk: el racismo argentino es, en buena medida, <strong>racismo europeo transplantado</strong> —contra indígenas, africanos, “cabecitas negras” e inmigrantes pobres de países limítrofes—.</p>
+<h3>3.5 Negación como tecnología</h3>
+<p>Isabel Santi: el dicho “acá no hay racismo porque no hay negros” afirma, implícitamente, el racismo subterráneo. Agustín Laje en 2022 (“no hay racismo en absoluto”) es la versión opinológica del mismo cierre. La negación no es ignorancia inocente: es <strong>gobierno del sentido común</strong>.</p>
+<hr>
+<h2>4. Julio 2026: el Mundial como catalizador cognitivo</h2>
+<h3>4.1 Cronología condensada del episodio</h3>
+<p>Según MDZ (25 jul. 2026) y el dossier de racismo:</p>
+<ol>
+<li>Durante el Mundial 2026 circula una ola de contenidos hostiles a la Selección (“campaña antiargentina”, teorías “ArgenFIFA”).</li>
+<li>Tras la derrota ante España en la final, figuras públicas (Samuel L. Jackson; eco de Rosalía) festejan o encuadran la derrota como castigo a “uno de los países más racistas del mundo”. Apuestas públicas a España circulan en paralelo; no equivalen, por sí solas, a insulto ni a campaña.</li>
+<li>El algoritmo amplifica indignación: acusaciones globales desde desconocimiento + clips descontextualizados.</li>
+<li>Surge la contracampaña: Pigna y otros denuncian hipocresía colonial europea/estadounidense; sectores de redes locales convierten la defensa en <strong>negación total</strong>.</li>
+</ol>
+<h3>4.2 Lo que sí es real (y no se disuelve con “campaña”)</h3>
+<p>Triangulación web (julio 2026) confirma episodios concretos, no solo “clips descontextualizados”:</p>
+<table>
+<tr><th>Hecho</th><th>Fuente externa</th></tr>
+<tr><td>Insultos racistas a IShowSpeed (Darren Watkins Jr.) por hincha con camiseta argentina en Argentina–Cabo Verde (Miami, 3 jul. 2026); frase reportada: “vete a llorar al zoológico” / “go cry to the zoo”</td><td>AP News; FIFA inicia investigación y condena racismo</td></tr>
+<tr><td>Gestos de “mono” / insultos hacia Speed en Argentina–Egipto (Atlanta, ~7 jul. 2026); insultos raciales/homófobos en video (“A casa… negro…”)</td><td>La Nación; Infobae; USA Today; Al Jazeera</td></tr>
+<tr><td>FIFA reitera “tolerancia cero”; investigación formal</td><td>Comunicado FIFA citado por AP/Al Jazeera</td></tr>
+</table>
+<p>Más allá del Mundial 2026, el corpus y el debate público siguen registrando:</p>
+<ul>
+<li>Vocabulario y prácticas racistas de larga data en canchas, redes y vida cotidiana (Los Pumas 2020; Advíncula; cantos xenófobos).</li>
+<li>Declaraciones oficiales o semioficiales racializantes (ej. “equipo africano” para Francia; fórmulas europeístas de presidentes).</li>
+<li>La experiencia cotidiana de argentinos marrones, indígenas, afro e inmigrantes regionales: no es un invento de TikTok.</li>
+</ul>
+<p><strong>Punto clave para el README:</strong> los gestos simiescos y el vocabulario anti-negro <strong>ocurrieron, fueron filmados y dispararon investigación FIFA</strong>. Eso no lo borra ninguna métrica de bots.</p>
+<h3>4.3 Lo que sí es operación (y no absuelve)</h3>
+<p>La triangulación también sostiene amplificación no orgánica —con matices que importan:</p>
+<table>
+<tr><th>Hallazgo</th><th>Fuente</th><th>Límite</th></tr>
+<tr><td>Análisis de ~300 mil publicaciones en X: mensajes idénticos, perfiles falsos, publicaciones simultáneas</td><td>Mercedes Máspero (citada por Facundo Sagárnaga / Aries)</td><td><strong>No identifica financiador</strong>; “alguien pone plata” es inferencia de escala</td></tr>
+<tr><td>Tres capas de actores: (1) bots/cuentas falsas, (2) creadores que monetizan la tendencia, (3) personas reales criticando episodios racistas reales</td><td>Sagárnaga / Máspero</td><td>El grupo (3) <strong>impide</strong> reducir toda crítica a “campaña”</td></tr>
+<tr><td>Cuatro ejes sincronizados (Ad Hoc): Argentina “racista”; vínculo Israel/Medio Oriente; #VARgentina/#ArgenFIFA; meta-denuncia de “campaña contra la Selección”</td><td>El Destape (25 jul. 2026) citando Ad Hoc</td><td>Volúmenes: ~826k menciones a racismo vs ~379k a “campaña antiargentina” — el eje racial <strong>superó</strong> al meta-relato de victimización</td></tr>
+<tr><td>Ragebait + revenue sharing: responder también paga al publicador de odio</td><td>La Nación / Agustín Giménez; ciclo de Esteban Cervi</td><td>Explica viralidad sin necesitar un solo “cerebro” estatal externo</td></tr>
+<tr><td>Fake news en oleadas (virus en video, anti-Messi, Haaland/Malvinas, IA)</td><td>Chequeado vía El Destape</td><td>Contaminación informativa real</td></tr>
+<tr><td>Legisladores de LLA usan la “campaña antiargentina” para relanzar arancelamiento de salud/educación a extranjeros</td><td>Tiempo Argentino</td><td>Ejemplo concreto de <strong>captura estatal-partidaria</strong> del relato</td></tr>
+</table>
+<p>También es real:</p>
+<ul>
+<li>El slogan viral “país más racista del mundo” es ruido de engagement, no diagnóstico. <strong>No hace falta refutarlo con un ranking inverso</strong>: basta no dejar que esa métrica secuestre la conversación sobre el racismo que sí existe y se percibe (§2.1).</li>
+<li>Hay asimetría: sociedades que “limpiaron” el lenguaje público perciben como abominable lo que en Argentina aún circula como humor o “costumbre”. Eso explica indignación externa; no absuelve ni relativiza lo interno.</li>
+<li>Sectores locales —incluidos influencers que venden una Argentina blanca, europea cuando discrimina y “latina” cuando se defiende— <strong>capturan</strong> la ofensa externa para cerrar la conversación interna.</li>
+</ul>
+<p>Esa disonancia cognitiva (europeos para discriminar / latinoamericanos para victimizarse) es exactamente el mecanismo que el README señala. No es anécdota: es la puesta en escena del mito blanqueador en redes.</p>
+<h3>4.3bis Síntesis post-web: coexistencia, no disyunción</h3>
+<pre><code>Episodios racistas verificables (Speed/FIFA, cancha, vida cotidiana)
+        +
+Semilla/amplificación inauténtica (bots, sync, IA, ragebait)
+        +
+Monetización algorítmica (también de la defensa argentina)
+        +
+Captura política local (&quot;somos víctimas → no hay racismo / castigar extranjeros&quot;)
+        =
+Escudo cognitivo que el README pide desestructurar</code></pre>
+<p>Quien diga “solo hubo campaña” miente por omisión. Quien diga “solo hubo racismo espontáneo sin amplificación” también. El dispositivo opera en el <strong>y</strong>.</p>
+<h3>4.4 “Campaña de odio”: genealogía del significante</h3>
+<p>El dossier <code>DOSSIER_CAMPA_A_DE_ODIO_ARGENTINA.txt</code> muestra que en 2022 “campaña de odio” ya circulaba para describir el azuzamiento político-mediático-judicial previo al atentado contra Cristina Fernández de Kirchner. Es decir: el sintagma existe en el léxico político argentino <strong>antes</strong> del Mundial 2026, asociado a crispación interna, no a racismo.</p>
+<p>En julio 2026 el mismo rótulo se <strong>desplaza</strong> hacia lo racial/internacional. Ese desplazamiento tiene utilidad:</p>
+<ol>
+<li>Unifica a “los argentinos” como víctima homogénea (borra a los argentinos racializados).</li>
+<li>Externaliza la causa (el problema viene de afuera).</li>
+<li>Invierte la carga: quien denuncia racismo pasa a ser agente de odio.</li>
+<li>Protege el mito blanco-europeísta bajo capa de antiimperialismo selectivo.</li>
+</ol>
+<p><strong>Conclusión operativa:</strong> puede haber amplificación algorítmica hostil <em>y</em> racismo estructural. Usar la primera para negar el segundo es la operación a desestructurar.</p>
+<hr>
+<h2>5. Despojo territorial: donde el racismo se vuelve tierra</h2>
+<p>El racismo de Estado no se agota en insultos. Se mide en quién puede habitar, quién es “terrorista”, quién pierde el agua del salar y quién compra hectáreas después del fuego.</p>
+<h3>5.1 Patagonia, febrero 2026: “Después del fuego, la tierra”</h3>
+<p>El informe <em>La Patagonia arde dos veces</em> documenta:</p>
+<ul>
+<li>Incendios en Chubut (&gt;25.000 ha); la Justicia provincial <strong>descartó</strong> autoría mapuche (fiscal Díaz Mayer: “totalmente descartado”).</li>
+<li>Aun así, Nación y el gobierno de Ignacio Torres impulsan la figura de “terrorismo ambiental” / enemigo interno mapuche.</li>
+<li>Contexto material: despidos masivos de brigadistas, presupuesto ambiental 2026 −80% vs 2023, Fondo de Bosques muy por debajo de la ley, derogación de la Ley de Tierras (2023), concentración de tierras en manos extranjeras (Benetton ~900.000 ha; grupos del Golfo/Europa en el eje Bariloche–El Bolsón).</li>
+<li>Genealogía: Conquista del Desierto → construcción mediática de la RAM (2017; Justicia de Esquel: organización inexistente / pruebas cuestionadas) → Maldonado / Nahuel → retorno del “monstruo” en 2026.</li>
+</ul>
+<p><strong>Triangulación web (ene.–feb. 2026):</strong></p>
+<table>
+<tr><th>Dato</th><th>Fuente externa</th></tr>
+<tr><td>Escala regional: ~230.000 ha afectadas (La Pampa, Chubut, Neuquén, Río Negro, Santa Cruz); gobernadores piden ley de Emergencia Ígnea</td><td>Wikipedia ES <em>Incendios forestales en Argentina de 2026</em>; AP citado por El Desconcierto</td></tr>
+<tr><td>Recorte al Servicio Nacional de Manejo del Fuego ~70–78% en presupuesto 2026</td><td>El Mundo; Agencia Nova; Fundación Ambiente y Recursos Naturales (vía El Desconcierto)</td></tr>
+<tr><td>Marcha por la soberanía / Lago Escondido 2026 vincula incendios, extranjerización y extractivismo</td><td>teleSUR / Columna Juana Azurduy</td></tr>
+<tr><td>Hipótesis de reordenamiento territorial post-fuego (no necesariamente “conspiración externa”)</td><td>Agencia Nova</td></tr>
+</table>
+<p>Aquí el racismo no es “opinión”: es <strong>fabricación de legítima defensa estatal</strong> para liberar territorio. El werken Orlando Carriqueo lo nombra sin metáfora: “Después del fuego, la tierra.” La web no “prueba” intencionalidad única del fuego; sí confirma escala, desfinanciamiento y disputa soberana sobre la tierra.</p>
+<h3>5.2 Litio: el despojo del Norte</h3>
+<p><em>Litio en Sudamérica</em> (Fornillo et al., 2019) muestra el otro polo:</p>
+<ul>
+<li>Triángulo del litio ≈ 68% de reservas en salares.</li>
+<li>En Argentina: provincialización minera, incentivos a capital extranjero, proyectos en Jujuy–Salta–Catamarca.</li>
+<li>“Minería del agua”: ~2 millones de litros evaporados por tonelada.</li>
+<li>Comunidades (Salinas Grandes–Guayatayoc, etc.) enfrentan licencias sin consulta libre, previa e informada (CPLI / Convenio 169 OIT).</li>
+<li>Narrativa de “territorios vacíos” / “zonas de sacrificio”: mismo software que el “desierto” del siglo XIX.</li>
+</ul>
+<p><strong>Triangulación web 2024–2026 (RIGI):</strong></p>
+<table>
+<tr><th>Dato</th><th>Fuente externa</th></tr>
+<tr><td>Mitad de los RIGI mineros aprobados son de litio; &gt;US$ 6.000 millones comprometidos (Rio Tinto Rincón, Exar, Posco, Galán, Liex, etc.)</td><td>Clarín (energía y minería)</td></tr>
+<tr><td>RIGI blinda beneficios 30 años; prioridad corporativa incluso ante escasez de agua; presión sobre consulta indígena</td><td>Observatorio RIGI; CELS; Amigos de la Tierra ALC</td></tr>
+<tr><td>Proyectos se superponen a conflictos previos por agua/territorio (Hombre Muerto, MARA, etc.)</td><td>Agencia Tierra Viva</td></tr>
+</table>
+<p>El racismo aquí aparece como <strong>epistemología extractiva</strong>: el saber comunitario del salar no cuenta; el EIA lo hace la empresa; el “atraso” indígena justifica el “desarrollo”. El RIGI es la forma jurídica contemporánea de ese vaciamiento.</p>
+<h3>5.3 TLC y vaciamiento jurídico</h3>
+<p>El ensayo de Yénive Cavieres (OLCA) sobre acuerdos ambientales anexos a TLC muestra otro engranaje: mecanismos de “peticiones” que simulan justicia sin bilateralidad, sin sanción y sin resolución de fondo. La soberanía ambiental se desplaza hacia procedimientos cosméticos mientras el comercio desregula. Es el complemento jurídico del despojo: no solo se quita tierra; se quita el foro donde reclamarla.</p>
+<h3>5.4 SNIC 2025: el mapa que no ve</h3>
+<p>El Informe SNIC (Ministerio de Seguridad, datos 2025) certifica calidad estadística “A” y exhibe caídas históricas de homicidios. Al mismo tiempo:</p>
+<ul>
+<li>No tipifica crímenes de odio étnico ni violencia anti-indígena como objeto propio.</li>
+<li>“Amenazas” suben (+5,3%) sin motivo desagregado.</li>
+<li>“Delitos migratorios” +103%.</li>
+<li>Conflictos mapuche / litio / Patagonia <strong>no existen</strong> como categoría.</li>
+</ul>
+<p>Ese silencio es soberanía cognitiva estatal: define qué cuenta como amenaza. El enemigo aparece en la narrativa política (“terrorismo mapuche”); desaparece en la estadística que legitima la política de seguridad.</p>
+<hr>
+<h2>6. Marco latinoamericano: por qué Argentina no es excepción ni anomalía única</h2>
+<p>Paul Wade (<em>Nueva Sociedad</em>): el mestizaje latinoamericano produce “racismo sin razas” —jerarquía color/clase conviviendo con negación y cordialidad relativa—. Brasil tuvo el mito de la “democracia racial”; Argentina tuvo el mito de la <strong>nación blanca europea</strong>. Son variantes del mismo velo.</p>
+<p>Diferencia argentina relevante:</p>
+<ul>
+<li>Mayor éxito simbólico del blanqueamiento → mayor indignación cuando el espejo internacional muestra negritud/marrónidad negada.</li>
+<li>Superioridad relativa frente a “lo latinoamericano” (frases de Alberto Fernández, Macri, etc.) genera resentimiento regional que el Mundial cataliza.</li>
+<li>Al mismo tiempo, las élites locales practican desprecio interno (“país bananero”, “conurbano africanizado”) que Adamovsky señala como prédica constante.</li>
+</ul>
+<p>Por eso la respuesta “Europa fue más racista” (Pigna) es históricamente cierta como reproche de hipocresía <strong>y</strong> analíticamente insuficiente: no responde a la pregunta de qué hace el Estado argentino con sus propios no blancos hoy.</p>
+<hr>
+<h2>7. Operación cognitiva: diagrama de la trampa</h2>
+<pre><code>Hechos racistas visibles (cancha, redes, Estado, tierra)
+              │
+              ▼
+┌─────────────────────────────┐
+│ Amplificación global        │
+│ (algoritmo + celebridades   │
+│  + categorías EE.UU.)       │
+└─────────────┬───────────────┘
+              │
+     ┌────────┴────────┐
+     ▼                 ▼
+ Acusación viral    Contracampaña
+ &quot;país más racista&quot;  &quot;campaña de odio&quot;
+     │                 │
+     └────────┬────────┘
+              ▼
+   Cierre del debate interno
+   (victimismo ↔ negacionismo)
+              │
+              ▼
+   Persistencia del orden:
+   blanqueamiento + despojo + seguridad</code></pre>
+<p><strong>Quién gana con el cierre:</strong> quienes necesitan tierra, mano de obra racializada barata, legitimidad securitaria y una identidad nacional no interrogada.  </p>
+<p><strong>Quién pierde:</strong> afroargentinos, pueblos originarios, migrantes regionales, clases populares amarronadas, y cualquier agenda antirracista seria.</p>
+<hr>
+<h2>8. Respuestas a las hipótesis del README</h2>
+<table>
+<tr><th>Hipótesis del README</th><th>Veredicto (corpus + web)</th></tr>
+<tr><td>La “campaña de odio antiargentina” funciona como herramienta (también) de Estado / sentido común dominante</td><td><strong>Sostenida.</strong> Amplificación inauténtica documentada <em>y</em> captura legislativa/partidaria del relato; opera como escudo cognitivo.</td></tr>
+<tr><td>El racismo está normalizado; nombrarlo = victimismo</td><td><strong>Sostenida.</strong> Genealogía de la negación desde el siglo XIX hasta Laje/Pigna-en-clave-absoluta.</td></tr>
+<tr><td>Los señalamientos (Mundial, gestos, etc.) son reales</td><td><strong>Sostenida y triangulada</strong> (Speed/FIFA/AP). La percepción de quienes los viven no necesita ranking global para ser válida.</td></tr>
+<tr><td>Influencers “verdaderos argentinos” (blancos) usan disonancia Europa/Latinoamérica</td><td><strong>Sostenida</strong> como patrón cultural del mito blanqueador en redes.</td></tr>
+<tr><td>Artículos que solo ven “campaña” desactivan pensamiento crítico</td><td><strong>Sostenida.</strong> Incluso los estudios de la “campaña” admiten críticas genuinas; el antídoto es historia + materialidad (tierra, agua, cárcel, ingreso, fuego, RIGI, Isaac).</td></tr>
+</table>
+<hr>
+<h2>9. Indicadores para seguir mirando (fuera del trending)</h2>
+<ol>
+<li><strong>Tierra y fuego:</strong> litigios post-incendio en Chubut/Río Negro; compraventa de hectáreas; reinstauración o no de límites a tierra extranjera.</li>
+<li><strong>Litio y agua:</strong> cumplimiento de CPLI; estudios hidrogeológicos independientes; conflictividad en Salinas Grandes / Olaroz / Hombre Muerto.</li>
+<li><strong>Estadística de odio:</strong> si el Estado crea (o sigue omitiendo) tipologías de crímenes de odio / violencia racista en SNIC u organismos equivalentes.</li>
+<li><strong>INADI y política antidiscriminación:</strong> capacidad real vs. vaciamiento institucional bajo el ciclo 2023–2026.</li>
+<li><strong>Representación y autorreconocimiento:</strong> evolución censal indígena/afro; sanciones deportivas; discurso oficial sobre pueblos originarios.</li>
+<li><strong>Lenguaje de seguridad:</strong> frecuencia de “terrorismo mapuche/ambiental” en comunicados vs. resoluciones judiciales.</li>
+</ol>
+<hr>
+<h2>10. Conclusión</h2>
+<p>Lo que está pasando en Argentina a julio de 2026 no se entiende si se elige un solo titular.</p>
+<p>Hay un <strong>racismo de larga duración</strong>, fabricado por el Estado moderno como nación blanca-europea, que racializa la clase, invisibiliza lo afro e indígena, xenofobiza al migrante limítrofe y hoy reaparece como estigma mapuche y como jerarquía cotidiana del color. Los incidentes Speed/FIFA lo volvieron innegable en el registro internacional.</p>
+<p>Hay, en paralelo, una <strong>operación narrativa</strong> —acelerada por el Mundial, bots, IA y ragebait monetizado— que traduce la denuncia de ese racismo en “campaña de odio”, permitiendo a un sector presentarse como víctima colectiva y aplazar toda autocrítica. Esa operación <strong>existe como patrón de amplificación</strong>; no absuelve los hechos.</p>
+<p>Y hay un <strong>piso material</strong>: fuego en la Patagonia con brigadas desfinanciadas, litio blindado por RIGI, tierra liberada al capital, alineación oficial con Israel bajo el nombre Acuerdos de Isaac, estadísticas de seguridad que no ven el odio étnico. Ahí el racismo deja de ser debate de redes y vuelve a ser lo que siempre fue en la formación del Estado argentino: criterio de quién merece territorio, agua, protección y nombre.</p>
+<p>Desestructurar la campaña de odio, como pide el README, no es negar que exista hostilidad externa ni amplificación interesada. Es impedir que esa hostilidad se convierta en el único relato disponible —porque ese relato, precisamente, es el que permite seguir negando lo obvio.</p>
+<hr>
+<h2>11. Anexo: bitácora de triangulación web (26 jul. 2026)</h2>
+<h3>11.1 Qué se pudo verificar</h3>
+<table>
+<tr><th>Pregunta abierta en v1</th><th>Veredicto post-web</th></tr>
+<tr><td>¿Existen los Acuerdos de Isaac?</td><td><strong>Sí.</strong> Anuncio oficial Cancillería 19/04/2026 + EFE/AJN/TRT</td></tr>
+<tr><td>¿Hubo gestos racistas documentados en el Mundial 2026?</td><td><strong>Sí.</strong> Speed en Miami y Atlanta; investigación FIFA; AP/Al Jazeera/La Nación/Infobae</td></tr>
+<tr><td>¿Hubo amplificación inauténtica?</td><td><strong>Sí, con matices.</strong> Máspero (~300k tuits); Ad Hoc (ejes sincronizados); ragebait</td></tr>
+<tr><td>¿Toda crítica = campaña?</td><td><strong>No.</strong> Los propios analistas de la “campaña” admiten críticas genuinas a episodios racistas</td></tr>
+<tr><td>¿Incendios Patagonia + desfinanciamiento?</td><td><strong>Sí, escala y recorte confirmados</strong> (~230k ha; −70/78% SNMF)</td></tr>
+<tr><td>¿Litio/RIGI avanza sobre territorios indígenas?</td><td><strong>Sí, patrón documentado</strong> (Observatorio RIGI, CELS, Tierra Viva, Clarín)</td></tr>
+<tr><td>¿Vigilancia tipo Gaza / biometría racializada en Patagonia vía Isaac?</td><td><strong>Sigue sin prueba independiente</strong> (Capa C)</td></tr>
+</table>
+<h3>11.2 Fuentes web usadas (además del corpus)</h3>
+<ol>
+<li>Cancillería argentina — “Argentina e Israel lanzan los Acuerdos de Isaac…” (19 abr. 2026)  </li>
+<li>EFE / AJN / TRT Español — cobertura firma Isaac  </li>
+<li>AP News; Al Jazeera; La Nación; Infobae; USA Today — Speed / FIFA  </li>
+<li>El Destape (25 jul. 2026) — Ad Hoc, Chequeado, ciclo del ragebait  </li>
+<li>Aries / Sagárnaga — Máspero, 300 mil tuits  </li>
+<li>La Nación / Agustín Giménez — amplificación + revenue sharing  </li>
+<li>Tiempo Argentino — captura legislativa LLA del relato “campaña”  </li>
+<li>Wikipedia ES / El Mundo / El Desconcierto / teleSUR / Agencia Nova — incendios Patagonia  </li>
+<li>Clarín; Observatorio RIGI; CELS; Agencia Tierra Viva; ATALC — litio/RIGI  </li>
+<li>BBC / Perfil / Clarín Cultura — Adamovsky (mito Argentina blanca)</li>
+</ol>
+<h3>11.3 Límites técnicos de esta revisión</h3>
+<ul>
+<li>La búsqueda web y snippets oficiales estuvieron disponibles; el fetch directo a muchos dominios sigue bloqueado por allowlist del entorno (no se descargaron PDFs de memorandos ni datasets crudos de X).</li>
+<li>No se auditó el dataset completo de Máspero ni el informe Ad Hoc en primario; se citan vía cobertura periodística.</li>
+<li>Capa C permanece abierta a prueba documental (texto de MOUs, contratos de seguridad, presencia operativa).</li>
+</ul>
+<hr>
+<h2>Fuentes primarias del repositorio (orden de uso)</h2>
+<ol>
+<li>README.md — pregunta y horizonte político  </li>
+<li>DOSSIER_ARGENTINA_Y_EL_RACISMO.txt — Wikipedia ES/EN; Infobae 12/03/2026; MDZ 25/07/2026; Perfil/Adamovsky 22/07/2026  </li>
+<li>DOSSIER_RACISMO_EN_LATINOAMERICA.txt — Wade, Nueva Sociedad; demás ensayos regionales  </li>
+<li>DOSSIER_CAMPA_A_DE_ODIO_ARGENTINA.txt — Público.es, 02/09/2022  </li>
+<li>La patagonia arde dos veces.pdf — feb. 2026  </li>
+<li>1028_Litio_en_Sudamerica.pdf — Fornillo (coord.), 2019  </li>
+<li>Argentina_Informe_SNIC_Nacional_2025.pdf — Ministerio de Seguridad  </li>
+<li>ACUERDOS AMBIENTALES… — Cavieres / OLCA  </li>
+<li>El Mapa de la Resistencia… — mayo 2026 (marco geopolítico; Capa B ahora triangulada)</li>
+</ol>
+<hr>
+<p><em>FronterIA-Lab · Soberanía cognitiva del Sur Global</em>  </p>
+<p><em>Documento generado para el repositorio Analisis_Argentina · julio 2026 · rev. triangulación web</em></p>
+</main>
+</body>
+</html>
