@@ -1,0 +1,112 @@
+======================================================================
+  DOSSIER DE INTELIGENCIA TERRITORIAL
+  FronterIA-Lab · 100tifiko v2
+======================================================================
+
+IDENTIDAD FORENSE
+----------------------------------------------------------------------
+  Vector            : campaña de odio argentina
+  Módulo            : Latinoamérica
+  Rango temporal    : sin límite temporal
+  Extracción        : 2026-07-26 01:23:35
+  Docs capturados   : 1
+  SHA-256 corpus    : 7b4cdead742f89d81db1d9d6942cc3e4d5ebce5056c65f5a41a8985bae705f8c
+  Operador          : 100tifiko v2 · FronterIA-Lab
+
+ESTADÍSTICAS EPISTÉMICAS
+----------------------------------------------------------------------
+  ✅ Prioritarios   :   0  (fuente confiable + score alto)
+  📄 Secundarios    :   0  (fuente confiable medio · O desconocida muy alto)
+  🔍 Para revisar   :   1  (fuente desconocida + score medio)
+  ❌ Descartados    :   8
+  ⏱  Fuera rango    :   0
+  ⚠️  Sin contenido  :   1
+
+DATOS DUROS DEL CORPUS
+----------------------------------------------------------------------
+
+  Territorios mencionados:
+    · cono sur
+    · honduras
+    · bolivia
+    · brasil
+    · argentina
+    · chile
+
+  Conflictos identificados:
+    (ninguno)
+
+  Términos epistémicos:
+    (ninguno)
+
+  Cifras verificables:
+    · 4 años  ×1
+    · 12 años  ×1
+
+  Fechas concretas:
+    (ninguno)
+
+  Actores nombrados:
+    · cono sur  ×4
+    · buenos aires  ×3
+    · cristina fernández de kirchner  ×2
+    · cristina kirchner  ×2
+    · latinoamérica
+desde  ×1
+    · fernando sabag montiel  ×1
+    · mientras cristina  ×1
+    · santiago de chile  ×1
+    · simón boric  ×1
+    · gabriel boric  ×1
+    · américa latina  ×1
+    · mauricio macri  ×1
+    · alberto fernández  ×1
+    · diego luciani  ×1
+    · néstor kirchner  ×1
+
+  Años referidos:
+    · 1983  ×1
+    · 2007  ×1
+    · 2010  ×1
+    · 2015  ×1
+    · 2019  ×1
+
+======================================================================
+MAPA DE FUENTES CAPTURADAS
+----------------------------------------------------------------------
+
+  PARA REVISIÓN MANUAL — 1
+    · publico.es  (12+32) · e60cb7ed
+      https://www.publico.es/internacional/lanzallamas-cono-sur-intento-magnicidio-argentina-evidencia-campana-odio-sufre-latinoamerica.html
+
+======================================================================
+CORPUS COMPLETO
+======================================================================
+
+[01/1]  REVISAR
+----------------------------------------------------------------------
+URL    : https://www.publico.es/internacional/lanzallamas-cono-sur-intento-magnicidio-argentina-evidencia-campana-odio-sufre-latinoamerica.html
+FECHA  : 2022-09-02
+SCORES : palabras 12 · densidad 32
+SHA256 : e60cb7ed38ce354093766f3e7b7580b09147b887cc4db9b2e176e2557e8f23b5
+----------------------------------------------------------------------
+
+Este artículo se publicó hace 4 años.
+Los lanzallamas del Cono Sur: el intento de magnicidio en Argentina evidencia la campaña de odio que sufre Latinoamérica
+Desde la política, los medios hegemónicos y los estamentos judiciales se azuza la crispación. El atentado fallido contra Cristina Fernández de Kirchner demuestra hasta qué punto la furia no cesa.
+Si la pistola de Fernando Sabag Montiel hubiera escupido una bala contra la cabeza de Cristina Fernández de Kirchner, Argentina sería hoy un polvorín a punto de explotar. Según las autoridades argentinas, el arma del fallido magnicida tenía cinco balas y espacio para ocho, pero no disparó porque la recámara estaba vacía cuando se apretó el gatillo. Antes de que el pistolero de origen brasileño se acercara a la vicepresidenta del gobierno haciéndose pasar por uno de sus simpatizantes, los lanzallamas políticos, mediáticos y judiciales de Argentina llevaban tiempo cargándose de odio. No se trata de un fenómeno exclusivo de Argentina. Se extiende por todo el Cono Sur. Mientras Cristina salía ilesa de causalidad en Buenos Aires, una turba se ensañaba en las afueras de la universidad de Santiago de Chile con Simón Boric, hermano del presidente Gabriel Boric, a pocos días de que se celebre el referéndum sobre la nueva Constitución, de marcado acento progresista.
+Las agresiones a Kirchner y al hermano de Boric se suman a otros actos violentos contra dirigentes y militantes políticos en América Latina. Pero lo sucedido anoche en Buenos Aires no tiene parangón. Las imágenes del magnicidio frustrado son estremecedoras. Y es imposible no pensar en las consecuencias que habría desencadenado el asesinato, televisado en vivo, de la principal figura política de Argentina en los últimos quince años.
+Los lanzallamas políticos, mediáticos y judiciales de Argentina llevan tiempo cargándose de odio
+Argentina soporta una crisis económica desde hace siete años. La última etapa de Cristina Kirchner (2007-2015) y el mandato del derechista Mauricio Macri fueron especialmente duros para millones de argentinos. Con el regreso del kirchnerismo al poder a finales de 2019 se abrió una pequeña ventana de esperanza, frustrada a los tres meses por la irrupción de la pandemia. Desde entonces, el país ha ido cuesta abajo. La inflación lleva ya varios años por encima del 50% y la economía no despega. Esa situación ha sido aprovechada por la oposición antiperonista para arremeter noche y día contra el presidente Alberto Fernández y su vicepresidenta.
+Como si el nivel de crispación política no fuera suficiente, la justicia (que siempre aparece a tiempo en el campo de batalla) sacó su propio lanzallamas: una acusación por corrupción contra Cristina. El fiscal Diego Luciani pide 12 años de cárcel para Kirchner y su inhabilitación perpetua para ejercer cargo público. En su alegato televisado, el fiscal asegura que se trata del mayor caso de corrupción de la historia de Argentina. Seguramente fue un lapsus pues Luciani olvidó mencionar los años de expolio público y privado (por no hablar de los miles de asesinatos y desapariciones forzosas) durante la dictadura cívico-militar. Una corrupción sistemática que se prolongó durante siete años (1976-1983). A Cristina Kirchner le han abierto varias causas judiciales en los últimos años. Ninguna de ellas ha prosperado. Hubo durante los gobiernos de Néstor Kirchner (fallecido en 2010) y Cristina varios funcionarios de alto rango y empresarios ligados al peronismo involucrados en actos de corrupción. Algunos de ellos están en la cárcel. Pero también hubo episodios de corrupción durante el mandato de Macri.
+Desterrados (aunque no del todo, ahí están los casos de Bolivia y Honduras) los golpes de Estado clásicos, los lanzallamas del Cono Sur se han escudado en las togas. El lawfare es ya una expresión de uso común en muchos países latinoamericanos para denunciar el grado de involucionismo judicial. La propia Cristina bautizó al colectivo de magistrados y fiscales conservadores que acosaban a su espacio político como el Partido Judicial.
+Desterrados los golpes de Estado clásicos, los lanzallamas del Cono Sur se han escudado en las togas
+Desde que el fiscal Luciani lanzó su acusación contra Kirchner hace diez días, la espiral de violencia dialéctica ha ido in crescendo. Patricia Bullrich, una ex ministra de Macri perteneciente al ala dura de la derecha, pidió hace unos días más mano dura contra los seguidores kirchneristas que se manifestaban en apoyo de su líder a las puertas de su casa, en el señorial barrio porteño de Recoleta, donde aparte de Cristina es difícil encontrarse con un peronista a no ser que sea un repartidor de comida a domicilio.
+Tras las acusaciones del fiscal contra Kirchner se han sucedido las manifestaciones de apoyo y repudio a la vicepresidenta. El sábado pasado la policía de la ciudad de Buenos Aires –cuyo alcalde es el conservador Horacio Rodríguez Larreta, antiguo número dos de Macri y hoy uno de los principales líderes de la derecha– cargó violentamente contra los kirchneristas congregados en los alrededores de la casa de Cristina.
+Los medios hegemónicos de Argentina también portan sus propios lanzallamas. Desde sus páginas, sus pantallas y sus emisoras de radio difunden bulos, intoxican y generan odios y rencores en la opinión pública. Horas después del atentado fallido contra Cristina se han escuchado voces mediáticas asegurando que Cristina, en el fondo, sale beneficiada electoralmente del trágico episodio. De momento, la clase política se ha solidarizado con la vicepresidenta y ha repudiado el acto terrorista. Pero puede que se trate tan solo de una breve tregua. Los lanzallamas siguen echando humo.
+Comentarios de nuestros socias/os
+¿Quieres comentar?Para ver los comentarios de nuestros socias y socios, primero tienes que iniciar sesión o registrarte.
+
+======================================================================
+
+FronterIA-Lab · 100tifiko · Soberanía cognitiva del Sur Global

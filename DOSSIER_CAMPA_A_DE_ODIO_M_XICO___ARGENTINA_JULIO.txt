@@ -1,0 +1,1388 @@
+======================================================================
+  DOSSIER DE INTELIGENCIA TERRITORIAL
+  FronterIA-Lab · 100tifiko v2
+======================================================================
+
+IDENTIDAD FORENSE
+----------------------------------------------------------------------
+  Vector            : campaña de odio México - Argentina julio de 2026
+  Módulo            : Latinoamérica
+  Rango temporal    : sin límite temporal
+  Extracción        : 2026-07-10 03:38:10
+  Docs capturados   : 4
+  SHA-256 corpus    : 99fd8fc5e84d44eb2bfe3df69779c6ec4dbb873a7774424adef15b5cb9d52b49
+  Operador          : 100tifiko v2 · FronterIA-Lab
+
+ESTADÍSTICAS EPISTÉMICAS
+----------------------------------------------------------------------
+  ✅ Prioritarios   :   0  (fuente confiable + score alto)
+  📄 Secundarios    :   0  (fuente confiable medio · O desconocida muy alto)
+  🔍 Para revisar   :   4  (fuente desconocida + score medio)
+  ❌ Descartados    :   4
+  ⏱  Fuera rango    :   0
+  ⚠️  Sin contenido  :   2
+
+DATOS DUROS DEL CORPUS
+----------------------------------------------------------------------
+
+  Territorios mencionados:
+    · argentina
+    · colombia
+    · ecuador
+    · brasil
+    · haití
+    · andes
+
+  Conflictos identificados:
+    (ninguno)
+
+  Términos epistémicos:
+    (ninguno)
+
+  Cifras verificables:
+    · 39 días  ×1
+
+  Fechas concretas:
+    · 7 de julio de 2026  ×2
+    · 19 de julio de 2026  ×1
+
+  Actores nombrados:
+    · estados unidos  ×2
+    · pulse enter  ×2
+    · estadio atlanta  ×2
+    · eastern time  ×1
+    · turquía                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    alemania  ×1
+    · curazao                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    países bajos  ×1
+    · japón                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    costa de marfil  ×1
+    · ecuador                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    suecia  ×1
+    · túnez                                    
+                                                            
+                        
+                        
+                                            
+                    lunes  ×1
+    · cabo verde                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    bélgica  ×1
+    · egipto                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    arabia saudita  ×1
+    · uruguay                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    irán  ×1
+    · nueva zelanda                                    
+                                                            
+                        
+                        
+                                            
+                    miércoles  ×1
+    · jordania                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    portugal  ×1
+    · congo                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    inglaterra  ×1
+
+  Años referidos:
+    · 2026  ×4
+    · 2024  ×1
+
+======================================================================
+MAPA DE FUENTES CAPTURADAS
+----------------------------------------------------------------------
+
+  PARA REVISIÓN MANUAL — 4
+    · worldcupstats.football  (10+25) · 7ad59ae1
+      https://worldcupstats.football/es/schedule/
+    · elmundo.es  (2+25) · a0f25197
+      https://www.elmundo.es/deportes/futbol/mundial/calendario.html
+    · as.com  (0+22) · 4cb24472
+      https://as.com/resultados/futbol/mundial/calendario/
+    · televisa.com  (4+16) · 9771e46d
+      https://www.televisa.com/canal5/mundial-2026/argentina-vs-egipto-ve-aqui-en-vivo-el-partido-del-mundial-2026
+
+======================================================================
+CORPUS COMPLETO
+======================================================================
+
+[01/4]  REVISAR
+----------------------------------------------------------------------
+URL    : https://worldcupstats.football/es/schedule/
+FECHA  : 2026-06-11
+SCORES : palabras 10 · densidad 25
+SHA256 : 7ad59ae18956ca4bfc783d0d9b68b58cba626287fb5e73aa6b97a19695dc0679
+----------------------------------------------------------------------
+
+Calendario de partidos
+Todos los partidos del Mundial FIFA 2026, desde la fase de grupos hasta la final
+El torneo se extiende durante 39 días con 104 partidos — desde el partido inaugural el 11 de junio hasta la final el 19 de julio de 2026 en el MetLife Stadium. Filtra por fase o estado para encontrar partidos próximos, en vivo y finalizados.
+Los horarios se muestran en ET (Eastern Time, UTC−5) — la zona horaria principal de las ciudades sede del torneo en EE.UU.
+Fase de grupos
+                    Domingo, 14 junio
+                    5 partidos
+                
+                                
+                    
+                            
+                                                                    
+                                    Australia                                                            
+                                                            
+                                    2 - 0                                                                    
+                                                        
+                                                                    Turquía                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Alemania                                                            
+                                                            
+                                    7 - 1                                                                    
+                                                        
+                                                                    Curazao                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Países Bajos                                                            
+                                                            
+                                    2 - 2                                                                    
+                                                        
+                                                                    Japón                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Costa de Marfil                                                            
+                                                            
+                                    1 - 0                                                                    
+                                                        
+                                                                    Ecuador                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Suecia                                                            
+                                                            
+                                    5 - 1                                                                    
+                                                        
+                                                                    Túnez                                    
+                                                            
+                        
+                        
+                                            
+                    Lunes, 15 junio
+                    4 partidos
+                
+                                
+                    
+                            
+                                                                    
+                                    España                                                            
+                                                            
+                                    0 - 0                                                                    
+                                                        
+                                                                    Cabo Verde                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Bélgica                                                            
+                                                            
+                                    1 - 1                                                                    
+                                                        
+                                                                    Egipto                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Arabia Saudita                                                            
+                                                            
+                                    1 - 1                                                                    
+                                                        
+                                                                    Uruguay                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Irán                                                            
+                                                            
+                                    2 - 2                                                                    
+                                                        
+                                                                    Nueva Zelanda                                    
+                                                            
+                        
+                        
+                                            
+                    Miércoles, 17 junio
+                    5 partidos
+                
+                                
+                    
+                            
+                                                                    
+                                    Austria                                                            
+                                                            
+                                    3 - 1                                                                    
+                                                        
+                                                                    Jordania                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Portugal                                                            
+                                                            
+                                    1 - 1                                                                    
+                                                        
+                                                                    R.D. del Congo                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Inglaterra                                                            
+                                                            
+                                    4 - 2                                                                    
+                                                        
+                                                                    Croacia                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Ghana                                                            
+                                                            
+                                    1 - 0                                                                    
+                                                        
+                                                                    Panamá                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Uzbekistán                                                            
+                                                            
+                                    1 - 3                                                                    
+                                                        
+                                                                    Colombia                                    
+                                                            
+                        
+                        
+                                            
+                    Jueves, 18 junio
+                    4 partidos
+                
+                                
+                    
+                            
+                                                                    
+                                    República Checa                                                            
+                                                            
+                                    1 - 1                                                                    
+                                                        
+                                                                    Sudáfrica                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Suiza                                                            
+                                                            
+                                    4 - 1                                                                    
+                                                        
+                                                                    Bosnia y Herzegovina                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Canadá                                                            
+                                                            
+                                    6 - 0                                                                    
+                                                        
+                                                                    Catar                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    México                                                            
+                                                            
+                                    1 - 0                                                                    
+                                                        
+                                                                    Corea del Sur                                    
+                                                            
+                        
+                        
+                                            
+                    Viernes, 19 junio
+                    4 partidos
+                
+                                
+                    
+                            
+                                                                    
+                                    Estados Unidos                                                            
+                                                            
+                                    2 - 0                                                                    
+                                                        
+                                                                    Australia                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Escocia                                                            
+                                                            
+                                    0 - 1                                                                    
+                                                        
+                                                                    Marruecos                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Brasil                                                            
+                                                            
+                                    3 - 0                                                                    
+                                                        
+                                                                    Haití                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Turquía                                                            
+                                                            
+                                    0 - 1                                                                    
+                                                        
+                                                                    Paraguay                                    
+                                                            
+                        
+                        
+                                            
+                    Sábado, 20 junio
+                    3 partidos
+                
+                                
+                    
+                            
+                                                                    
+                                    Países Bajos                                                            
+                                                            
+                                    5 - 1                                                                    
+                                                        
+                                                                    Suecia                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Alemania                                                            
+                                                            
+                                    2 - 1                                                                    
+                                                        
+                                                                    Costa de Marfil                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Ecuador                                                            
+                                                            
+                                    0 - 0                                                                    
+                                                        
+                                                                    Curazao                                    
+                                                            
+                        
+                        
+                                            
+                    Domingo, 21 junio
+                    5 partidos
+                
+                                
+                    
+                            
+                                                                    
+                                    Túnez                                                            
+                                                            
+                                    0 - 4                                                                    
+                                                        
+                                                                    Japón                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    España                                                            
+                                                            
+                                    4 - 0                                                                    
+                                                        
+                                                                    Arabia Saudita                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Bélgica                                                            
+                                                            
+                                    0 - 0                                                                    
+                                                        
+                                                                    Irán                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Uruguay                                                            
+                                                            
+                                    2 - 2                                                                    
+                                                        
+                                                                    Cabo Verde                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Nueva Zelanda                                                            
+                                                            
+                                    1 - 3                                                                    
+                                                        
+                                                                    Egipto                                    
+                                                            
+                        
+                        
+                                            
+                    Lunes, 22 junio
+                    4 partidos
+                
+                                
+                    
+                            
+                                                                    
+                                    Argentina                                                            
+                                                            
+                                    2 - 0                                                                    
+                                                        
+                                                                    Austria                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Francia                                                            
+                                                            
+                                    3 - 0                                                                    
+                                                        
+                                                                    Irak                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Noruega                                                            
+                                                            
+                                    3 - 2                                                                    
+                                                        
+                                                                    Senegal                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Jordania                                                            
+                                                            
+                                    1 - 2                                                                    
+                                                        
+                                                                    Argelia                                    
+                                                            
+                        
+                        
+                                            
+                    Martes, 23 junio
+                    4 partidos
+                
+                                
+                    
+                            
+                                                                    
+                                    Portugal                                                            
+                                                            
+                                    5 - 0                                                                    
+                                                        
+                                                                    Uzbekistán                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Inglaterra                                                            
+                                                            
+                                    0 - 0                                                                    
+                                                        
+                                                                    Ghana                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Panamá                                                            
+                                                            
+                                    0 - 1                                                                    
+                                                        
+                                                                    Croacia                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Colombia                                                            
+                                                            
+                                    1 - 0                                                                    
+                                                        
+                                                                    R.D. del Congo                                    
+                                                            
+                        
+                        
+                                            
+                    Miércoles, 24 junio
+                    6 partidos
+                
+                                
+                    
+                            
+                                                                    
+                                    Suiza                                                            
+                                                            
+                                    2 - 1                                                                    
+                                                        
+                                                                    Canadá                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Bosnia y Herzegovina                                                            
+                                                            
+                                    3 - 1                                                                    
+                                                        
+                                                                    Catar                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Escocia                                                            
+                                                            
+                                    0 - 3                                                                    
+                                                        
+                                                                    Brasil                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Marruecos                                                            
+                                                            
+                                    4 - 2                                                                    
+                                                        
+                                                                    Haití                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    República Checa                                                            
+                                                            
+                                    0 - 3                                                                    
+                                                        
+                                                                    México                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Sudáfrica                                                            
+                                                            
+                                    1 - 0                                                                    
+                                                        
+                                                                    Corea del Sur                                    
+                                                            
+                        
+                        
+                                            
+                    Jueves, 25 junio
+                    6 partidos
+                
+                                
+                    
+                            
+                                                                    
+                                    Ecuador                                                            
+                                                            
+                                    2 - 1                                                                    
+                                                        
+                                                                    Alemania                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Curazao                                                            
+                                                            
+                                    0 - 2                                                                    
+                                                        
+                                                                    Costa de Marfil                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Túnez                                                            
+                                                            
+                                    1 - 3                                                                    
+                                                        
+                                                                    Países Bajos                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Japón                                                            
+                                                            
+                                    1 - 1                                                                    
+                                                        
+                                                                    Suecia                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Turquía                                                            
+                                                            
+                                    3 - 2                                                                    
+                                                        
+                                                                    Estados Unidos                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Paraguay                                                            
+                                                            
+                                    0 - 0                                                                    
+                                                        
+                                                                    Australia                                    
+                                                            
+                        
+                        
+                                            
+                    Viernes, 26 junio
+                    6 partidos
+                
+                                
+                    
+                            
+                                                                    
+                                    Noruega                                                            
+                                                            
+                                    1 - 4                                                                    
+                                                        
+                                                                    Francia                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Senegal                                                            
+                                                            
+                                    5 - 0                                                                    
+                                                        
+                                                                    Irak                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Uruguay                                                            
+                                                            
+                                    0 - 1                                                                    
+                                                        
+                                                                    España                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Cabo Verde                                                            
+                                                            
+                                    0 - 0                                                                    
+                                                        
+                                                                    Arabia Saudita                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Nueva Zelanda                                                            
+                                                            
+                                    1 - 5                                                                    
+                                                        
+                                                                    Bélgica                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Egipto                                                            
+                                                            
+                                    1 - 1                                                                    
+                                                        
+                                                                    Irán                                    
+                                                            
+                        
+                        
+                                            Dieciseisavos de final
+                    Domingo, 28 junio
+                    1 partido
+                
+                                
+                    
+                            
+                                                                    
+                                    Sudáfrica                                                            
+                                                            
+                                    0 - 1                                                                    
+                                                        
+                                                                    Canadá                                    
+                                                            
+                        
+                        
+                                            
+                    Miércoles, 1 julio
+                    3 partidos
+                
+                                
+                    
+                            
+                                                                    
+                                    Inglaterra                                                            
+                                                            
+                                    2 - 1                                                                    
+                                                        
+                                                                    R.D. del Congo                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Bélgica                                                            
+                                                            
+                                    3 - 2                                                                    
+                                                        
+                                                                    Senegal                                    
+                                                            
+                        
+                        
+                                            
+                            
+                                                                    
+                                    Estados Unidos                                                            
+                                                            
+                                    2 - 0                                                                    
+                                                        
+                                                                    Bosnia y Herzegovina                                    
+                                                            
+                        
+                        
+                                            Octavos de final
+Cuartos de final
+                    Jueves, 9 julio
+                    1 partido
+                
+                                
+                    
+                            
+                                                                    
+                                    Francia                                                            
+                                                            
+                                    2 - 0                                                                    
+                                                        
+                                                                    Marruecos                                    
+                                                            
+                        
+                        
+                                            
+                    Viernes, 10 julio
+                    1 partido
+                
+                                
+                    
+                            
+                                                                    
+                                    España                                                            
+                                                            vs
+                                                        
+                                                                    Bélgica                                    
+                                                            
+                        
+                        
+                                            Semifinales
+                    Martes, 14 julio
+                    1 partido
+                
+                                
+                    
+                            
+                                                                    Por definir
+                                                            
+                                                            vs
+                                                        
+                                                                    Por definir
+                                                            
+                        
+                        
+                                            
+                    Miércoles, 15 julio
+                    1 partido
+                
+                                
+                    
+                            
+                                                                    Por definir
+                                                            
+                                                            vs
+                                                        
+                                                                    Por definir
+                                                            
+                        
+                        
+                                            Tercer puesto
+                    Sábado, 18 julio
+                    1 partido
+                
+                                
+                    
+                            
+                                                                    Por definir
+                                                            
+                                                            vs
+                                                        
+                                                                    Por definir
+                                                            
+                        
+                        
+                                            Final
+                    Domingo, 19 julio
+                    1 partido
+                
+                                
+                    
+                            
+                                                                    Por definir
+                                                            
+                                                            vs
+                                                        
+                                                                    Por definir
+
+======================================================================
+
+[02/4]  REVISAR
+----------------------------------------------------------------------
+URL    : https://www.elmundo.es/deportes/futbol/mundial/calendario.html
+FECHA  : 2018-05-17
+SCORES : palabras 2 · densidad 25
+SHA256 : a0f251979c7109ca94f9138301003458b4df4554668ae355f7e50fde9a80c925
+----------------------------------------------------------------------
+
+Portada
+Portada
+Portada
+Saltar a navegación principal (Pulse Enter)
+Saltar a contenido (Pulse Enter)
+Portada
+SUSCRÍBETE
+20%
+DTO.
+Iniciar sesión
+Compartir en Facebook
+Compartir en Twitter
+Enviar por email
+Secciones
+España
+España
+Madrid
+Andalucía
+Sevilla
+Málaga
+Elecciones Andalucía
+Aragón
+Baleares
+Ibiza
+Cataluña
+C. Valenciana
+Valencia
+Alicante
+Castellón al día
+Galicia
+Extremadura
+R. Murcia
+País Vasco
+El panel EM/Sigmados
+Opinión
+Opinión
+Editoriales
+Cartas al director
+Columnistas
+Blogs
+Actualidad Económica
+Actualidad Económica
+Dinero e inversión
+Ahorro
+Macroeconomía
+Vivienda
+Empresas
+Los más ricos
+Algoritmo
+Bolsa
+IBEX35
+Calculadora
+Mejores empresas
+Internacional
+Internacional
+Europa
+América
+Asia
+África
+Oceanía
+Deportes
+Deportes
+Fútbol
+Mundial Estados Unidos 2026
+LALIGA EA Sports
+LALIGA Hypermotion
+Champions League
+Europa League
+Copa del Rey
+Premier League
+Bundesliga
+Serie A
+Ligue 1
+Liga portuguesa
+Liga argentina
+EURO 2024
+UEFA Nations League
+Fútbol femenino
+Baloncesto
+Liga Endesa
+NBA
+Euroliga
+Copa del Rey
+Mundial
+Eurobasket
+Fórmula 1
+Motociclismo
+Tenis
+Open de Australia
+Roland Garros
+Wimbledon
+US Open
+Copa Davis
+ATP Finals
+WTA Finals
+Indian Wells
+Juegos Paralímpicos
+Juegos Olímpicos
+Ciclismo
+Giro de Italia
+Tour de Francia
+Vuelta a España
+Golf
+Boxeo
+Balonmano
+Liga Asobal
+EHF Champions League
+Mundial
+Europeo masculino
+Europeo femenino
+Rugby
+Seis naciones
+Fútbol sala
+Fútbol americano
+Pádel
+Más deporte
+Más motor
+Cultura
+Cultura
+Cine
+Premios Oscar
+Literatura
+Música
+Latin Grammy
+Teatro
+Arte
+Danza
+Cómic
+Fotografía
+Toros
+La Lectura
+Premios Goya
+LOC
+Televisión
+Televisión
+Medios
+Guía TV
+Momentvs
+Series
+Eurovisión
+Ciencia y Salud
+Ciencia y Salud
+Ciencia
+Salud
+Sostenibles
+La Lectura
+Vídeos
+Vídeos
+España
+Actualidad Económica
+Internacional
+Deportes
+Cultura
+LOC
+Televisión
+Ciencia y Salud
+Yo Dona
+Tecnología
+Viajes
+Zen
+Metrópoli
+Gran Madrid
+Papel
+Menú
+Secciones
+España
+Opinión
+Actualidad Económica
+Internacional
+Deportes
+Cultura
+LOC
+Televisión
+Ciencia y Salud
+La Lectura
+Vídeos
+Más webs de El Mundo
+Crónica
+YoDona
+Papel
+Gran Madrid
+LOC
+Metrópoli
+Viajes
+Motor
+El panel EM/Sigmados
+La Lectura
+Pixel
+Recetas
+EL MUNDO America
+FUTURE MAKERS
+Servicios
+Newsletters
+Traductor
+Guía TV
+Horóscopo
+El tiempo
+Conversor de divisas
+Cursos EM
+Ver todos
+Rankings
+Los más ricos
+Mejores empresas
+Mejores colegios
+Mejores universidades
+Mejores Masters
+Formación online
+Los dueños de los cotos de caza
+Más secciones
+Juegos
+Podcasts
+Metrópoli Entradas
+The Wall Street Journal
+Toros
+Elecciones
+Extras
+Últimas noticias
+Bazar, ofertas y regalos
+Cómo
+Loterías
+Comprobar Lotería de Navidad
+Mi bebé y yo
+Niños
+Recetas de cocina
+El tiempo de las mujeres
+Volver a:
+Deportes
+Fútbol
+Mundial Estados Unidos 2026
+LALIGA EA Sports
+LALIGA Hypermotion
+Champions League
+Europa League
+Copa del Rey
+Premier League
+Bundesliga
+Serie A
+Ligue 1
+Liga portuguesa
+Liga argentina
+EURO 2024
+UEFA Nations League
+Fútbol femenino
+Más
+SUSCRÍBETE
+20%
+DTO.
+Noticias
+Selección Española
+Resultados
+Calendario
+Fase de grupos
+Fase final
+Selecciones
+Palmarés
+Calendario Mundial 2026
+Todos los partidos
+Fase de grupos
+Grupo A
+Grupo B
+Grupo C
+Grupo D
+Grupo E
+Grupo F
+Grupo G
+Grupo H
+Grupo I
+Grupo J
+Grupo K
+Grupo L
+Dieciseisavos de final
+Octavos de final
+Cuartos de final
+Semifinales
+Tercer puesto
+Final
+Jornada 1
+Jornada 2
+Jornada 3
+Dieciseisavos de final
+Octavos de final
+Cuartos de final
+Semifinales
+Tercer y cuarto puestos
+Final
+
+======================================================================
+
+[03/4]  REVISAR
+----------------------------------------------------------------------
+URL    : https://as.com/resultados/futbol/mundial/calendario/
+FECHA  : 2026-07-10
+SCORES : palabras 0 · densidad 22
+SHA256 : 4cb24472e519d9b0ef560b24082c29b4a4e205d96090c8d8742b1e2c0005ae35
+----------------------------------------------------------------------
+
+CalendarioMundial 2026
+JUNIO 2026
+L
+M
+X
+J
+V
+S
+D
+Fase de Grupos
+Fase de Grupos
+Fase de Grupos
+Fase de Grupos
+Fase de Grupos
+Fase de Grupos
+Fase de Grupos
+Fase de Grupos
+Fase de Grupos
+Fase de Grupos
+Fase de Grupos
+Fase de Grupos
+Fase de Grupos
+Fase de Grupos
+Fase de Grupos
+Fase de Grupos
+Fase de Grupos
+Fase de Grupos
+Dieciseisavos
+Dieciseisavos
+JULIO 2026
+L
+M
+X
+J
+V
+S
+D
+Dieciseisavos
+Dieciseisavos
+Dieciseisavos
+Dieciseisavos
+Octavos
+Octavos
+Octavos
+Cuartos
+Cuartos
+Cuartos
+Cuartos
+Semifinal
+- 21:00CETFranciaFRA-Ganador 2º Cuartos--
+Semifinal
+- 21:00CETGanador 3º Cuartos--Ganador 4º Cuartos--
+3º y 4º Puesto
+- 23:00CETPerdedor 1º Semifinal--Perdedor 2ª Semifinal--
+Final
+- 21:00CETGanador 1º Semifinal--Ganador 2º Semifinal--
+
+======================================================================
+
+[04/4]  REVISAR
+----------------------------------------------------------------------
+URL    : https://www.televisa.com/canal5/mundial-2026/argentina-vs-egipto-ve-aqui-en-vivo-el-partido-del-mundial-2026
+FECHA  : 2026-07-07
+SCORES : palabras 4 · densidad 16
+SHA256 : 9771e46d19fd8c211eeab60586ed1c9396ea2bed34031efdc26a4aa1e4880e25
+----------------------------------------------------------------------
+
+Este martes 7 de julio, la pasión del Mundial 2026 continúa con uno de los partidos más esperados de la jornada: Argentina vs Egipto.
+Argentina vs. Egipto: Ve aquí EN VIVO el partido del Mundial 2026
+Argentina enfrenta a Egipto hoy en un duelo decisivo del Mundial 2026; conoce horario y cómo verlo en vivo
+La Selección Argentina, vigente campeona del mundo, se mide ante Egipto en un encuentro de eliminación directa que promete intensidad, figuras internacionales y mucha expectativa entre los aficionados.
+Argentina vs Egipto hoy: horario y dónde ver en vivo el partido este 7 de julio
+El partido Argentina vs Egipto se jugará hoy, martes 7 de julio de 2026, como parte de los octavos de final del Mundial 2026. El encuentro está programado para iniciar a las 10:00 a.m. en el Estadio Atlanta, en Estados Unidos.
+En México, el duelo podrá verse en vivo por ViX , plataforma que cuenta con cobertura deportiva y transmisión de partidos del Mundial.
+El duelo llama la atención por el choque entre dos selecciones con estilos muy distintos. Argentina llega como una de las grandes favoritas del torneo y con la presión de mantenerse con vida en la defensa de su título mundialista. Por su parte, Egipto buscará dar una sorpresa histórica en una fase decisiva.
+Además, el partido tendrá un atractivo especial por el posible duelo entre figuras como Lionel Messi y Mohamed Salah, dos referentes que han marcado época en el futbol internacional.
+¿Cómo ver Argentina vs Egipto EN VIVO por ViX?
+Para no perderte el encuentro, estos son los datos clave del partido:
+Partido: Argentina vs Egipto 
+ Fecha: martes 7 de julio de 2026 
+ Hora: 10:00 a.m. 
+ Transmisión: ViX 
+ Fase: Octavos de final 
+ Sede: Estadio Atlanta, Estados Unidos
+El ganador de este duelo avanzará a los cuartos de final, por lo que se espera un partido lleno de tensión, emoción y momentos decisivos.
+La cita es hoy a las 10:00 a.m. para disfrutar el Argentina vs Egipto EN VIVO únicamente por ViX. No te pierdas este duelo de octavos de final y sigue toda la emoción del Mundial 2026.
+
+======================================================================
+
+FronterIA-Lab · 100tifiko · Soberanía cognitiva del Sur Global

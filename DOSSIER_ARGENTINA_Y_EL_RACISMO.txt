@@ -1,0 +1,847 @@
+======================================================================
+  DOSSIER DE INTELIGENCIA TERRITORIAL
+  FronterIA-Lab · 100tifiko v2
+======================================================================
+
+IDENTIDAD FORENSE
+----------------------------------------------------------------------
+  Vector            : Argentina y el racismo
+  Módulo            : Latinoamérica
+  Rango temporal    : sin límite temporal
+  Extracción        : 2026-07-26 00:08:53
+  Docs capturados   : 5
+  SHA-256 corpus    : 4bcd13914a05554759bc44f8cef47cc09c940d6b5de30e28cfe162f3329b2992
+  Operador          : 100tifiko v2 · FronterIA-Lab
+
+ESTADÍSTICAS EPISTÉMICAS
+----------------------------------------------------------------------
+  ✅ Prioritarios   :   0  (fuente confiable + score alto)
+  📄 Secundarios    :   0  (fuente confiable medio · O desconocida muy alto)
+  🔍 Para revisar   :   5  (fuente desconocida + score medio)
+  ❌ Descartados    :   3
+  ⏱  Fuera rango    :   0
+  ⚠️  Sin contenido  :   2
+
+DATOS DUROS DEL CORPUS
+----------------------------------------------------------------------
+
+  Territorios mencionados:
+    · argentina
+    · patagonia
+    · andes
+    · bolivia
+    · brasil
+    · cuba
+    · chaco
+    · cono sur
+    · venezuela
+    · perú
+    · chile
+    · caribe
+
+  Conflictos identificados:
+    (ninguno)
+
+  Términos epistémicos:
+    (ninguno)
+
+  Cifras verificables:
+    · 22 años  ×2
+    · 5 millones  ×1
+    · 10 meses  ×1
+    · 15 años  ×1
+    · 19 años  ×1
+    · 32 años  ×1
+    · 70 años  ×1
+    · 13 años  ×1
+    · 3 meses  ×1
+    · 75.000 personas  ×1
+    · 2 millones  ×1
+    · 302.936 personas  ×1
+
+  Fechas concretas:
+    · 9 de abril de 2006  ×4
+    · 8 de septiembre de 2006  ×4
+    · 14 de julio de 1937  ×3
+    · 25 de febrero de 2017  ×3
+    · 10 de junio de 2021  ×3
+    · 23 de febrero de 2013  ×3
+    · 26 de febrero de 2017  ×3
+    · 9 de junio de 2021  ×2
+    · 25 de julio de 2018  ×2
+    · 2 de abril de 2008  ×2
+    · 30 de agosto de 2006  ×2
+    · 16 de marzo de 2007  ×2
+    · 7 de marzo de 2010  ×2
+    · 20 de diciembre de 2005  ×2
+    · 29 de diciembre de 2009  ×2
+
+  Actores nombrados:
+    · buenos aires  ×8
+    · estados unidos  ×7
+    · en la argentina  ×3
+    · la argentina  ×2
+    · en argentina  ×2
+    · la negra  ×2
+    · víctor ramos  ×2
+    · ariel armony  ×2
+    · in argentina  ×2
+    · latin american  ×2
+    · latin america  ×2
+    · inés palacios  ×2
+    · maia jastreblansky  ×2
+    · felipe pigna  ×2
+    · américa latina  ×2
+
+  Años referidos:
+    · 2010  ×3
+    · 2017  ×3
+    · 2022  ×3
+    · 1984  ×2
+    · 1989  ×2
+    · 1992  ×2
+    · 1993  ×2
+    · 1994  ×2
+    · 1995  ×2
+    · 1996  ×2
+    · 1997  ×2
+    · 1998  ×2
+    · 1999  ×2
+    · 2000  ×2
+    · 2001  ×2
+    · 2002  ×2
+    · 2003  ×2
+    · 2004  ×2
+    · 2005  ×2
+    · 2006  ×2
+    · 2007  ×2
+    · 2008  ×2
+    · 2009  ×2
+    · 2011  ×2
+    · 2012  ×2
+    · 2016  ×2
+    · 2019  ×2
+    · 2020  ×2
+    · 2021  ×2
+    · 2026  ×2
+    · 1980  ×1
+    · 1986  ×1
+    · 1988  ×1
+    · 2013  ×1
+    · 2014  ×1
+    · 2015  ×1
+    · 2018  ×1
+    · 2023  ×1
+    · 2024  ×1
+    · 2093  ×1
+
+======================================================================
+MAPA DE FUENTES CAPTURADAS
+----------------------------------------------------------------------
+
+  PARA REVISIÓN MANUAL — 5
+    · es.wikipedia.org  (20+437) · 79066843
+      https://es.wikipedia.org/wiki/Racismo_en_Argentina
+    · en.wikipedia.org  (10+143) · 68399ddf
+      https://en.wikipedia.org/wiki/Racism_in_Argentina
+    · infobae.com  (2+22) · 5a7573bb
+      https://www.infobae.com/sociedad/2026/03/12/por-que-la-argentina-enfrenta-dificultades-para-reconocer-su-raiz-indigena-y-debatir-el-racismo-estructural/
+    · mdzol.com  (2+30) · 9763a559
+      https://www.mdzol.com/sociedad/que-tipo-racismo-hay-argentina-el-analisis-historiadores-la-polemica-campana-redes-n1571319
+    · perfil.com  (8+26) · 98ea2d3a
+      https://www.perfil.com/noticias/sociedad/en-argentina-nunca-hubo-regimenes-de-segregacion-racial-como-hubo-en-estados-unidos-destaca-el-historiador-ezequiel-adamovsky.phtml
+
+======================================================================
+CORPUS COMPLETO
+======================================================================
+
+[01/5]  REVISAR
+----------------------------------------------------------------------
+URL    : https://es.wikipedia.org/wiki/Racismo_en_Argentina
+FECHA  : 2006-08-30
+SCORES : palabras 20 · densidad 437
+SHA256 : 79066843722ae693540efa105a05d8480eae526efaa4325e924bcb69afcd0d86
+----------------------------------------------------------------------
+
+Racismo en Argentina
+En Argentina existieron y existen conductas de discriminación relacionadas con las características étnicas o el origen nacional de las personas. A su vez, la discriminación de tipo racista suele estar íntimamente relacionada con conductas de discriminación por causas socioeconómicas y políticas.[1]
+Se han difundido términos y conductas para discriminar a ciertos grupos de población, en especial a aquellos denominados «negros», un grupo que en la Argentina no se encuentra claramente definido, pero se asocia, aunque no exclusivamente, con personas pertenecientes a la clase baja, pobres y, más recientemente con la delincuencia. También se han desarrollado términos y actitudes de tipo racista, xenófobo y despectivo para dirigirse a los inmigrantes. Antiguamente, «gallego», «tano», «turco» y «ruso» poseían connotaciones peyorativas, que aún continúan en los «chistes de gallegos» en el primer caso y en los insultos antisemitas, en el último.[2][3] El término «negro», cuando es usado en términos despectivos, se asocia, aunque no exclusivamente, con personas pertenecientes a la clase baja, los pobres y los excluidos, y más recientemente con la "delincuencia" y la "inseguridad".[3][4]
+El antisemitismo existe también en Argentina, en un marco influido por la gran inmigración de judíos y la presencia de una extensa comunidad y de un relativamente amplio mestizaje de los judíos con otros grupos de la población. Argentina es el único país de América en donde se ejecutó un pogromo (matanza de judíos) en 1919, durante la Semana Trágica en la presidencia de Hipólito Yrigoyen.[5] En 1910, el senador nacional Manuel Láinez presentó un proyecto de comunicación al Poder Ejecutivo en el que le solicitaba que redactara un anteproyecto de modificación de la ley migratoria; el proyecto en sí, que fue introducido sobre tablas (es decir que no estaba previsto en el orden del día de esa sesión), era breve e inocuo, pero la fundamentación que hizo Láinez en el Senado fue una agresiva descalificación de los inmigrantes sirio-libaneses (entonces llamados siro-otomanos), así fueran cristianos, musulmanes o judíos. Solo el senador por La Rioja Joaquín V. González pidió la palabra para refutar a Láinez.[6][7]
+En muchos casos, se han «racializado las relaciones sociales»,[8] y simplemente se utiliza el término «negro» para denominar al trabajador, obrero, etc. sin relación alguna con el tono de su piel. En las relaciones laborales es habitual, entre las personas que poseen cargos de importancia en empresas, referirse al conjunto de trabajadores de la empresa como los «negros».[8] También en la vida política es habitual utilizar la palabra «negros» por parte de ciertos grupos para referirse despectivamente a los simpatizantes del peronismo.[8][9][10]
+Existe una amplia discusión sobre el alcance de las conductas racistas en Argentina. Mientras algunos sectores[11] sostienen que se trata de comportamientos inofensivos o marginales rechazados por prácticamente la totalidad de la población, otros sectores[12][13][14] sostienen que el racismo es un fenómeno extendido y expresado de muy diversas maneras. Algunos grupos afirman también que las eventuales conductas racistas en Argentina no se diferencian de las que se presentan en los demás países del mundo, mientras que otros[15] sostienen que el racismo en Argentina tiene algunas particularidades en los modos en que se presenta, relacionadas con la historia, la cultura y los grupos étnicos que interaccionan.
+En 1995, la Ley 24515 creó el Instituto Nacional contra la Discriminación, la Xenofobia y el Racismo (INADI), que puso al país a la vanguardia de la lucha contra el racismo y la discriminación, aunque sin que aún se hayan obtenido grandes avances.[15]
+Hablando sobre la persistencia del discurso racista en el mundo, el lingüista neerlandés Teun A. van Dijk, ha sostenido que:
+La Argentina, tanto en su historia como en la actualidad, muestra muchas formas de racismo, desde la discriminación de indígenas y africanos y el racismo generalizado contra los «cabecitas negras» hasta el trato dispensado a los inmigrantes pobres de los países latinoamericanos cercanos. Por otro lado, también hay una conciencia antirracista y grupos, organizaciones y científicos que se oponen al racismo cotidiano.Teun van Dijk[16]
+Términos racistas
+[editar]En Argentina se utilizan una serie de términos con una cierta intencionalidad discriminatoria, que conforma un modo especial de racismo. Si bien estos términos están «inspirados» en una intención racista, la mayoría de ellos se utiliza sin referencia a la etnia concreta de una persona, con el fin de racializar las relaciones sociales.[8] Aún usadas en forma discriminatoria, palabras de uso cotidiano en Argentina, como «negro», «gronchada» o «grasa», no se refieren generalmente a la población fenotípicamente africana, de pequeña (pero creciente) presencia en el país, que da origen a la frase racista «en Argentina no hay negros», relacionándose más con la población fenotípicamente indígena y con los sectores sociales más postergados.
+«Negro»
+[editar]La utilización de la palabra «negro» y otras derivadas de la misma raíz en forma despectiva está difundida en Argentina, en casi todos los grupos sociales, incluso en aquellos que reciben el mote despectivo de «negro» por parte de otros grupos.[4][3] Sin embargo, es necesario destacar que también existe un amplio uso del término «negro» y «negra» con un significado absolutamente fraterno y carente de toda intención discriminadora.[17] Es un apodo muy común entre amigos y familiares. Por ejemplo, los admiradores de la famosa cantante Mercedes Sosa, la nombran cariñosamente como «La Negra».[18]
+La acepción racista del término «negro» muchas veces es utilizado en forma genérica por sectores de clase media o alta para referirse de manera despectiva a las clases bajas y marginales, independientemente de sus rasgos raciales. El prejuicio discriminatorio de estos sectores no reconoce barreras generacionales, ya que pasa de padres a hijos sin que la formación humanística que reciben los más jóvenes desde las instituciones educativas haga algo efectivo para revertirlo.
+Víctor Ramos, presidente de SOS Internacional, responde de este modo a la pregunta de un periodista sobre cuáles son los actos de racismo que se cometen más habitualmente en Argentina:
+Yo diría que lo más cotidiano y lo que vemos más frecuentemente nosotros, tiene que ver con un racismo hacia el criollo. Es decir, hacia el también denominado «cabecita negra» o «morocho». Muchas veces suele decirse que en Argentina no hay racismo porque no hay negros... pero acá se discrimina mucho a la persona que tiene la piel oscura e incluso al aborigen que tiene un color de piel más moreno... esto sucede en forma pareja en todas las provincias de nuestro país.Víctor Ramos[15]
+En 1996 durante un viaje diplomático a los Estados Unidos, cuando le preguntaron sobre la población negra de Argentina el presidente Carlos Menem respondió:
+Y esto dio a confusión debido a que en el español de Argentina, el significado de la palabra “negro” depende en gran medida del contexto. Cuando se utiliza para describir el color de piel, normalmente hace referencia a personas afrodescendientes las cuales representan un 0,4% de la población en Argentina. En cambio, la mayoría de las personas de piel morena, mestiza o de ascendencia indígena no suelen ser identificadas como “negras” únicamente por su apariencia.[21]
+Esto se relaciona, entre otros factores, con la historia demográfica del país. Argentina experimentó un importante mestizaje entre poblaciones indígenas, europeas y, en menor medida, africanas, por lo que gran parte de la población presenta rasgos mixtos. En la práctica, la palabra “negro” suele reservarse para personas afrodescendientes cuando se usa con un sentido estrictamente racial.[22]
+Fuera de ese contexto, “negro” también tiene otros usos propios del habla coloquial argentina —afectuosos, descriptivos o, en algunos casos, despectivos— que no necesariamente hacen referencia al color de la piel. Por ello, su significado no siempre coincide con el que tiene en otros países hispanohablantes.[23]
+Ariel Armony, un argentino residente en Canadá, donde dirige el Goldfarb Center, dentro del Colby College, ha llamado la atención en 2008 sobre la gravedad del racismo en Argentina y las divisiones sociales que esto conlleva:
+No es novedoso que se hable despectivamente de los «negros» en nuestro país. Lo he escuchado en mi casa, en el club, en la escuela. Lo que sí es nuevo es que se identifique públicamente a los «blancos» como responsables, o al menos cómplices, de la injusticia social. La Argentina intenta seguir viviendo la ilusión de ser un país racialmente homogéneo, mayormente europeo y, por ende, blanco, donde la discriminación no existe... No puedo creer que una persona con un mínimo de dignidad y contacto con la realidad pueda dudar de que la Argentina es un país en el que las divisiones entre «blancos» y «negros» (por más difícil que sea distinguir a veces entre unos y otros) son reales y tangibles.Ariel Armony[12]
+Derivaciones
+[editar]«Grone» (anagrama de «negro», en "vesre") también es un término racista de amplia utilización en Argentina, especialmente en Buenos Aires. Se trata de una palabra del lunfardo rioplatense, el vesre, que consiste en pronunciar la palabra invirtiendo sus sílabas.
+Un «grone» no es necesariamente una persona negra, ni de piel oscura. Básicamente es una persona a la que se desprecia por su condición social, frecuentemente un trabajador o hijo de éste, perteneciente a la clase baja o media baja. Puede decírsele «grone» también a una persona de piel, cabello y ojos claros, si pertenece a la clase baja o expresa gustos culturales populares. Más recientemente ha comenzado a ser habitual, en este tipo de racismo, asociar la condición de «grone» a la delincuencia.[24]
+«Groncho» es un término abiertamente racista,[25][26] ampliamente utilizado en Argentina y Uruguay,[27] que deriva de una corrupción de la palabra «negro».[28] Derivado de «groncho», se utiliza «gronchada», para referirse a un acto desagradable. Por ejemplo, una persona puede decir que un par de pantalones que no le gustan son «una gronchada», aludiendo a que es un estilo que podría ser utilizado por un «groncho».
+Es una palabra surgida en la segunda mitad de los años setenta.[29] En los años ochenta se realizó un exitoso «sketch» televisivo, dentro del programa Matrimonios y algo más, que se denominó «El groncho y la dama», protagonizado por Hugo Arana y Cristina del Valle. Se trataba de un «sketch» satírico en el que un trabajador mecánico estaba casado con una dama de clase alta, que lo denominaba «groncho» y se sentía seducida por la capacidad sexual del obrero.
+«Negrada» es un término ampliamente utilizado en Argentina y Uruguay y uno de sus significados racistas es idéntico a «gronchada» (por ejemplo, «la pelea de anoche fue una negrada», o «ese colegio es una negrada»).[30] También se utiliza como sustantivo colectivo con un sentido despectivo para referirse a un grupo de personas aludidas como «negras», aunque no lo sean. Un ejemplo de su uso es ofrecido por el pianista argentino Miguel Ángel Estrella al recordar los interrogatorios a que fue sometido en Uruguay cuando fue detenido-desaparecido durante la última dictadura militar en el marco del Plan Cóndor:
+Él manejaba los interrogatorios. Me decía: «Vos nunca más vas a tocar el piano. Porque vos no sos guerrillero, pero sos algo peor: con tu piano y tu sonrisa te metés a la negrada en el bolsillo y les hacés creer a los negros que pueden escuchar a Beethoven».Miguel Ángel Estrella[31]
+La revista Noticias difundió en 2016 el uso de la palabra "negro" y sus derivaciones, con significado peyorativo, por María Agustina “Puppi” Bonnecarrere, editora de fotos del PRO, partido presidido por Mauricio Macri. Entre las frases difundidas a través de Twitter, se encuentran las siguientes:
+- Me gusta estar negra carbón, ojo no confundir con negro sucio...
+- ¡Qué le pasa a Evo (Morales). Calla o llora, pero hablar no. No sabe hablar. OMG el bolita me sacó.
+- Haciendo zapping me encuentro con la gronchada y disparate de Operación Triunfo.
+- Me genera ira la gente que se alegra con la muerte de una persona. Mentalidad de pobre y negro.[32]
+«Indio»
+[editar]La palabra «indio» es común en el habla cotidiana argentina. Tiene y tuvo una carga racista menor que la palabra «negro». Incluso desde hace algunas décadas existe una amplia corriente cultural que ha impulsado el nombramiento de los hijos con nombres indígenas,[33] como Ayelén, Maitén, Lautaro, Nehuen, Pacha, Itatí, obligando incluso al Estado argentino a reformar las leyes que prohibían el uso de nombres indígenas.[34] Según el último informe de Amnistía internacional, de 2017, en Argentina hay una discriminación extendida y vulneración de derechos contra los pueblos originarios.[35]
+Sin embargo en ciertas oportunidades existe una carga levemente racista en el uso del término. Por ejemplo, la frase «¡niños, parecen unos indios!», aunque ya en cierto desuso, se entiende claramente como «sucios» o «desordenados» o también las frases (algunas autocalificativas) como «yo de pendejo era re indio» o «mi hermanito es un indio» son aún utilizadas para referirse a que la persona de la que se habla tiene actitudes de tipo violentas, irracionales o que actúa de manera impulsiva. Aunque también poseen connotaciones de desprolijidad o suciedad, se las utiliza más con una visión picaresca y hasta de jactancia.
+También existe una clara tendencia a denominar a todos los pueblos originarios con el término «indio», o «indígena», sin precisar a cual de ellos se está refiriendo el hablante, incluso conociéndolo. Esta costumbre es general y no solo para los argentinos[36] y se relaciona estrechamente con la conducta de invisibilización de las culturas y etnias no europeas.[37][38][39][40]
+Durante los sucesos que rodearon la desaparición de Santiago Maldonado, en el marco de una represión policial en una comunidad mapuche, se evidenció un extendido racismo contra los pueblos originarios, en las autoridades estatales, las fuerzas de seguridad, la población y los medios de comunicación, denominando en muchos casos a los indígenas con la palabra "negro", utilizada en forma despectiva.[41][42][43][44]
+«Mestizo»
+[editar]La palabra «mestizo» se utiliza muy poco en el habla cotidiana, aunque es relativamente usual utilizarla en el mundo académico, concretamente en ciencias sociales e históricas, en algunos casos con connotaciones racistas, y varios investigadores han replanteado el concepto de mestizo para referirse a cualquier intercambio de ADN[45] así como varios pensadores sostienen que todos los pueblos y razas son el resultado de mestizajes anteriores.[46]
+La idea racista del mestizaje subsiste aún en ciertos sectores, a comienzos del siglo XXI, como podría reflejar el debate sobre la eventual condición de mestizo de José de San Martín, uno de los padres de la patria. En ese sentido el historiador Hugo Chumbita sostuvo que «ha existido y hay aún resistencia a revisar la historia oficial por la idea de que, de corroborarse el origen mestizo de San Martín, se rebajaría su imagen».[47] En sentido similar se informa en un artículo periodístico que «“si el padre de la Patria es un mestizo bastardo, Argentina también lo es”, se quejaban las voces conservadoras».[48]
+Racismo «blanco-europeísta»
+[editar]Mario Margulis opinó que en Argentina se ha construido una difusa ideología racista fundada en la supremacía europea.[49] Teun van Dijk afirmó que en Argentina y América Latina tanto la izquierda política como la derecha no difieren fundamentalmente con respecto al tratamiento de los indígenas y los negros.[50][20]
+Esta ideología tiende a sostener que Argentina es un país poblado por inmigrantes europeos «bajados de los barcos», a los que suele denominársele «nuestros abuelos», que establecieron un tipo especial de población europea, no sudamericana, y «blanca».[50][20] Complementariamente, esta ideología tiende a considerar como poco relevante, y a veces indeseable, toda influencia cultural de poblaciones relacionadas con los pueblos originarios, africanos, latinoamericanos, o asiáticos. El racismo blanco-europeísta argentino tiene similitudes con la política de Australia Blanca llevada adelante desde principios del siglo XX.
+El racismo blanco-europeísta argentino se ha organizado desde la visión del Estado y tiene origen a partir de la interpretación del artículo 25 de la Constitución Nacional inspirado por Alberdi que establece una diferencia entre «inmigración europea» (que debe ser fomentada) e inmigración no europea, norma que no se alteró al hacerse las reformas en 1860, 1868, 1898, 1949, 1957, 1972 y 1994.
+Artículo 25: El Gobierno federal fomentará la inmigración europea; y no podrá restringir, limitar ni gravar con impuesto alguno la entrada en el territorio argentino de los extranjeros que traigan por objeto labrar la tierra, mejorar las industrias, e introducir y enseñar las ciencias y las artes.
+Así explicaba Alberdi, padre de la Constitución Argentina de 1853, los fundamentos de fomentar la inmigración europea para desarrollar la mano de obra en su libro Bases y puntos de partida para la reorganización nacional (1852):
+Haced pasar el roto, el gaucho, el cholo, unidad elemental de nuestras masas populares por todas las transformaciones del mejor sistema de instrucción; en cien años no haréis de él un obrero inglés que trabaja, consume, vive digna y confortablemente.
+Alberdi proponía que el idioma nacional fuese el francés, pues pensaba que las tradiciones hispánicas y cristianas eran contrarias al progreso.[52]
+Gobernar es poblar en el sentido que poblar es educar, mejorar, civilizar, enriquecer y engrandecer espontánea y rápidamente, como ha sucedido en los Estados Unidos. Mas para civilizar por medio de la población es preciso hacerlo con poblaciones civilizadas; para educar a nuestra América en la libertad y en la industria es preciso poblarla con poblaciones de la Europa más adelantada en libertad y en industria... hay extranjeros y extranjeros; y que si Europa es la tierra más civilizada del orbe, hay en Europa y en el corazón de sus brillantes capitales mismas, más millones de salvajes que en toda la América del Sur. Todo lo que es civilizado es europeo, al menos de origen, pero no todo lo europeo es civilizado; y se concibe perfectamente la hipótesis de un país nuevo poblado con europeos más ignorantes en industria y libertad que las hordas de la Pampa o del Chaco.
+De allí nace la frase popular "A este país lo fundaron los inmigrantes", principalmente se trataba de traer inmigrantes que provenían del noroeste de Europa, principalmente de Inglaterra y Francia, los países más progresistas en aquel tiempo.[54][55]
+Con tres millones de indígenas, cristianos y católicos, no realizaríais la república ciertamente. No la realizaríais tampoco con cuatro millones de españoles peninsulares, porque el español puro es incapaz de realizarla allá o acá. Si hemos de componer nuestra población para nuestro sistema de gobierno, si ha de sernos más posible hacer la población para el sistema proclamado que el sistema para la población, es necesario fomentar en nuestro suelo la población anglosajona. Ella está identificada con el vapor, el comercio y la libertad, y nos será imposible radicar estas cosas entre nosotros sin la cooperación activa de esa raza de progreso y de civilización.
+Aunque se haya tomado la Constitución como inspiración de la discriminación racial.
+Durante la llamada Argentina conservadora se buscaría expulsado trabajadores e inmigrantes que no se adecuarán al prototipo blanco que el gobierno buscaba.[57][58][59]
+Sarmiento en las Cartas Quillotanas donde le llega a criticar por su postura hacia los gauchos:
+“Ud. leía por la noche manuales de estrategia francesa y cuando a la mañana siguiente veía Ud. gauchos y no soldados europeos a su alrededor exclamaba: barbarie, atraso, rudeza!”.
+Sin embargo, con el paso del tiempo, el fracaso del gobierno en atraer inmigración masiva de esos tres países, y por el contrario, ante el hecho consumado de la inmigración de grandes contingentes de italianos y en menor proporción de españoles, la ideología racista terminó por incluir también a estos grupos como «europeos» y «blancos». Esta tendencia fue fortalecida recientemente con el ingreso de Italia, y sobre todo España, a la Unión Europea. Por el contrario, con respecto a los judíos, la ideología racista argentina se fue consolidando como antisemita, con el paso del tiempo. El punto más alto de esa tendencia fue la orden secreta del canciller del presidente Roberto M. Ortiz en 1938 para negar las visas a los judíos.[61]
+Entre los principales inspiradores del racismo y de la discriminación racial argentina se encuentran Domingo F. Sarmiento, Juan B. Alberdi, José Ingenieros, José María Ramos Mejía, etc.[62] Más recientemente, los gobiernos militares elaboraron textos y políticas inspiradas en este peculiar racismo argentino, que reforzaron la ideología y le dieron connotaciones políticas.
+José Hernández en su célebre poema El Gaucho Martín Fierro refleja el racismo de la época contra el gaucho y la población criolla, a la vez de poner en boca del protagonista expresiones discriminatorias, mostrándolo a su vez racista hacia los afroargentinos, indígenas e inmigrantes italianos, especialmente.[63][64][65]
+Domingo F. Sarmiento,[66] quien fuera presidente durante la gran epidemia de fiebre amarilla en Buenos Aires y la guerra del Paraguay, hechos a los que tradicionalmente se les ha asignado el exterminio de la población negra del país (aunque los estudios históricos de las últimas décadas han mostrado que la población negra no ha desaparecido totalmente),[67][68][69] escribió en 1848 en su diario de viaje a Estados Unidos:
+La esclavitud de los Estados Unidos es hoy una cuestión sin solución posible; son cuatro millones de negros, y dentro de veinte años serán ocho. Rescatados, ¿quién paga los mil millones de pesos que valen? Libertos, ¿qué se hace con esta raza negra odiada por la raza blanca? Los estados libres son superiores en número y riqueza a los estados de esclavos... ¿Pero adónde irían cuatro millones de libertos? He aquí un nudo gordiano que la espada no puede cortar y que llena de sombras lúgubres el porvenir tan claro y radioso sin eso de la Unión Americana. Ni avanzar ni retroceder pueden; y mientras tanto la raza negra pulula, se desenvuelve, se civiliza y crece. ¡Una guerra de razas para dentro de un siglo, guerra de exterminio, o una nación negra atrasada y vil, al lado de otra blanca, la más poderosa y culta de la Tierra![70]
+La deficiencia del indio, aun ya civilizado y libre, y aun afincado, es que no tiene conciencia de sus derechos personales. Los negros son capaces de entusiasmo y sensibles a muchos buenos estímulos. El indígena, salvo antagonismos de raza, es menos susceptible.[71]
+Al respecto de esto, un hito importante a la tradición «europeizante» fue la publicación en 1904 de la novela Alegre por parte del escritor Hugo Wast. Alegre trata la historia de un joven inmigrante africano traído como esclavo a estas orillas, y desafía el mandato de invisibilidad de la cultura local conservadora que pretendía negarle a los negros una parte de la identidad nacional. Inspirado en la conocida novela La cabaña del tío Tom, Alegre es una novela que trata a un africano de piel negra esclavo en estas tierras como el protagonista de la historia y el héroe.
+El historiador Ezequiel Adamovsky, en un artículo titulado «Gringos y negros», publicado en 2008, ha señalado la profundidad de los fenómenos racistas en Argentina y su imbricación con el conflicto social. Adamovsky sostiene que:
+En Argentina, la jerarquía que da el dinero coincide casi perfectamente con la que da el color de la piel. Existen varios motivos históricos para esta superposición de la clase con la «raza». Uno, no menor, es que las elites que en el siglo XIX organizaron el país tomaron decisiones económicas y políticas que terminaron beneficiando más a los inmigrantes europeos que ellas mismas convocaron, que a los nativos de este suelo... El ocultamiento de la «negritud» bajo el mito de Argentina blanca fue y sigue siendo una forma de racismo implícito. Pero toda vez que «los negros» se hicieron notar en la historia nacional, el racismo se manifestó de manera más explícita... Aunque sigamos negándonos a reconocerlo, la sociedad argentina está dividida según líneas de clase y de color de piel que existen desde hace mucho tiempo.Ezequiel Adamovsky.[13]
+La revista Billiken, fue criticada por tratamientos a ciertos temas con posiciones racistas. Como fue en el caso de una tapa titulada: "Vos, yo y la raza blanca", donde ponían a un niño blanco con ojos verdes, un niños japonés con ojos oblicuos y un niño negro de pelo crespo.[72]
+En 2016 se generó una fuerte polémica por las expresiones utilizadas por la conocida conductora de televisión Pamela David sobre la familia del presidente en ejercicio Mauricio Macri, a la que elogió calificándola como "una familia blanca, hermosa, pura". A raíz de su comentario, David fue criticada por racista.[73][74]las levas forzosas de gauchos para luchar contra los indígenas.
+También es controvertida su posición respecto de los aborígenes,[75] a los gauchos[76] y a los judíos.[77] En la misma línea de su famoso compañero unitario Esteban Echeverría, que desprecia al pueblo bonaerense y lo trata de «chusma», además de repudiar a negros y gauchos en El matadero (1840).
+El 9 de junio de 2021 el presidente Alberto Fernández en el marco de la visita a la Argentina del presidente de España Pedro Sánchez dijo que “Los mexicanos salieron de los indios, los brasileros salieron de la selva, pero nosotros los argentinos llegamos de los barcos, y eran barcos que venían de Europa, y así construimos nuestra sociedad”.[78][78][79] Fernández dijo el mismo día en las redes sociales: “Se afirmó más de una vez que `los argentinos descendemos de los barcos´. En la primera mitad del siglo XX recibimos a más de 5 millones de inmigrantes que convivieron con nuestros pueblos originarios. Es un orgullo nuestra diversidad”. “A nadie quise ofender, de todas formas, quien se haya sentido ofendido o invisibilizado, desde ya mis disculpas”.[78][79]
+Racismo contra los habitantes de las provincias
+[editar]Una manifestación del racismo en la Argentina, es el trato despectivo por parte de quienes viven en la ciudad autónoma de Buenos Aires, denominados porteños, contra las personas que viven en las provincias, referidas a veces con términos también despectivos, como "pajuerano" (de afuera) y en ocasiones "provinciano", sobre todo cuando se utiliza de manera genérica, sin precisión de la provincia correspondiente. Un caso de este tipo de racismo le fue imputado en 2015 al economista y político Alfonso Prat Gay, quien se desempeñó como ministro de Economía del presidente Mauricio Macri. Prat Gay dijo en ese momento:
+Somos un país muy culto, no sea que en el 2020 nos veamos gobernados por un fulano de tal que vino de Santiago del Estero.Alfonso Prat Gay[80]
+Racismo contra jujeños
+[editar]Jujuy es una provincia que tiene niveles de racismo superiores a la media nacional. Una investigación del INADI de 2014, señaló que mientras que la media nacional de personas que se sienten discriminadas «por el color de su piel» es del 18%, en Jujuy esa percepción sube al 30%. Simultáneamente, existe en Jujuy un alto nivel de racismo contra los pueblos originarios, que llega a un nivel de discriminación percibida por sus integrantes del 77%, superior incluso a las altas medias tomadas en otras provincias donde la discriminación percibida llega al 75,8%.[81]
+En febrero de 2020, Elizabeth Vernaci en su programa de radio La Negra Pop hizo comentarios despectivos contra los habitante de la provincia de Jujuy, como: "Jujuy es Bolivia, alguien tiene que decirlo" o "los jujeños son sufridos". Esto causó una fuertes críticas en las redes sociales hacia Vernaci, por lo cual tuvo que disculparse. El INADI tomó acciones por sus dichos.[82]
+Investigadores y observadores también han llamado la atención sobre el racismo contra los indígenas jujeños que ha quedado en evidencia en el caso de la dirigente social Milagro Sala, especialmente en las construcciones mediáticas y culturales acerca de la "modestia", la "humildad" y la abstención de un compromiso con la política que "debiera tener" un dirigente social e indígena.[83][84]
+La propia Milagro Sala ha denunciado el trato racista al afirmar que «“me investigan por negra, coya e india”.»[85]
+El colectivo Identidad Marrón Jujuy, integrado por artistas y actrices jujeñas, sostiene que:
+En Jujuy la discriminación es corriente, hay discriminación sobre los cuerpos y rasgos físicos. Por ejemplo, los medios de comunicación de Jujuy tienen en su mayoría imágenes de mujeres que responden al estereotipo de belleza europea, si hay personas marrones al aire en su mayoría son hombres. Entonces queremos cuestionar ese imaginario del Jujuy en donde las reinas son mujeres de ojos verdes y rubias y visibilizar al Jujuy de rasgos indígenas y pieles marrones. En Jujuy existe el racismo escondido y es cotidiano.[86]
+Xenofobia contra otros latinoamericanos
+[editar]En Argentina existe un amplio y expandido racismo contra las personas provenientes de otros países latinoamericanos, y muy especialmente contra bolivianos, chilenos, paraguayos y también a los brasileños y peruanos.[4][87][3]
+Xenofobia contra bolivianos y paraguayos
+[editar]Los paraguayos y los bolivianos son las dos principales corrientes inmigratorias hacia Argentina en los últimos años y han formado grandes comunidades.[88][89]
+Sin embargo, estas comunidades son, actualmente, a las que los argentinos demuestran más desprecio e intolerancia. En 2008, la justicia argentina condenó a 22 años de prisión a un policía por lesiones e intento de asesinato de un joven por el simple hecho de ser boliviano. La pena reflejó la agravante contemplado en la ley antidiscriminatoria 23.592, cuando el delito «sea cometido por persecución u odio a una raza, religión o nacionalidad».[90]
+Un buen ejemplo sobre la xenofobia que viven estas comunidades es que bajo el lema de «No se olviden de Marcelina», la comunidad boliviana en Argentina denuncia el asesinato por motivos racistas de Marcelina Meneses y su hijo Josua Torrez de 10 meses de edad, empujados de un tren en movimiento cerca de la estación de Avellaneda, el 10 de enero de 2001.[91]
+Otro ejemplo de la amplia difusión de la discriminación contra las comunidades paraguayas y bolivianas, el 8 de marzo de 2009 se jugaba un partido de fútbol entre Independiente y Boca Juniors cuando en el entretiempo la hinchada de Independiente comenzó a flamear banderas de Bolivia y Paraguay. La actitud fue generalizadamente comprendida como discriminatoria debido a que en Argentina constituye un acto despectivo habitual hacia Boca Juniors, por parte de otras hinchadas, sostener que sus simpatizantes son inmigrantes que provienen de países fronterizos aunque en realidad también existen extranjeros hinchas de otros clubes. Tal es el fundamento racista de la canción cantada por otras hinchadas como la de River Plate, San Lorenzo de Almagro, Racing y Vélez Sársfield:
+El INADI pidió que se sancionara al Club Atlético Independiente por infringir el Artículo N°88 del reglamento (acto de xenofobia) y que se sancionara al árbitro Sergio Pezzotta por no detener el inicio del segundo tiempo del partido a pesar de la exhibición de las banderas.[93]
+El hecho ofendió a los diplomáticos de Bolivia y Paraguay, quienes también se comunicaron. Finalmente, la misma dirección del club se disculpó por los hechos, tuvo una reunión con el INADI y prometió tomar medidas para identificar y sancionar a los responsables.[94]
+En un partido de la Copa Nissan Sudamericana entre Vélez Sársfield y Boca Juniors el árbitro Saúl Laverni detuvo el partido por unos minutos porque la hinchada de Vélez cantaba canciones racistas contra Boca, en la cual se expresaba que los hinchas de Boca eran todos de Bolivia y Paraguay.[95] A pesar de esto, Vélez Sarsfield no sufrió ningún tipo de sanción.
+En 2016 el senador justicialista Miguel Ángel Pichetto fue criticado por racismo debido al modo en que se refirió a los inmigrantes que provenían de Bolivia y Perú, declaraciones que le valieron el repudio de las autoridades de Bolivia, a través del cónsul de ese país en Buenos Aires.[96] Pichetto dijo durante una sesión del Senado:
+Tenemos que dejar de ser tontos. El problema es que siempre funcionamos como ajuste social de Bolivia y ajuste delictivo de Perú. Perú resolvió su problema de seguridad y transfirió todo el esquema narcotraficante a las principales villas de la Argentina, están tomadas por peruanos. La Argentina incorpora toda esta resaca.Miguel Ángel Pichetto[97]
+Xenofobia contra chilenos
+[editar]La xenofobia en Argentina contra los chilenos aumentó por dos hechos históricos que generó conflictos, odio y desacuerdos entre ambos países, que dichos problemas siguen vigentes aunque cada vez mejora la situación. Uno de ellos fue la crisis fronteriza de 1978, también conocido como el conflicto de Beagle, donde se expulsó a más de 30.000 inmigrantes chilenos de Argentina. Y otro fue durante la guerra de Malvinas, cuando Chile dio apoyo a Reino Unido en dicha guerra, donde se dio también ataques xenofóbicos contra los chilenos por parte de los medios de comunicación.[98]
+En febrero de 2013 se viralizaron videos en internet de policías mendocinos amenazando a chilenos con cortar sus cuellos y beber su sangre.
+"Chilenito, chilenito, ten cuidado, ten cuidado, que una noche oscura, a tu casa entraré. Y tu cuello cortaré y tu sangre beberé... y tus calzones oleré".Policías mendocinos[99]
+Durante la copa América de 2015, la hinchada argentina expresó cantos xenofóbicos contra Chile. En aquellos cantos xenofóbicos, se hacía referencia al apoyo de Chile a Reino Unido en la guerra de Malvinas y se hizo burlas con respecto a los terremotos que hay en Chile debido a su fronteriza con el mar.
+Chile, decime qué se siente, saber que se te viene el marTe juro que aunque pasen los años, nunca nos vamos a olvidar
+Porque vos sos un traidor, vigilante y botón, nos vendiste en la guerra por cagón
+Por acá no vuelvas más, ojalá te tape el mar, que te ayuden los ingleses a nadar.[100]
+Antisemitismo
+[editar]El acto de antisemitismo más grave de la historia argentina fue el pogrom de 1919 en el barrio de Once en Buenos Aires, único cometido en América, en el curso de la Semana Trágica, durante la presidencia de Hipólito Yrigoyen de la Unión Cívica Radical. En el mismo fueron atacados miles de judíos y judías, asesinados, torturados y violadas, y sus viviendas quemadas. La frase "yo argentino", aún utilizada en el presente para significar "yo no tengo nada que ver", surgió en el curso del pogrom, como intento de salvar la vida ante los ataques.[101][102]
+En Argentina han existido graves actos llevados adelante contra los judíos, como la orden secreta del canciller argentino en 1938 de impedir el ingreso de judíos a territorio nacional[103]
+Leonardo Senkman, compilador del libro El antisemitismo en la Argentina sostiene:
+En la Argentina contemporánea ―donde vive actualmente la colectividad judía más numerosa de toda América Latina― el antisemitismo ha sido un fenómeno endémico y sumamente complicado...Leonardo Senkman[104]
+Durante el gobierno de Agustín P. Justo, en 1937, Marcos Savon, cónsul argentino en Gdynia (Polonia), envió varias notas al ministro y premio Nobel Carlos Saavedra Lamas, bajo el título «problema semita», que muestran la orientación general antisemita del gobierno argentino. En la carta del 14 de julio de 1937, en vísperas de la invasión nazi, puede leerse:
+Soy de opinión que convendría que se opusieran más trabas a la inmigración de esa raza [hacia Argentina], que parte desde Polonia animada del más profundo rencor hacia el cristiano, y dispuesta a cometer los mayores excesos.Marcos A. Savon[105]
+Según el historiador Raanan Rein, la década de los '60 fue el peor momento para los judíos desde el pogrom de la Semana Trágica de 1919. A partir de la captura de Adolf Eichmann los actos antisemitas se multiplicaron: vandalismo contra instituciones judías, ataques con cargas explosivas en distintas sinagogas y ataques contra estudiantes judíos. El Movimiento Nacionalista Tacuara, una organización fascista con vínculos políticos, inició una serie de campañas antisemitas con peleas en la calle y vandalismo en las sinagogas y profanaciones en los cementerios judíos.[106] Edgardo Manuel Trolnik, estudiante de 15 años, fue herido por las balas de un ataque antisemita el 17 de agosto de 1960 en un acto en el colegio nacional Sarmiento en Buenos Aires. Gracielas Narcisa Sirota, estudiante de 19 años, fue secuestrada el 21 de junio de 1962 en plena vía pública. Fue torturada salvajemente, según sus captores, como venganza por la captura de Adolf Eichmann, quienes mientras la quemaban con cigarrillos le dejaron grabada una esvástica en el pecho. El 29 de febrero de 1964 fue asesinado, en la puerta de la casa de sus padres, Raúl Alterman, un militante del Partido Comunista de 32 años. Aunque la DAIA reclamaba frente a las autoridades y organizaba manifestaciones de repudio, la consecuencia de tantos actos antisemitas y el temor de los padres los llevó a la creación de las primeras escuela judías integrales en ese período.[107][108][109]
+Durante los regímenes militares y en especial durante la dictadura conocida como Proceso de Reorganización Nacional se produjeron graves hechos de persecución antisemita, en el que algunas personas fueron torturadas, degradadas y hasta asesinadas por el solo hecho de ser judíos. En los centros clandestinos de detención (CCD), era habitual que a los prisioneros judíos se les grabara la estrella de David en el cuerpo.[110]
+El jefe de la policía bonaerense, Ramón Camps, quien secuestrara y torturara a Jacobo Timerman, sostenía que los sionistas eran enemigos de la Argentina y tenían un plan para destruirla. Por eso impulsó el uso de medidas represivas ilegales para resolver lo que denominaba «la cuestión judía».[111]
+Según la Asociación de Familiares de Desaparecidos Judíos, la desproporción entre la cantidad de los miembros de la colectividad judía en la Argentina y los detenidos desaparecidos judíos es prueba de un ensañamiento y un fuerte antisemitismo por parte de los represores setentistas. La colectividad judía representaba el 0,5 por ciento de la población general de la Argentina en los '70, mientras que los desaparecidos de origen judío representaron el 13% del total. Las torturas en los centros de detención clandestinos fueron más agresivos y violentos contra los prisioneros judíos, quienes no tenían tantas chances de sobrevivir como los no judíos.[112][113][114][115][116] Según Miriam Lewin, los represores le decían que «El único judío bueno es el judío muerto».[117]
+En los años '90 se produjeron los ataques terroristas contra la embajada de Israel en 1992 y contra la AMIA en 1994. El atentado a la AMIA es considerado el peor ataque antisemita desde la Segunda Guerra Mundial.[118]
+Intentando sintetizar ambas posiciones, el investigador Daniel Lvovich ha escrito:
+El atentado a la AMIA fue uno de los hechos de antisemitismo político más importantes de los últimos tiempos, pero su contracara fueron los miles de manifestantes reclamando justicia, con carteles que decían «todos somos judíos».Daniel Lvovich, diario La Capital de Rosario[119]
+El antisemitismo cotidiano tiene una amplia difusión en la Argentina. Un ejemplo de ello es lo que sucede en el club de fútbol Atlanta, ubicado en el barrio Villa Crespo de Buenos Aires, un barrio que tiene una importante población judía. Desde hace varios años, los simpatizantes de los equipos contrarios suelen manifestarse contra Atlanta con banderas nazis y tirando jabones a la cancha.[120]
+Desde 1998 la DAIA realiza anualmente un informe sobre antisemitismo en la Argentina. La serie histórica muestra un considerable incremento de las denuncias por antisemitismo a partir de 2005. Mientras que en el período 1999-2004 el promedio anual de denuncias se ubicó en torno a las 180 por año, en el período 2005-2015 el promedio se elevó a unas 360 denuncias por año, alcanzando su pico máximo en 2006 con 600.[121]
+El 2 de mayo de 2019, en un programa de radio, la actriz venezolana Catherine Fulop hizo una comparación entre la crisis de Venezuela con lo sucedido en los campos de concentración de la Alemania nazi durante la Segunda Guerra Mundial, que generó una polémica y un fuerte repudio. Catherine Fulop había dicho en el programa:
+"A los empleados públicos los tienen amenazados porque sino pierden sus trabajos, tienen a esa gente de los barrios a los que les dan plata y medicamentos que van a seguir bailando al son de ellos porque antes no han tenido nada. ¿Por qué crees que Hitler sobrevivió, porque solito lo hizo todo? No, porque dentro de los judíos eran los peores, los más torturadores dentro de los campos de concentración. Los sapos eran los propios judíos que torturaban a su propia gente. Esto mismo está pasando en Venezuela".Catherine Fulop[122]
+Tras haber dicho esto, el abogado Jorge Monastersky presentó una denuncia, que quedó a cargo del Juzgado Correccional Federal 4 a cargo del juez Ariel Lijo y del fiscal Federico Delgado, por violar el artículo 3 de la ley 23.592.[123]
+Artículo. 3°.- Serán reprimidos con prisión de un mes a tres años los que participaren en una organización o realizaren propaganda basados en ideas o teorías de superioridad de una raza o de un grupo de personas de determinada religión, origen étnico o color, que tengan por objeto la justificación o promoción de la discriminación racial o religiosa en cualquier forma. En igual pena incurrirán quienes por cualquier medio alentaren o iniciaren a la persecución o el odio contra una persona o grupos de personas a causa de su raza, religión, nacionalidad o ideas políticas.Constitución de la Nación
+Luego Catherine Fulop pidió disculpas por lo que había dicho sobre la comunidad judía y el holocausto.[124]
+En enero de 2021, en una videoconferencia, Pablo Ansaloni, entonces diputado nacional, había dicho:
+"Estamos más unidos que nunca, nadie nos va a romper a nosotros, y nadie que no tenga que ver con nuestra provincia, porque son como los judíos, por ahí no tienen patria, no saben dónde están o a quiénes representan. Yo sí sé a quiénes represento: represento a la seccional 185 de Colón, provincia de Buenos Aires".Pablo Ansaloni[125]
+Luego de las declaraciones, Ansaloni pidió disculpas, diciendo que la grabación fue utilizada «de forma mal intencionada» y que fue «sacada de contexto».[126]
+Racismo contra indígenas
+[editar]El racismo, la discriminación y la invisibilización contra personas pertenecientes a los diversos pueblos originarios que habitan en la Argentina, genéricamente agrupados como indígenas, o que tienen antepasados indígenas, se agudizó en gran medida tras la independencia.
+Tras la Revolución de Mayo se observan varios intentos iniciales de integración de la población indígena. Así por ejemplo, mediante el Decreto del 8 de junio de 1810, la Junta dispuso que las compañías de naturales indígenas que integraban el Batallón de Castas se integrasen a los Regimiento de Pardos y Morenos.
+La Junta no ha podido mirar con indiferencia que los naturales hayan sido incorporados al cuerpo de castas excluyéndolos de los batallones españoles a que corresponden. Por su clase y expresas declaraciones de su Majestad, en lo sucesivo no debe haber diferencia entre el militar español y el militar indio: ambos son iguales y siempre debieron serlo, porque desde el principio del descubrimiento de estas Américas quisieron los reyes católicos que sus habitantes gozasen los mismos privilegios que los vasallos de Castilla.[127]
+Sin embargo la postura oficial cambió por completo especialmente durante las «guerras contra el indio» llevadas a cabo por el Estado argentino contra aquellos pueblos originarios que habitaban principalmente en la Pampa, la Patagonia y el Gran Chaco.
+Charles Darwin, al pasar por Argentina en su histórico viaje alrededor del mundo, atestiguó en 1833 la práctica del asesinato masivo de mujeres indígenas para evitar la reproducción:
+...si bien se asesina a sangre fría a todas las mujeres indias que parecen tener más de veinte años de edad para evitar su reproducción se perdona a los niños, a los cuales se vende o se da para hacerlos criados domésticos, o más bien esclavos. Cuando protesté en nombre de la humanidad me respondieron: sin embargo, ¿qué hemos que hacer? Tienen tantos hijos estos salvajes.Charles Darwin, 1833[128]
+Julio Argentino Roca, quien fuera dos veces presidente de la Nación, afirmaba que:
+Estamos como nación empeñados en una contienda de razas en que el indígena lleva sobre sí el tremendo anatema de su desaparición, escrito en nombre de la civilización. Destruyamos, pues, moralmente esa raza, aniquilemos sus resortes y organización política, desaparezca su orden de tribus y si es necesario divídase la familia. Esta raza quebrada y dispersa, acabará por abrazar la causa de la civilización.Julio Argentino Roca, presidente argentino.[129]
+La posición del Estado argentino volvió a hacerse explícita al realizarse el Censo Nacional de 1895 cuando sus responsables afirmaron que:
+No tardará en quedar la población unificada por completo formando una nueva y hermosa raza blanca.[130]
+Durante los años treinta y cuarenta comenzaron a producirse migraciones de trabajadores campesinos hacia las grandes ciudades, quienes a menudo se encontraban tratados despectivamente por amplios sectores de clase media y alta.
+En 2005, aprovechando que Radio Nacional puso en el aire la radionovela Shunko, su director Gabriel Conti declaró que las comunidades quichuas en la Argentina, siguen siendo «olvidadas, despreciadas y marginadas».[131] La periodista María Luján Picabea cuenta, sobre Ariel Villarreal, el niño actor que interpretó el papel de Shunko en la obra, que:
+[...] vino desde el monte a vivir a la provincia de Buenos Aires hace pocos años. Se incorporó a una escuela en la que sus compañeros lo llamaban «indio» y su maestra de grado recomendó a sus familiares que lo reprendieran porque «hablaba un idioma extraterrestre». Ariel hablaba quichua y prácticamente no comprendía el español. Eso lo convertía en un niño «con problemas» que debía asistir a una escuela especial.María Luján Picabea.[131]
+El Grupo Internacional de Trabajo sobre Asuntos Indígenas (IWGIA) se refiere a la situación de los pueblos indígenas en la Argentina de hoy del siguiente modo:
+Un amplio porcentaje de la sociedad nacional considera que no hay indígenas en Argentina porque la mayoría se extinguió o está a punto de hacerlo o porque «sus descendientes» se asimilaron a la civilización occidental y viven como cualquier otro ciudadano. Estas imágenes del sentido común han contribuido para que muchos indígenas se vean obligados a ocultar su identidad de manera defensiva a fin de evitar ser objeto de discriminación racial. Aun así es frecuente en el lenguaje corriente el uso de versiones peyorativas que asimilan «indio/indígena» a vago, indolente, sucio, bruto, salvaje.[132]
+Racismo contra afrodescendientes y personas de piel más oscura
+[editar]En la Argentina el racismo contra personas de ascendencia africana está influido por complejos procesos contradictorios. Por un lado un amplio proceso de mestizaje y la escuela pública igualitaria impulsaron conductas de convivencia multirracial. Pero por otro lado, la permanente difusión desde el Estado de que la Argentina tenía una población homogénea «blanca» y «sin negros», remarcando una valoración positiva de esa realidad supuesta, impulsó conductas racistas subterráneas que arraigaron en ciertos comportamientos sociales.
+A pesar de su reducción a la esclavitud, testimonios de la época colonial sostienen que en Buenos Aires y Montevideo los esclavos eran tratados con menos crueldad que en otras partes. José Antonio Wilde, en su obra Buenos Aires desde 70 años atrás (1810-1880) escribe que:
+Los esclavos habían sido tratados con verdadero cariño por sus amos, no habiendo punto de comparación con el trato dado en otras colonias.
+Aunque esto no le impedía reconocer sin embargo que:
+las amas atormentaban más o menos a esta fracción desventurada del género humano (y que) estaban entre nosotros por lo general muy mal vestidos.
+La misma opinión en cuanto al mejor trato nos dejaron en sus testimonios los extranjeros que venían. Por ejemplo, Alexander Gillespie, capitán del ejército británico durante las invasiones inglesas, escribió en sus memorias que lo sorprendió lo bien que se los trataba en contraste con nuestros plantadores y los de América del Sur, y proseguía:
+Estos infelices desterrados de su país, así que son comprados en Buenos Aires, el primer cuidado del amo es instruir a su esclavo en el lenguaje nativo del lugar, y lo mismo en los principios generales y el credo de su fe. [...] Los amos, en cuanto pude observar, eran igualmente atentos a su moral doméstica. Todas las mañanas antes de que el ama fuese a misa, congregaba a las negras en círculo sobre el suelo, jóvenes y viejas, dándoles trabajo de aguja y tejido, de acuerdo con sus capacidades. Todos parecían joviales y no dudo que la reprensión también penetraba en su círculo. Antes y después de la comida, así como en la cena, uno de estos últimos se presentaba para pedir la bendición y dar las gracias, lo que se les enseñaba a considerar como deberes prominentes y siempre los cumplían con solemnidad.Memorias de Alexander Gillespie, capitán del ejército británico[133]
+En 1801 las milicias de soldados negros y mulatos libres, existentes en Buenos Aires desde muy antiguo, fueron regladas y disciplinadas, estableciéndose compañías en Buenos Aires, Montevideo y Asunción. Luego de la invasión británica de 1806 esas milicias porteñas constituyeron el Batallón de Castas junto a soldados indígenas, segregados por compañías de mulatos, pardos y naturales. Parte de esos soldados fueron trasladados al Cuerpo de Castas de Artillería. Un Cuerpo de Esclavos fue también formado para defender Buenos Aires en caso extremo, pero no se les entregó armas. Luego de la Revolución de Mayo el Batallón de Castas formó el Regimiento de Pardos y Morenos que participó en todas las campañas de la Guerra de la Independencia de la Argentina.
+Durante el gobierno de Juan Manuel de Rosas la población negra de Buenos Aires llegó al 30 %. Después de abolirse la esclavitud los afroargentinos vivieron en condiciones miserables y discriminados. De los catorce colegios existentes en Buenos Aires en 1857 solo dos admitían niños negros, a pesar de que el 15 % de los alumnos de ese año eran de color.[134] Similarmente, en 1829, en Córdoba solo podían ingresar a los colegios secundarios dos afros por año; y a la universidad solo tuvieron acceso en 1853.[135]
+En un artículo titulado «Historias de una Argentina en la que ser negro no es nada fácil»,[136] el periodista Horacio Cecchi recopila una sucesión de actos discriminatorios contra personas de piel más oscura sucedidos en la Argentina, como la denuncia presentada en el año 2000 por el Banco Mundial contra las autoridades migratorias argentinas por discriminación y maltratos a un funcionario del gobierno de Mozambique.[137]
+Racismo contra gitanos
+[editar]En la Argentina como en otros países existe un racismo profundo aunque no abierto contra el pueblo rom (gitanos). Muchas personas atribuyen a los gitanos una actitud maliciosa y de mala fe. Existe una conocida leyenda de la gitana que viene a robarse los niños.
+La relación con los vecinos es buena, pero existe cierta clase de discriminación oculta contra los rom y los judíos y menos en contra de los descendientes de árabes en una creciente minoría del pueblo argentino, la cual puede ser vista al tratar un negocio o en algunos lugares públicos, a pesar de la ley antidiscriminatoria existente, sin embargo, esta siempre es oculta ―la casa se vendió―, no hay lugar en el restaurante, discúlpeme, y raramente un insulto son las expresiones discriminatorias comunes.[138]
+Invisibilización de grupos étnicos
+[editar]La «invisibilización» de culturas y etnias es un mecanismo de discriminación ampliamente utilizado en todo el mundo. Es un mecanismo íntimamente vinculado a los fenómenos de «desaparición» y al homo sacer (hombre sin derechos) del Imperio romano.
+En la Argentina ha existido y continúa existiendo una cultura general y una política estatal consciente de invisibilización de determinadas culturas y grupos sociales, básicamente aquellos definidos como no-europeos.
+El investigador Navarro Floria ha estudiado en detalle este proceso de invisibilización con respecto a los indígenas de la Pampa y la Patagonia, destacando el papel de Martin De Moussy en la difusión en Europa de una imagen de una Argentina sin indios:
+Si D’Orbigný había establecido «científicamente» la existencia de «salvajes» y Sarmiento había sacado las conclusiones políticas correspondientes en torno de la necesidad de someterlos o exterminarlos, De Moussy constituye una muestra del «olvido oficial» de los pueblos indios a nivel de divulgación y en los materiales destinados a dar a conocer el país a los potenciales inmigrantes e inversores del exterior. Su aporte a la construcción ideal del Estado consistió en la representación de un país sin indios, en el sentido que le daba Sarmiento a la idea del desierto fecundable, que esperaba la mano del hombre (blanco, inmigrante, trabajador agrícola) para dar todo de sí.[139]
+El proceso de invisibilización ha sido ejecutado mediante múltiples formas. Una de ellas ha sido la manipulación de los censos, para reducir y hasta eliminar los registros relacionados con personas o culturas no europeas. De este modo ser ordenó reemplazar la palabra «negro» para mencionar la pertenencia étnica-cultural de las personas, por la palabra «trigueño» solo referida a la tonalidad de piel. Ello permitió al Estado Argentino declarar en el censo de 1947 que la totalidad de la población argentina era «blanca».
+El proceso de invisibilización en las publicaciones sociales y escolares se realiza mediante técnicas sutiles de manipulación de textos, mediante los modos de denominar y adjetivar, cuando no en la abierta omisión de los hechos sociales o la falsificación de los mismos. En ejemplo claro de ello es el relacionado con el desierto y la llamada «Campaña del desierto». La baja densidad poblacional estructural en amplias zonas del territorio argentino, llevó a ciertos ideólogos a desarrollar la idea de «desierto», en el sentido de no habitado por personas.
+El antropólogo argentino Miguel Alberto Bartolomé de la UNAM, en su artículo Los pobladores del desierto, analiza las implicancias del término «desierto» en la política e historiografía argentinas:
+Hacia 1875, el presidente Nicolás Avellaneda expresaba que: «Suprimir a los indios y ocupar las fronteras no implica en otros términos sino poblar el desierto» (en Auza, 1980:62). Los indios estaban y no estaban allí, el desierto era desierto a pesar de la presencia humana, pero esta presencia no era blanca, ni siquiera mestiza y por lo tanto carente de humanidad reconocible. Poblar significaba, contradictoriamente, matar. Despoblar a la tierra de esos «otros» irreductibles e irreconocibles, para reemplazarlos por blancos afines a la imagen del «nosotros» que manejaba el Estado «nacional» emergente.[140]
+El «desierto» básicamente estuvo ubicado en la llanura pampeana y la Patagonia, una amplia región bajo dominio de las naciones mapuche, ranquel y het que resistieron con éxito la invasión española. La consideración del territorio indígena como desierto, permitió «invisibilizar» a los mapuches, ranqueles y het y proceder a una «Campaña del Desierto», eufemismo para denominar la guerra que el Estado Argentino realizó contra esos pueblos originarios a finales del siglo XIX, para arrebatarles la totalidad de su territorio, lo que finalmente sucedió. En Chile ese territorio era conocido como la Araucanía, es decir el país de los araucanos o mapuches.
+Un mecanismo similar de invisibilización fue sistemáticamente aplicado a los afroargentinos, grupo al que se consideró «desaparecido» en algún momento de la segunda mitad del siglo XIX, sin que hasta el presente exista una explicación razonable para la desaparición de un sector que representaba el 30 % de la población total pocos años antes.
+La investigadora Miriam Gomes sostiene:
+A los negros hasta se los discriminaba en los cementerios, porque estaban separados de los blancos. Hay racismo historiográfico y silencio en la educación. Casi no se los menciona en los textos escolares o se distorsiona la historia. Los negros fueron los que estuvieron en las defensas ante las invasiones inglesas de 1806 y en las luchas por la Independencia.[141]
+También se ha desarrollado una política de invisibilización para con los inmigrantes de otros países latinoamericanos y sus descendientes, que en algunos casos han constituido comunidades mayores y más antiguas que las de la mayoría de los grupos europeos que migraron a la Argentina.
+Más recientemente el Estado Argentino utilizó ampliamente la posibilidad de mantener en situación de «sin papeles» a un número imposible de conocer de migrantes, pero que suma cientos de miles de personas. A partir de 2006, como consecuencia de los Acuerdos Migratorios de 2002 celebrados entre Argentina, Brasil, Bolivia, Chile, Paraguay, y Uruguay, a los que luego se sumó Perú, se ha establecido el derecho de todos los ciudadanos de esas naciones a vivir y trabajar libremente en cualquiera de esos países.
+Negación del racismo
+[editar]Isabel Santi, de la Universidad de París, sostiene:
+Un país en el que un dicho popular sostiene que «acá no hay racismo porque no hay negros», tiene un problema con la discriminación. Ignacio Kilich (1995) observa que, implícitamente, ese dicho afirma la existencia subterránea del racismo.Isabel Santi[142]
+La negación del racismo, incluso en sus formas más evidentes, es una característica del racismo en la Argentina que se repite en muchos otros países modernos y en particular latinoamericanos como Perú,[143] Brasil,[144] etc. La negación hace aún más difícil combatir el racismo porque este adopta la forma de un proceso sutil e insidioso.
+Resulta habitual encontrar autorrepresentaciones de la Argentina como un «crisol de razas», un equivalente del «melting pot» estadounidense. En realidad la idea de asimilación cultural que subyace al concepto de crisol de razas tiende a emerger a través de manifestaciones racistas como la exaltación de una supuesta «raza argentina», y se opone a la idea de pluralismo cultural.[145] El concepto de una «raza argentina» fue desarrollado por José Ingenieros en su libro Sociología argentina (1913).
+El pensamiento de José Ingenieros es citado del siguiente modo por el filósofo mexicano Leopoldo Zea:
+El futuro de la Argentina lo veía así Ingenieros (en 1915): «Hay ya elementos inequívocos de juicio para apreciar este advenimiento de una raza blanca argentina y que pronto nos permitirá borrar el estigma de inferioridad con que han marcado siempre los europeos a los sudamericanos». Ahora, agrega, en el ejército, «en vez de indígenas y gauchos mercenarios, son ciudadanos blancos los que custodian la dignidad de la nación». Dentro de quince o cien años, las consecuencias serán más importantes y son fáciles de pronosticar. En el territorio argentino, emancipado hace un siglo por el pensamiento y la acción de mil a diez mil «euroargentinos», vivirá una raza «compuesta por quince o cien millones de blancos, que en sus horas de recreo leerán las crónicas de las extinguidas razas indígenas, las historias de la mestizada gaucha que retardó la formación de la raza blanca, y acaso los poemas gauchescos de Martín Fierro y Santos Vega, o las novelas de Juan Moreno».[146]
+Una manifestación de esto es el festejo oficial del 12 de octubre, día de la llegada de Cristóbal Colón a América, como Día de la Raza, establecido por el presidente Hipólito Yrigoyen y copiado en muchos países de América Latina.
+Otro caso destacable es el de algunos comentaristas u opinólogos. Tal es el caso del escritor, ultraderechista y opinólogo Agustín Laje Arrigoni, quien en 2022 en el programa de entrevistas mexicano "El Octátono" afirmó que en Argentina no había racismo. Cuando el entrevistador le preguntó nuevamente "¿no hay racismo en Argentina?", Agustín reafirmó: "no, en absoluto". Este mismo escritor se ha opuesto abiertamente a movimientos como "Black Lives Matter" comentando que es "gente reclutada y financiada".
+Racismo implícito
+[editar]En virtud de la negación del racismo, se han acentuado expresiones racistas encubiertas de tipo clasista (pobres, villeros, indigentes), de gustos musicales (cumbia, cuarteto), etc. En lugar de usar el «Negro de mierda» suelen usarse el mote negro villero, o eufemismos como negro de alma, negro de mente, negro de espíritu etc.
+El auge de estas expresiones viene aparejada a una dinámica social hacia fines de los años noventa (ver sección Racismo en política) con la visibilidad del villero como actor social. Entrada en las décadas del siglo XXI, las nuevas formas de chivos expiatorios son dirigidas hacia los menores de edad marginales, quienes son estigmatizados con la delincuencia, la adicción a las drogas y la violencia desenfrenada.
+Negro villero: Esta expresión refleja estigmas de territorio, clase y raza, la cual se interpela a partir de una sospecha generalizada sobre sus capacidades morales, laborales, e intelectuales.
+- (...)
+- Dicen que mi barrio
+- está lleno de hampones,
+- que sólo es un fuerte
+- de droga y ladrones.
+- (...)Yerba Brava, 100% villero.
+Racismo en la política
+[editar]En 1919 irrumpió en sociedad una banda armada conocida como la Liga Patriótica Argentina, un grupo xenófobo y antisemita fundado en el aristocrático Club Naval bajo el lema «Patria y orden», que atacaba a obreros, judíos, anarquistas y opositores políticos. Esta agrupación paramilitar agrupaba a hijos de las clases altas y contaba en el apoyo y soporte de sacerdotes, intelectuales, industriales, militares, terratenientes y políticos reaccionarios. Su presidente era el radical Manuel Carlés. Sus barrios de acción preferidos eran Once y Villa Crespo y el caso testigo, símbolo de la brutalidad de esta banda, es el asesinato de una niña de 13 años, Paulina Viviani, apuñalada por un soldado del ejército frente a su madre. La Liga Patriótica realizó en Buenos Aires el único pogrom de que se tiene registro en América.[147][148][149]
+En Argentina, el racismo está íntimamente relacionado con la política en la oposición entre peronismo y antiperonismo. El antiperonismo desarrolló una amplia ideología racista tendiente a denigrar e infravalorar a los simpatizantes del peronismo, mayoritariamente pertenecientes a las clases trabajadoras y bajas.[150][3][151][152]
+Básicamente el racismo antiperonista se basa en la identificación de los simpatizantes peronistas con «los negros» con un sentido abiertamente denigratorio.[3][151][152] En una histórica carta a su madre referida al bombardeo de la plaza de Mayo por sectores antiperonistas, el Che Guevara utiliza varias veces el término «negros» a modo de ironía crítica imitando el modo en que hablaban los antiperonistas:
+Otrosí, digo, para quienes no hay escapatoria posible ante la historia es para los mierdas de los aviadores que después de asesinar gente a mansalva se van a Montevideo a decir que cumplieron con su fe en Dios; es impresionante que la gente llore porque le quemaron su iglesia dominguera, pero le parece la cosa mas natural del mundo que revienten la cantidad de «negros» que reventaron. No te olvides que muchos de ellos fueron a morir por un ideal, pues eso de la compulsión no puede ser cierta sino en parte, en todo caso, y que cada «negro» tenía su familia que mantener, y que los tipos que dejan en la calle a la familia del «negro» son los mismos que se van al Uruguay a darse golpes de pecho por la hazaña de machos. Otra cosa importante es la cantidad de «gente bien» que murió fuera de los casos fortuitos, eso mismo indica el carácter de la gente que iba a derrocar a Perón.[153]
+Uno de los términos racistas utilizados por el antiperonismo es «cabecita negra»,[3] ya tratado más arriba, para atribuirlo despectivamente a los simpatizantes del peronismo, generalmente asociado con los términos despectivos «negro» y «grasa».[3] El cuento de Germán Rozenmacher titulado precisamente Cabecita negra refleja con gran realismo las relaciones racistas que establecieron las clases medias de Buenos Aires con las nuevas clases trabajadores procedentes de las provincias, en el marco del conflicto peronismo-antiperonismo.[151]
+Relacionado con este racismo político apareció también la denominación de «aluvión zoológico» para referirse a los peronistas. El escritor Julio Cortázar en su novela El examen de 1950,[154] recrea el siguiente diálogo entre un grupo de jóvenes antiperonistas que asisten a una manifestación peronista en la plaza de Mayo:
+No me importan ellos -dijo Juan-. Me importan mis roces con ellos... Me jode no poder convivir, entendés. No-poder-con-vivir. Y esto ya no es un asunto de cultura intelectual, de si Braque o Matisse o los doce tomos o los genes o la archimedusa. Esto es una cosa de la piel y de la sangre. Te voy a decir una cosa horrible, cronista. Te voy a decir que cada vez que veo un pelo negro lacio, unos ojos alargados, una piel oscura, una tonada provinciana, me da asco.[155]
+En las décadas de 1960 y 1970 aparecieron organizaciones como Tacuara y la Triple A, este último un grupo parapolicial organizado y financiado desde el Estado, que tenían componentes nazis y antisemitas.[156][157]
+Más recientemente, el racismo ha sido utilizado para atacar a los denominados piqueteros, en realidad organizaciones de desempleados que emergieron con fuerza en los años noventa. Una vez más el término «negra» y «negro» es utilizado ampliamente para referirse a sus miembros con un sentido sumamente peyorativo. El discurso «antipiquetero» suele relacionarse con el hecho de vivir en barrios carenciados (villas miseria), la criminalidad y la eventual condición de migrante: «villeros», «delincuentes», «boliguayos».[3]
+El hecho ha sido reflejado por el periodista argentino Sergio Kiernan en un artículo publicado en el diario Página/12 con el siguiente título: «Cuando el piquetero pasa a ser “ese negro de mierda”».[158]
+La madrugada del 4 de diciembre de 2013 la ciudad de Córdoba fue epicentro de una violenta ola de saqueos, aprovechando el acuartelamiento policial en reclamo de aumento de salarios al Gobierno de la Provincia de Córdoba. La reacción espontánea de algunos sectores sociales fue la estigmatización expresada a través de la humillación racial, utilizando la expresión "negro" en sentido peyorativo. Estos hechos coincidieron con el fallecimiento de Nelson Mandela, líder de la lucha contra apartheid en Sudáfrica, que los mismos sectores consideran como algo negativo. Esta paradoja cultural fue reflejada en una nota de opinión de Rodrigo López Tais publicada en el periódico La Voz del Interior, titulada "Negro de alma".[159]
+El 22 de febrero de 2019, el Ministerio de Producción y Trabajo publicó una imagen titulada: "Leyes Para la Transformación Productiva" con un gráfico que generó un fuerte repudio en las redes sociales.
+La imagen representaba a la población como personas rubias, blancas y bien vestidas sostenían a una multitud de personas con pieles más morenas u oscuras. Haciendo referencia a que las personas blancas pagan impuestos, mientras que las personas negras no.
+Lo cual muchas personas lo habían señalado como una carácter racista y discriminatorio al dibujo, que intenta homologar el aspecto físico a determinada situación económica, laboral y fiscal.[160][161]
+Racismo en el deporte
+[editar]En 2020 se produjo un escándalo debido a la difusión de varios mensajes racistas y discriminatorios enviados por jugadores que luego fueron seleccionados para integrar la selección mayor de rugby conocida como Los Pumas, incluyendo el capitán Pablo Matera.[162][163] Algunos de los mensajes decían lo siguiente:
+Linda mañana para salir en el coche a pisar negros. (Pablo Matera)
+Sudáfrica Baby! Por fin me voy de este país lleno de negros... Ouch!! (Pablo Matera)
+El odio a los bolivianos, paraguayos, etc. nace de esa mucama a la que una vez se le cayó un pelo en tu comida. (Pablo Matera)
+¿Qué es una mucama embarazada de trillizos? Un kit de limpieza (Guido Petti)
+Para ser un judío se necesita un corte en el pito.... Un corte en el pito y gastar poquito, para ser un judío. (Santiago Socino)
+Qué quilombito se podría armar en Villa Crespo si Hitler estuviera vivo. Atlanta. El que no salta es un jabón. (Santiago Socino)[162][163]
+Ese mismo año se dio una sanción sin precedentes en el futbol argentino después de que el jugador de Nueva Chicago Arnaldo González realizara gestos antisemitas contra los hinchas de Atlanta, club identificado desde sus comienzos con la comunidad judía de Argentina.[164] González fue suspendido por diez fechas a raíz del incidente.[165]
+En 2022, el jugador afroperuano por el equipo de fútbol Boca Juniors, Luis Advíncula, fue objeto de una burla discriminatoria por redes sociales que indicaba "la pisa el mono mira". El mensaje fue compartido por el jugador del San Lorenzo, Nicolás Fernández, quien algún momento después borró el post.[166]
+Chistes racistas
+[editar]El humor a través de los chistes racistas ha sido y es un modo eficaz universalmente de difundir y consolidar las ideologías racistas. En general se discute mucho cuáles son los límites del humor racista o étnico. Históricamente Sigmund Freud ya había distinguido los «chistes inocentes» de los «chistes tendenciosos»; estos últimos no son graciosos para ciertas personas aludidas directa o indirectamente en el chiste.[167]
+El INADI y la Ley Antidiscriminatoria
+[editar]El 3 de agosto de 1988, durante la presidencia de Raúl Alfonsín, se sancionó la Ley 23.592, conocida también como Ley Antidiscriminatoria. Su ideólogo fue el abogado penalista Bernardo Beiderman.[168][169]
+La ley contiene tres artículos básicos:
+- Acción civil: una acción civil para hacer cesar el acto discriminatorio y por daños y perjuicios materiales y morales, en casos de discriminación por «motivos tales como raza, religión, nacionalidad, ideología, opinión política o gremial, sexo, posición económica, condición social o caracteres físicos» (Artículo 1).
+- Delito penal: crea dos delitos penales. El primero castiga la realización de propaganda o la participación en organizaciones que sostenga la superioridad de una raza o de un grupo de personas de determinada religión, origen étnico o color. El segundo castiga el acto de incitar a la persecución o el odio con personas a causa de su raza, religión, nacionalidad o ideas políticas. La pena es de 3 meses a tres años de prisión (Artículo 3).
+- Agravante de los delitos penales: cualquier delito será agravado cuando sea cometido por persecución u odio a una raza, religión o nacionalidad, o con el objeto de destruir en todo o en parte a un grupo nacional, étnico, racial o religioso (Artículo 2).
+El 5 de julio de 1995, durante la presidencia de Carlos Menem, se sancionó la Ley 24.515 creando el INADI, que comenzó sus tareas en 1997.
+El INADI fue un ente descentralizado en la órbita del Ministerio de Justicia y Derechos Humanos, con facultades para recibir denuncias, investigar, realizar campañas, y apoyar a las víctimas, en cuestiones relacionadas con toda forma de discriminación.
+Situación de la lucha contra el racismo en Argentina
+[editar]Víctor Ramos ―fundador del INADI y presidente de SOS Internacional― comenta el estado de la lucha contra el racismo en Argentina:
+Argentina, en relación con el resto del mundo, es de avanzada en materia y lucha contra la discriminación y el racismo. Con la creación del INADI, en 1997 ―y de la que participé como fundador― fue un hito muy fuerte en su momento, ya que por primera vez se instalaba en nuestro país el tema. Por otra parte, haciendo un estudio comparado de las estadísticas mundiales, nosotros nos ubicamos entre los primeros estados nacionales que asumen verdaderamente una batalla contra el racismo. Sin embargo, esto no significa que se haya avanzado demasiado. Lo que sí se generó en Argentina fue una serie de debates importantes e interesantes sobre los pueblos originarios de nuestro país, sobre la colectividad judía, sobre la discapacidad y también sobre los inmigrantes.[15]
+En 2008, la justicia argentina condenó a 22 años de prisión a un policía que lesionó e intentó asesinar a un joven por el solo hecho de ser boliviano. La pena reflejó el agravante contemplado en la ley antidiscriminatoria 23.592, cuando el delito «sea cometido por persecución u odio a una raza, religión o nacionalidad».[170]
+Véase también
+[editar]Referencias
+[editar]- ↑ Sin embargo, a nivel institucional y constitucional todos los extranjeros pueden gozar de derechos relativos a la salud, educación, planes sociales, transporte como si fuese un ciudadano argentino. Los estudiantes extranjeros son respetados, y pueden gozar de un derecho que en su propio país no tienen. En los hospitales te atienden sin importar raza, religión, nacionalidad, edad. A diferencia de otros países que discriminan de forma xenofobica a los extranjeros negándoles derechos fundamentales como son la salud y la educación.«Los migrantes y la discriminación en Argentina», por José Sáez Capel. En Scripta Nova, revista electrónica de geografía y ciencias sociales, Universidad de Barcelona, 2001; «La escuela es el peor nido de los prejuicios y el racismo en Argentina», entrevista a Víctor Ramos, presidente de SOS Internacional, diario La Mañana, de Neuquén.
+- ↑ «Ruso», en Jergas del habla hispana.
+- 1 2 3 4 5 6 7 8 9 de los Reyes fecha=25 septiembre 2015, Ignacio. «La fascinación argentina por los 'chinos', los 'negros'" y los 'gallegos'». =BBC.
+- 1 2 3 «Los insultos más usados por chicos pobres: negro, villero y desnutrido» Archivado el 12 de abril de 2010 en Wayback Machine., artículo de Alejandra Toronchik en el diario Clarín del 23 de mayo de 2005. Consultado 18 de marzo de 2008.
+- ↑ Silva, Horacio Ricardo (2011). Días rojos, verano negro. Libros Anarres. p. 217. ISBN 9789871523146.
+- ↑ Tornielli, Pablo (2015). «Hombre de tres mundos. Para una biografía política e intelectual del emir Emín Arslán». Dirāsāt Hispānicas (2): 170, 171, 172. ISSN 2286-5977. Archivado desde el original el 26 de julio de 2018. Consultado el 25 de julio de 2018.
+- ↑ Linares, María Cristina (noviembre de 2007). «Ley Láinez, la discusión por el “mínimun”». Ministerio de Educación, Ciencia y Tecnología (02): 43. Consultado el 25 de julio de 2018.
+- 1 2 3 4 Margulis,1998:79 y ss
+- ↑ Santoro, Daniel. «La cuestión racial. El peronismo como cosa de negros y la leyenda del descamisado gigante».
+- ↑ Viglianco, Gino (17 de abril de 2016). «Los peronistas son negros de mierda».
+- ↑ «Pelé desestimó racismo: en Argentina me decían “negro sucio” y no pasó nada», artículo en Radio Cooperativa, 27 de abril de 2006.
+- 1 2 «Lo que nos enseñó D’Elía» Archivado el 10 de abril de 2008 en Wayback Machine., artículo de Ariel Armony en el diario La Nación, 5 de abril de 2008.
+- 1 2 «Gringos y negros», Página/12, 21 de abril de 2008.
+- ↑ «Argentina: empanada, asado de vaca y mucho racismo», artículo de Marina Ari en el sitio Argentina Indymedia, 30 de abril de 2003.
+- 1 2 3 4 «La escuela es el peor nido de los prejuicios y el racismo en Argentina», entrevista a Víctor Ramos (presidente de SOS Internacional) en el diario L. M. Neuquén del 7 de febrero de 2001.
+- ↑ Teun A. Van Dijk (2 de abril de 2008). Los intelectuales del mundo. Van Dijk: «Aún tenemos un discurso racista». La Nación. Consultado el 2 de abril de 2008.
+- ↑ «“Gracias, negrito”: la Academia Argentina de Letras sale en defensa del uruguayo Cavani, acusado de racismo en Inglaterra». El País. 23 de diciembre de 2020.
+- ↑ «La Negra Sosa emocionó a 75.000 personas». Clarín. 19 de febrero de 2006. Archivado desde el original el 2 de agosto de 2008. Consultado el 30 de agosto de 2006.
+- ↑ «¿Hay negros en Argentina?» BBC, 16 de marzo de 2007.
+- 1 2 3 «De donde sos?, The impossible Union of Blackness and Argentinidad» por Arielle C. Knigth, Wesleyan University, 2011.
+- ↑ «CENSO INDEC 2010».
+- ↑ «Mestizaje e identidad en Buenos Aires».
+- ↑ «Historiador Ezequiel Adamovsky».
+- ↑ «Preocupación por una encuesta a aspirantes de la nueva policía». Clarín. 26 de junio de 2006. Archivado desde el original el 5 de diciembre de 2008. Consultado el 30 de agosto de 2006.
+- ↑ Moser, Hugo. «El groncho y la dama», Matrimonios y algo más.
+- ↑ Sosa, Matilde (04-10-2008). «La 'negrada', esa cara oculta del tango» en rebelion.org, fecha de acceso: 7 de marzo de 2010.
+- ↑ «Groncho», en Jergas de habla hispana, Jerga de Argentina.
+- ↑ «Groncho» es una derivación de «grone», la que a su vez es una derivación vesre (argot que invierte las sílabas) de «negro».
+- ↑ «El chetaje de la anticumbre». Crónica y Análisis. 2005. Archivado desde el original el 23 de septiembre de 2015. Consultado el 7 de marzo de 2010.
+- ↑ José Pablo Feinmann (25 de junio de 2007). «La construcción de la derrota». Página/12.
+- ↑ El pianista Miguel Ángel Estrella recuerda cuando fue torturado en Uruguay. Entrevista de Miguel Bonasso, en La Fogata.
+- ↑ González, Juan Luis (22 de enero de 2016). «La polémica dueña de Balcarce, la mascota del PRO». Noticias. «La polémica dueña de Balcarce, la mascota del PRO. Tilda de “negros y pobres” a los que critican a Videla, ataca a CFK y a Boudou, y llama “bolita” a Evo Morales».
+- ↑ «Incentivan a poner nombres indígenas» Archivado el 27 de septiembre de 2007 en Wayback Machine., diario La Gaceta de Tucumán, 20 de diciembre de 2005.
+- ↑ Por la Ley 23.162 de 1984 se agregó el artículo 3 bis a la Ley del Nombre, que autoriza la inscripción de «nombres aborígenes o derivados de voces aborígenes autóctonas y latinoamericanas».
+- ↑ https://amnistia.org.ar/wp-content/uploads/delightful-downloads/2017/02/PRENSA-castellano3.pdf
+- ↑ Charles MANN: 1491, Apéndice A: Palabras lastradas (pág. 443-449). Madrid: Taurus, 2006.
+- ↑ Garbulsky, Edgardo (2003). «La antropología argentina en su historia y perspectivas: el tratamiento de la diversidad, desde la negación/omisión a la opción emancipadora». Colegio de Antropólogos de Chile. Documentos. Archivado desde el original el 9 de abril de 2006. Consultado el 8 de septiembre de 2006.
+- ↑ INADI (2005). La discriminación en Argentina. Diagnóstico y propuestas. Buenos Aires: INADI. ISBN 987-22203-0-1. Archivado desde el original el 29 de diciembre de 2009.
+- ↑ Margulis, Mario; Urresti, Marcelo (1998). La segregación negada: cultura y discriminación social. Buenos Aires: Biblos. ISBN 950-786-224-2.
+- ↑
+- ↑ Meyer, Adriana (1 de septiembre de 2017). «'Tenían orden de matar a un negro, un mapuche'». Página/12.
+- ↑ Claá, Carlos (2 de septiembre de 2017). «Félix Díaz: 'Si Maldonado fuera indígena lo ignorarían'». Perfil.
+- ↑ «Jorge Lanata y su columna racista contra el pueblo mapuche». La Izquierda Diario. 27 de agosto de 2017.
+- ↑ Llanos, Maximiliano (1 de octubre de 2017). «En la UNJu debatieron sobre la desaparición de Santiago Maldonado». La Izquierda Diario.
+- ↑ La investigadora María Elena Sáenz Faulhaber sostiene que el concepto de «raza» debe ser referido al ADN y el de «mestizaje» a su combinación. Para ella «mestizaje» significa que «los respectivos cromosomas con sus genes se combinan entre sí, sin mostrar preferencia alguna por los de uno u otro grupo y con una independencia absoluta de la cultura». María Elena SÁENZ FAULHABER (1993): «El mestizaje en la integración de la población colonial», en Bernardo GARCÍA MARTÍNEZ, Cecilia RABELL ROMERO, et. al.: El poblamiento de México. Una visión histórico demográfica (tomo 2: «El México colonial», pág. 86-107). México: Consejo Nacional de Población, 1993.
+- ↑ Juan Agustín GOYTISOLO: «Catalunya, crisol de culturas o elogio del mestizaje humano y cultural». En La Factoría, n.º 9, junio-septiembre de 1999 Archivado el 10 de febrero de 2007 en Wayback Machine.
+- ↑ «Prócer mestizo. Investigadores señalan que el ideal americanista y popular del libertador fue impulsado por su sangre indígena». La Capital. 7 de noviembre de 2006. (enlace roto disponible en Internet Archive; véase el historial, la primera versión y la última).
+- ↑ «El terremoto sanmartiniano». Mendoza (Argentina): diario Los Andes, 31 de agosto de 2001.
+- ↑ «La discriminación en la discursividad social», por Mario Margulis, en Margulis (1998): 17-37.
+- 1 2 Teun VAN DIJK: «El racismo argentino es un racismo europeo». Centro de Documentación Mapuche, 2004.
+- ↑ Juan Bautista Alberdi (1852), Bases y puntos de partida para la reorganización nacional, capítulo 15, pág. 90.
+- ↑ «Bárbaros y civilizados», artículo de Pacho O'Donnell, en el sitio web Desarrollo y Región, del 30 de mayo de 2006.
+- ↑ Juan Bautista Alberdi: Bases y puntos de partida para la organización política de la República Argentina; páginas explicativas, 1879. «Bases: Páginas explicativas de Juan B. Alberdi», artículo publicado en Wikisource.
+- ↑ «El Camino de los Inmigrantes», portal oficial del Estado argentino
+- ↑ «La Inmigración en el Proyecto de Organización Nacional», portal oficial del Estado argentino
+- ↑ Juan B. ALBERDI (1879): Bases y puntos de partida para la organización política de la República Argentina. [Bases:Páginas explicativas de Juan B. Alberdi|[(Wikisource)]]
+- ↑ Rodríguez Molas, Ricardo (1984). Historia de la tortura y el orden represivo en Argentina (1° edición). Buenos Aires: Editorial Universitaria de Buenos Aires. pp. 74-75. ISBN 950-23-0176-5.
+- ↑ Bohoslavsky, Ernesto (2005). «Sobre la desconcertante maleabilidad de la memoria. Interpretaciones dde la «Patagonia trágica» en Argentina, 1920-1974». Cultura, Lenguaje y Representación 2: 41-58. ISSN 2340-4981. Consultado el 8 de junio de 2022.
+- ↑ Kocik, p.167 & 209.
+- ↑ Cartas Quillotanas. biblioteca.org.ar. 1853. p. 19. Archivado desde el original el 24 de junio de 2021. Consultado el 17 de mayo de 2020.
+- ↑ «Argentina: grietas nazis en pasado encubierto» Archivado el 22 de abril de 2008 en Wayback Machine., artículo de Marcela Valente en el sitio web IpsLatam, 2005.
+- ↑ Margulis, Mario; Urresti, Marcelo (1999). La segregación negada: cultura y discriminación social. Editorial Biblos. p. 104. ISBN 9789507862243.
+- ↑ Meo Zilio, Giovanni (2010). «Nacionalismo gauchesco ante el inmigrado italiano: el anti-italianismo del gaucho Martín Fierro (Causas socioculturales y modalidades estilísticas)». Cervantes Virtual.
+- ↑ Sorrentino, Fernando. «Verdades y mentiras del señor Martín Fierro». Archivado desde el original el 20 de abril de 2021. Consultado el 29 de mayo de 2021.
+- ↑ Algunos críticos han señalado también la existencia de versos que reflejan la violencia de género existente en Argentina en la segunda mitad del siglo XIX. ”Al ver llegar la morena que no hací caso de naides, le dije con la mamúa: «va ca…yendo gente al baile». La negra entendió la cosa y no tardó en contestarme mirándome como a perro… «más vaca será tu madre». Y dentró al baile muy tiesa, con más cola que una zorra, haciendo blanquiar los dientes lo mesmo que mazamorra»…«Negra linda». Me gusta pa la carona –la cama-, y me puse a tararear esta coplita fregona…”.Montenegro, Alfredo (20 de noviembre de 2019). «El Martín Fierro y la invención del gaucho muy gauchito». Consultado el 29 de mayo de 2021.
+- ↑ En defensa de Sarmiento, el historiador García Hamilton, ha sostenido que cuando Sarmiento le dice a Mitre "no ahorre sangre de gauchos, es lo único que tienen de humano", no se está refiriendo a los gauchos como se entiende en la actualidadConfidencias sobre el prócer sanjuanino por José Ignacio García Hamilton Acceso 29 de marzo de 2016.
+- ↑ https://www.redalyc.org/pdf/740/74011912001.pdf
+- ↑ https://digitalcollections.sit.edu/cgi/viewcontent.cgi?article=1158&context=isp_collection
+- ↑ https://historiaglobalonline.com/2016/12/20/los-origenes-urbanos-del-mito-de-la-desaparicion-de-la-poblacion-negra-en-argentina-por-erika-edwards/
+- ↑ Domingo F. SARMIENTO (1886): Viajes por Europa, África i América: 1845-1847. Alicante: Biblioteca Virtual Miguel de Cervantes, 2001, en el capítulo «Incidentes de Viaje». El texto original de Sarmiento se encuentra corregido para respetar la ortografía moderna.
+- ↑ https://www.clarin.com/cultura/sarmiento-anestesia-veinte-frases-picantes-sanjuanino_0_oOwT7Gh.html?gclid=Cj0KCQjw1bqZBhDXARIsANTjCPJ5ESNyHbc19lEWm1z2v3fBEq9hysGz-8-fcFHELjSPltyrCe5R2LIaAg-zEALw_wcB
+- ↑ «BILLIKEN BAJO LA DICTADURA». www.pagina12.com.ar. Consultado el 2 de junio de 2019.
+- ↑ «Pamela David elogió a la familia Macri por "blanca, hermosa y pura" y la mataron en las redes». Los Andes. 29 de noviembre de 2016. Archivado desde el original el 25 de febrero de 2017. Consultado el 24 de febrero de 2017.
+- ↑ «Tildan de racista a Pamela David: "La familia de Macri es blanca, hermosa, pura”». La Nueva Provincia. Bahía Blanca. 29 de noviembre de 2016. Archivado desde el original el 25 de febrero de 2017. Consultado el 24 de febrero de 2017.
+- ↑ El Progreso, 27/9/1844; El Nacional, 25/11/1876.
+- ↑ Archivo Mitre, IX, p. 360, Buenos Aires, Biblioteca de La Nación, 1911, http://www.bibliotecadigital.gob.ar/items/show/1372
+- ↑ Sarmiento, Domingo Faustino (1953). Belín Sarmiento, Augusto, ed. Obras de Sarmiento publicadas bajo los auspicios del gobierno argentino”. Tomo XXXVI: ‘Condición del extranjero en América’. Luz del Día. «Artículo titulado “Somos extranjeros”, en El Censor, Buenos Aires, 1886.»
+- 1 2 3 Fuerte repercusión en los medios de Brasil y México tras la polémica cita de Alberto Fernández. 9 de junio de 2021. Consultado el 10 de junio de 2021.
+- 1 2 «Las disculpas de Alberto Fernández por sus dichos sobre el origen de los argentinos». Página 12. 10 de junio de 2021. Consultado el 10 de junio de 2021.
+- ↑ «Discriminación a flor de piel en declaraciones de Alfonso Prat Gray. El miembro de Cambiemos aseguró que “somos un país muy culto” por lo que no quiere un país gobernado por provincianos». Perfil. 6 de noviembre de 2015. Archivado desde el original el 25 de febrero de 2017. Consultado el 1 de junio de 2019.
+- ↑ «La discriminación por edad y color de piel en Jujuy supera la media nacional». Télam. 3 de junio de 2014. Archivado desde el original el 27 de junio de 2023.
+- ↑ https://www.todojujuy.com/jujuy/las-acciones-del-inadi-contra-la-negra-vernaci-sus-dichos-jujuy-n131418
+- ↑ Avilés, María Luciana; Gurruchaga, Natalia Agustina (2018). «La construcción de representaciones mediáticas en torno a Milagro Sala en los programas de televisión tipo Magazine-político. Un análisis desde la comunicación, el género y la interseccionalidad». Universidad Nacional de Cuyo: 58-67.
+- ↑ Barrancos, Dora (2017). «Esa india. En defensa de Milagro Salas». Revista Anfibia. Argentina.
+- ↑ «Milagro Sala: 'Me investigan por negra, coya e india'». Clarín. 1 de diciembre de 2017.
+- ↑ «'Identidad Marrón Jujuy' impulsa acciones para erradicar el racismo». El Tribuno. 8 de enero de 2021.
+- ↑ «Los chilotes en la Patagonia», noticiaspatagonicas.com.ar (consultado 23 de diciembre de 2009).
+- ↑ ««Entrevista a Marcelo Peña, cónsul del Paraguay en Argentina»». Archivado desde el original el 4 de mayo de 2006. Consultado el 10 de enero de 2008.
+- ↑ «Raúl Kollmann, cónsul boliviano con los días contados». Buenos Aires: Página 12, 9 de abril de 2006.
+- ↑ «Un balazo con odio racial», Página/12, 9 de abril de 2008.
+- ↑ «Un testigo cuenta como una mujer boliviana fue arrojada del tren: relato de un viaje a la xenofobia», artículo de Cristian Alarcón en el diario Página/12 (Buenos Aires), del 2 de junio de 2001.
+- ↑ Alberto José Robles: Guía de buenas prácticas para el reconocimiento y concreción de la libertad de circulación de los trabajadores en el MERCOSUR, Lima (Perú): OIT, 2004. ISBN 92-2-315590-8.
+- ↑ «Enojo por las banderas», artículo en una página no oficial del Club Atlético Independiente
+- ↑ «Diplomáticos de Bolivia y Paraguay satisfechos con Independiente» Archivado el 28 de abril de 2014 en Wayback Machine., artículo en el diario Jornada Online.
+- ↑ «El árbitro Laverni detiene el partido Vélez-Boca por cantos racistas» (enlace roto disponible en Internet Archive; véase el historial, la primera versión y la última)., artículo en Iniciomio.com.
+- ↑ «Repudio del Cónsul de Bolivia a Pichetto: "Nos dio profunda lástima sus palabras"». Infobae. 6 de noviembre de 2016.
+- ↑ «Polémicas declaraciones de Miguel Pichetto sobre los inmigrantes». Infobae. 2 de noviembre de 2016.
+- ↑ de 2018, Ignacio Montes de Oca 22 de septiembre. «"La culpa es del extranjero": la larga y dramática historia de la xenofobia en Argentina». Infobae. Consultado el 21 de julio de 2019.
+- ↑ «Apareció un video de cadetes argentinos que repiten cantos xenófobos contra chilenos». La Nación. 7 de febrero de 2013.
+- ↑ «Lamentable cantito contra Chile de hinchas argentinos en la Copa América». La Izquierda Diario. 19 de junio de 2015.
+- ↑ Silva, Horacio Ricardo (2011). Días rojos, verano negro. Libros Anarres. p. 212. ISBN 9789871523146.
+- ↑ Goldman, Daniel (agosto de 2002). «Similitudes en Argentina». Le Monde Diplomatique Edición Cono Sur (36): 33. Archivado desde el original el 4 de marzo de 2016. Consultado el 22 de junio de 2016.
+- ↑ Marcela Valente: Argentina: grietas nazis en pasado encubierto, 2005 Archivado el 22 de abril de 2008 en Wayback Machine.
+- ↑ Senkman,1989
+- ↑ «Carta del cónsul argentino Marcos A. Savon al ministro Carlos Saavedra Lamas del 14 de julio de 1937». Archivos: Informes de las misiones diplomáticas argentinas sobre la política racista en Alemania y los países de la Europa ocupada (1933-1945), Polonia (1937-1945). En: Portal Iberoamérica y el Mundo.
+- ↑ «Tacuara salió a la calle», artículo en el diario Página/12 del 15 de mayo de 2005.
+- ↑ Raanan Rein y Eliezer Nowodworski, Argentina, Israel y los judíos: de la participación de Palestina al caso Eichmann (1947-1962), Buenos Aires, Lumiere, Universidad de Telaviv, Instituto de Historia y Cultura de América Latina, 2007, ISBN 9789876030267
+- ↑ Robert Weisbrot y Robert Murciano, The Jewish of Argentina: from the Inquisition to Perón, Philadelphia, Jewish Publication Society of America, 1979, ISBN 9780827601147.
+- ↑ John Dizgun, Immigrants of a different religion: Jewish Argentines and the boundaries of Argentinidad, (1919-2009), Rutgers University, Graduate School--New Brunswick, 2010, OCLC 805417824
+- ↑ Mario Geller: El antisemitismo y la Argentina. Instituto Ana Arendt Archivado el 28 de septiembre de 2007 en Wayback Machine.
+- ↑ ««Ramón Camps: el peor de todos», sitio Terra, 18 de marzo de 2006». Archivado desde el original el 8 de abril de 2008. Consultado el 31 de agosto de 2006.
+- ↑ Los desaparecidos judíos representan el 13 por ciento del total de 30 mil
+- ↑ Los desaparecidos judíos
+- ↑ Miriam Lewin y Olga Wornat (2014). Putas y guerrilleras, crímenes sexuales en los centros clandestinos de detención. Buenos Aires: Planeta. ISBN 978-950-49-3934-4.
+- ↑ Hernan Dobry y Daniel Goldman. Ser judío en los años setenta: Testimonios del horror y la resistencia durante la última dictadura. Sigo XXI editores. ISBN 978-987-629-377-8.
+- ↑ Saborido, Jorge (abril de 2004). «El antisemitismo en la Historia argentina reciente: la revista Cabildo y la conspiración judía». Revista Complutense de Historia de América 30. Madrid: Universidad Complutense de Madrid. pp. 209-223. ISSN 1132-8312.
+- ↑ Antisemitismo, Nunca Más informe
+- ↑ Goodkind, E. R.: «Doce años y aún sin respuesta: el impacto del atentado a la AMIA sobre la comunidad internacional», artículo en el sitio web AJC Español (Washington, D. C.), 18 de julio de 2006.
+- ↑ «El libro “Nacionalismo y antisemitismo en la Argentina”, de Daniel Lvovich», artículo en el diario La Capital (Rosario), del 12 de octubre de 2003.
+- ↑ «Jorge Rubinska, presidente de Atlanta, responde sobre el significado del antisemitismo contra su club y dentro de él», diario Página 12, 17 de septiembre de 2000.
+- ↑ «Aumentaron en un 55% las denuncias por antisemitismo en Argentina durante 2015». Infobae. 24 de junio de 2016.
+- ↑ https://www.lanacion.com.ar/espectaculos/catherine-fulop-hablo-judios-genero-polemica-nid2243677
+- ↑ De 2019, 2 De Mayo. «Denunciaron a Catherine Fulop por discriminación por sus dichos sobre la comunidad judía y el Holocausto». Infobae. Consultado el 4 de mayo de 2019.
+- ↑ De 2019, 2 De Mayo. «Catherine Fulop se disculpó tras una repudiable frase sobre la comunidad judía y el Holocausto». Infobae. Consultado el 4 de mayo de 2019.
+- ↑ https://www.pagina12.com.ar/561894-son-como-los-judios-no-tienen-patria-el-comentario-antisemit
+- ↑ https://www.infobae.com/politica/2023/06/25/el-comentario-antisemita-de-uno-de-los-candidatos-de-javier-milei-son-como-los-judios-que-no-tienen-patria/
+- ↑ República Argentina, «Registro nacional de la República Argentina que comprende los documentos expedidos desde 1810 hasta 1891..., Volume 1». Imprenta especial de obras, 1879.
+- ↑ Diario de viaje de un naturalista alrededor del mundo V. Santiago de Chile: Universitaria. 1995 [1833].
+- ↑ Academia Nacional de Historia (Argentina): Congreso Nacional de Historia sobre la Conquista del Desierto, volumen 4, pág. 378, 2009.
+- ↑ Segundo Censo Nacional 1895, pág. 48.
+- 1 2 María Luján Picabea (7 de junio de 2005). «La clásica novela “Shunko” tiene una versión radiofónica». Clarín. Archivado desde el original el 17 de mayo de 2008. Consultado el 28 de febrero de 2008.
+- ↑ ««Los pueblos indígenas en la Argentina de hoy», IWGIA». Archivado desde el original el 12 de junio de 2007. Consultado el 17 de febrero de 2007.
+- ↑ Citado en Crónica histórica argentina (pág. 20), tomo I. Buenos Aires: Códex, 1968.
+- ↑ Diario Clarín, 9 de diciembre de 1995
+- ↑ Buenos Aires Negra, pág 168, Daniel Schávelzon
+- ↑ «Historias de una Argentina en la que ser negro no es nada fácil», artículo de Horacio Cecchi en el diario Pagina/12 del 31 de octubre de 2000.
+- ↑ Horacio Cecchi (31 de octubre de 2000). «Una detención que no ordenó nadie». Página/12.
+- ↑ «La situación del pueblo en la Argentina», por Jorge Martínez Fernández Bernal, Gitanos, Sitio del Diputado Alejandro Navarro, 2001.
+- ↑ Navarro Floria, 1999.
+- ↑ Miguel Alberto Bartolomé: «Los pobladores del “desierto”», en Amérique Latine Histoire et Mémoire, numéro 10, 2004. Identités: positionnements des groupes indiens en Amérique Latine (en línea). Consultado el 9 de septiembre de 2006.
+- ↑ Jornadas de patrimonio cultural afroamericano en San Telmo, 2005.
+- ↑ «Algunos aspectos de la representación de los inmigrantes en Argentina», artículo de Isabel Santi en Amérique Latine Histoire et Mémoire, n.º 4, 2002. Consultado el 9 de septiembre de 2006.
+- ↑ Rebaza Villacorta, Wilfredo (2001). «El racismo como tabú en el Perú de hoy». Revista Jurídica Cajamarca. Consultado el 23 de febrero de 2013.
+- ↑ «Racismo no Brasil?» (en portugués). Archivado desde el original el 19 de septiembre de 2012. Consultado el 23 de febrero de 2013.
+- ↑ Dedier Norberto MARQUIEGUI: «Pluralismo social y cultural, crisol de razas y multiculturalismo en el estudio de las migraciones masivas a la Argentina: una mirada histórica retrospectiva». Astrolabio, revista del Centro de Estudios Avanzados de la Universidad de Córdoba, 2004.
+- ↑ Leopoldo ZEA: «El positivismo y la burguesía argentina». En El pensamiento latinoamericano. Barcelona: Ariel, 1976.
+- ↑ Di Mario, María Cecilia (2008). «Pinie Wald: cuando la pesadilla deviene crónica». De crónicas y escrituras en la Semana Trágica. Cuaderno de Trabajo 83. Buenos Aires: Centro Cultural de la Cooperación. p. 12. Archivado desde el original el 6 de noviembre de 2016. Consultado el 26 de febrero de 2017.
+- ↑ Schiller, Herman (3 de enero de 1999). «El primer 'pogrom'». Página/12.
+- ↑ Silva, Horacio Ricardo (2011). Días rojos, verano negro. Buenos Aires: Libros Anarres. ISBN 9789871523146.
+- ↑ Grimson, Alejandro (15 de diciembre de 2016). «Antiperonismo». Nuestra Voces. Archivado desde el original el 23 de octubre de 2020. Consultado el 26 de febrero de 2017.
+- 1 2 3 Nállim, Jorge (2014). Las raíces del antiperonismo. Buenos Aires: Capital Intelectual. ISBN 9789876144575.
+- 1 2 Cosse, Isabella (2014). «Identidad de clase media». Mafalda: Historia social y política. Buenos Aires: Fondo de Cultura Económica. ISBN 978-607-16-3339-2. «La imagen dialogaba con la dos posturas que habían dividido a la clase media desde el derrocamiento del peronismo y que, en 1965, constituían identidades políticas visibles: el "progresismo, esforzado por comprender al peronismo, y el "gorilismo", incapaz de ocultar su rechazo a lo popular, su antiperonismo y su racismo, aun cuando este último no pudiera ser aceptado explícitamente.»
+- ↑ Carta de Ernesto Guevara a su madre del 20 de julio de 1955 escrita en México. La Fogata
+- ↑ Campos, Horacio Raúl (15 de marzo de 2015). «El examen de Cortázar». AUNO. Lomas de Zamora.
+- ↑ Cortazar, Julio (1986). El examen. Buenos Aires: Sudamericana. pp. 89-90.
+- ↑ «Apuntes sobre la Triple A y la Liga Patriótica de los años ’20». Río Negro. 21 de enero de 2007. Archivado desde el original el 26 de octubre de 2012. Consultado el 23 de febrero de 2013.
+- ↑ Sabina, Luciana; Montes de Oca, Ignacio (26 de agosto de 2015). «La vieja costumbre argentina del antisemitismo». Radio Jai. Archivado desde el original el 27 de febrero de 2017. Consultado el 26 de febrero de 2017.
+- ↑ «Cuando el piquetero pasa a ser “ese negro de mierda”», artículo de Sergio Kiernan en el diario Página 12 (Buenos Aires), del 23 de febrero de 2004.
+- ↑ López Tais, Rodrigo (7 de diciembre de 2013). «Negro de alma». La Voz.
+- ↑ «La imagen de un documento del Ministerio de Producción argentino que genera repudio en las redes». RT en Español. Consultado el 7 de abril de 2019.
+- ↑ «El dibujo racista del ministerio de Producción para ilustrar un informe tributario». Minuto Uno. Consultado el 7 de abril de 2019.
+- 1 2 «Polémica por mensajes de odio atribuidos a la selección argentina de rugby». La Vanguardia. España. 30 de noviembre de 2020.
+- 1 2 «Escándalo con el capitán de Los Pumas: se viralizaron varias de sus publicaciones viejas y debió cerrar la cuenta de Twitter». Infobae. Argentina. 30 de noviembre de 2020.
+- ↑ «Los repudiables gestos antisemitas de un futbolista de Chicago tras ser expulsado en el partido ante Atlanta». A24. 8 de marzo de 2020. Consultado el 16 de mayo de 2024.
+- ↑ «La AFA suspendió por 10 fechas a Arnaldo González, el jugador de Nueva Chicago que hizo gestos antisemitas ante el público de Atlanta». infobae. 13 de marzo de 2020. Consultado el 16 de mayo de 2024.
+- ↑ Luis Advíncula fue víctima de mensaje racista de Nicolás Fernández, jugador de San Lorenzo
+- ↑ Sigmund FREUD: El chiste y su relación con lo inconsciente. En Obras completas (vol. I, pág. 825-937). Madrid: Biblioteca Nueva, 1967.
+- ↑ Jewish Virtual Library
+- ↑ Encyclopaedia Judaica, volumen 5. p. 380. ISBN 9780028659336. Archivado desde el original el 14 de agosto de 2014. Consultado el 22 de junio de 2014.
+- ↑ «Un balazo con odio racial». Página/12. 9 de abril de 2008.
+Bibliografía
+[editar]- Garbulsky, Edgardo (2003). «La antropología argentina en su historia y perspectivas: el tratamiento de la diversidad, desde la negación/omisión a la opción emancipadora». Colegio de Antropólogos de Chile. Documentos. Archivado desde el original el 9 de abril de 2006. Consultado el 8 de septiembre de 2006.
+- INADI (2005). La discriminación en Argentina. Diagnóstico y propuestas. Buenos Aires: INADI. ISBN 987-22203-0-1. Archivado desde el original el 29 de diciembre de 2009.
+- Margulis, Mario; Urresti, Marcelo (1998). La segregación negada: cultura y discriminación social. Buenos Aires: Biblos. ISBN 950-786-224-2.
+- Navarro Floria, Pedro (1999). «Un país sin indios: la imagen de la Pampa y la Patagonia en la geografía naciente del Estado Argentino». Scripta Nova, revista electrónica de geografía y ciencias sociales de la Universidad de Barcelona. Noviembre (51). ISSN 1138-9788. Consultado el 8 de septiembre de 2006.
+- Ramella, Susana T. (2004). Una Argentina racista: historia de las ideas acerca de su pueblo y su población, 1930-1950. FCPYS, Universidad Nacional de Cuyo.
+- Rodríguez Kauth, Ángel (2001). «El racismo en el pensamiento de José Ingenieros». Revista Digital Universitaria de la UNAM 2 (3). Consultado el 8 de septiembre de 2006.
+- Senkman, Leonardo (1989). El antisemitismo en la Argentina. Buenos Aires: CEAL. ISBN 950-25-0978-1.
+Enlaces externos
+[editar]- INADI.gov.ar (sitio oficial del Instituto Nacional contra la Discriminación).
+- Clarín.com. Archivado el 16 de mayo de 2010 en Wayback Machine. («Racismo en Argentina: pocos inmigrantes lo denuncian, muchos lo sufren», 27 de julio de 2005).
+- Clarín.com Archivado el 12 de noviembre de 2009 en Wayback Machine. («Reclamo de la ONU a la Argentina por el racismo», diario Clarín, 21 de marzo de 2001).
+- Infoleg.gov.ar (Ley 23.592 Antidiscriminatoria).
+- Mt.Middlebury.edu («Una historia del racismo en Argentina», de Mary Ting, Cuaderno Latinoamericano, Middlebury School, 2005).
+- Pagina12.com.ar («Los días difíciles de los negros en Argentina», Página/12, 2005).
+
+======================================================================
+
+[02/5]  REVISAR
+----------------------------------------------------------------------
+URL    : https://en.wikipedia.org/wiki/Racism_in_Argentina
+FECHA  : 2008-01-08
+SCORES : palabras 10 · densidad 143
+SHA256 : 68399ddf116feee53cdca030ac85264242ad28ee0c3bce7c44b87d5200fc17ef
+----------------------------------------------------------------------
+
+Racism in Argentina
+| This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these messages)
+ 
+ 
+ | 
+In Argentina, there are and have been cases of discrimination based on ethnic characteristics or national origin. In turn, racial discrimination tends to be closely related to discriminatory behavior for socio-economic and political reasons.[1][2]
+The prevalence and characteristics of racism in Argentina remain debated. Some commentators describe explicitly racist behaviour as marginal or socially rejected, while other writers and researchers argue that racism is widespread and expressed through language, social hierarchies, political identities, and institutional practices.[3][4]
+In 1995, Law No. 24,515 established the National Institute Against Discrimination, Xenophobia and Racism (INADI), which began operating in 1997. The institute was created to receive complaints, conduct investigations, develop public-awareness campaigns, and provide assistance to people affected by discrimination.
+Against specific groups
+[edit]Black people
+[edit]Black people, many of whom were brought to the region through the legal and illegal transatlantic slave trade, constituted a substantial share of the population during the late colonial period. Analyses of the 1778 colonial census estimate that people of African descent made up roughly one-quarter to one-third of the population of the territory that is now Argentina, with higher proportions in Buenos Aires and several interior provinces. Following the gradual abolition of slavery—beginning with the Freedom of Wombs Act in 1813 and culminating in constitutional abolition in 1853—the Afro-Argentine population declined in relative size through a combination of emancipation, intermarriage, wars, epidemics, large-scale European immigration, changing census classifications, and state policies promoting European immigration and whitening (blanqueamiento).[5]
+Ever since at least the 20th century, blackness has been conceived in Argentina as both a low social class and a biological category. In this view, a person can be considered black, a "negro boludo", regardless of their racial heritage or personal appearance. Not only biological traits such as dark skin, but also class markers such as attitudes, economic status and appearance, can make a person a "negro" (and identify themselves as such), even if they fit other stereotypes of whiteness. The use of the word "negro" is not necessarily derogatory, as it can also be used as a term of endearment.[6][7]
+In 1996, during a diplomatic trip, when asked if there were black people in Argentina, President Carlos Menem remarked that "no, this is a problem Brazil has".[8][9]
+Indigenous groups
+[edit]| This section needs expansion. You can help by adding missing information.  (July 2026) | 
+Whiteness in Argentina
+[edit]Although most other Latin American countries began identifying themselves as multi-ethnic and mixed-race democracies during the 20th century, Argentina continued to identify itself as uniformly white, even though it was not.[6][7][5] Argentinians identify themselves as ethnically different from neighboring countries such as Peru, Bolivia and Paraguay.
+Racial terms
+[edit]A series of terms are used in Argentina that have a certain discriminatory intention and constitute a particular form of racism.
+Indio
+[edit]The word indio ('Indian') is much less racially charged than the term negro in common Argentine language. There has been a minor trend over the last several decades of naming children with indigenous names[10] such as Ayelén, Maitén, or Lautaro, a trend that forced the Argentine government to revise its laws prohibiting the use of indigenous names.[11]
+There is also a tendency to label all indigenous people as indio or indígena without the speaker specifying, or even knowing, which group the person belongs to. This is a generalized practice that is common to Latin America as a whole and not just Argentina,[12] and is directly related to the effacement of non-European cultures.[13][14][15][16]
+Mestizo
+[edit]The word mestizo is not used very often in daily speech, although it is relatively common in the context of social sciences and history, sometimes with racial connotations.
+The use of mestizo as a racist term comes from the colonial caste system which was based on the concept of pure blood: the mestizo was considered inferior to the pure Spanish because his blood was mixed which made him impure. Although today it is known that biologically there is no such thing as a pure person, and various researchers have recycled the term to refer to any exchange of DNA,[17] and various other experts assert that all peoples and races are the result of prior mixing of races,[18] during the Spanish colonization of the Americas the idea was imposed that mestizo should be applied only to those persons of mixed indigenous and European ancestry, in order to demarcate their difference from the pure people who were generally of European ancestry.
+The racist colonial concept of mestizaje to some extent endures to this day, as witnessed by the recent debate about the racial origin of José de San Martín, one of the founders of Argentina. Commenting on this phenomenon, historian Hugo Chumbita asserted that "there has been and continues to be resistance to revising official history due to the idea that by corroborating the mixed racial origin of San Martín, then Argentina's image would be tarnished."[19] In a similar vein, an Argentine newspaper reported that conservatives voices were complaining: "If the founding father is a mestizo bastard, then so is Argentina."[20]
+Boliguayo
+[edit]The word boliguayo, a combination of boliviano ('Bolivian') and paraguayo ('Paraguayan'), is a blatantly derogatory term that first appeared in the 1990s and its use is growing rapidly in the first decade of the 21st century. The term's derogatory nature comes precisely from the speaker's indifference to the immigrant's identity and a disrespect towards their indigenous background.
+The following interview with a rugby player demonstrates how the term is used:
+Why do they call you Boliguayo?: I really don't know, they gave me the nickname when I was on a road trip if my memory serves me correctly. I was sort of boliguayo (dumb, slow).[21]
+Types of racism in Argentina
+[edit]"European" racism and Article 25 of the Constitution
+[edit]In Argentina, an extensive racist ideology has been built on the notion of European supremacy.[22] This ideology forwards the idea that Argentina is a country populated by European immigrants bajados de los barcos (straight off the boat), frequently referred to as "our grandfathers", who founded a special type of European society that is not Latin-American.[23] In addition, this ideology holds forth that cultural influences from other communities such as the Aborigines, Africans, fellow Latin-Americans, Arabs, Asians, and Pacific Islanders, are not relevant and even undesirable.
+European racism in Argentina has a history of government participation. The ideology even has a legal foundation that was set forth in Article 25 of the National Constitution sponsored by Juan Bautista Alberdi. The article establishes a difference between European immigration (which should be encouraged) and non-European immigration.
+Article 25: The Federal Government will encourage European immigration; and will not restrict, limit, nor tax the entry of any foreigner into the territory of Argentina who comes with the goal of working the land, bettering industry, or introducing or teaching sciences or the arts.
+Alberdi, the article's sponsor and the father of the Argentine Constitution of 1853, explained in his own words the basis for White-European discrimination:
+If you were to put the roto (literally "broken"), the gaucho, the cholo, the basic element of our popular masses, through the finest educational system; in one hundred years you would not make him an English worker who works, consumes, and lives comfortably and in a dignified manner.
+The discrimination between European and non-European immigration established by Article 25 of the Constitution has survived all subsequent constitutional reforms (1860, 1868, 1898, 1949, 1957, 1972 and 1994).
+Alberdi claimed that the "races which could improve the species" in Argentina were those that originated from Western Europe, chiefly Spain, England and France. Alberdi was also very partial to France where he spent much of his life in exile and where he died in 1884. In this way, despite the predominantly Hispanic and Latin culture of Argentina, Alberti proposed a semi-nordicist policy somewhat similar to the later White Australia policy and the United States Immigration Act of 1924.
+Alberdi, who was a proponent of French being the national language of Argentina, believed that Latino and Christian traditions were enemies of progress and supported discrimination against Latin American and Jewish immigration.[25]
+On the other hand, Argentine racist ideology against Jews became stronger over time. The apex of this tendency occurred when the Argentina foreign minister during the presidency of Roberto M. Ortiz issued a secret order in 1938 to deny Jewish immigrants visas to Argentina.[26]
+Antisemitism
+[edit]Leonardo Senkman, editor of the book Antisemitism in Argentina, stated:
+In contemporary Argentina – home to the most significant community of Jews in Latin America – anti-Semitism has been an endemic and extremely complicated phenomena.[27]
+Serious acts of racism against Jews have been committed in Argentina, such as the Argentine Chancellor's secret order in 1938 to prevent the arrival of Jews on national territory [26] and the terrorist attacks on the Israeli embassy in 1992 and the Asociación Mutual Israelita Argentina in 1994. Both attacks targeted Jewish institutions in Argentina, with Argentine investigations concluding that they were planned and carried out by actors operating from outside the country. The terrorist attacks against Jewish targets has sparked a debate between those who believe that they were not antisemitic acts and those who believe that the attacks were the "worst act of anti-Semitism since the second world war".[28]
+In an attempt to synthesize the positions of both sides of the debate, the researcher Daniel Lvovich has written:
+The attack on the AMIA was one of the most important acts of anti-Semitism of recent times, but the flip side was that thousands of demonstrators took to the streets with signs that read "We are all Jews".[29]
+In 1937, during the government of Augustín P. Justo, the Argentine consul in Gdynia, Poland sent several notes to the Minister Carlos Saavedra Lamas under the heading "Jewish problem" that demonstrate the generalized antisemitic sentiment of the Argentine government. In a letter sent July 13, 1937, on the eve of the Nazi invasion, the consul wrote:
+I am of the opinion that it would be preferable to prevent Jewish immigration to Argentina. The Jews are leaving Poland carrying a profound hatred of Christianity, and are prepared to commit the gravest of excesses.[30]
+During the military regimes in Argentina, and especially during the dictatorship known as the Proceso de Reorganización Nacional, serious acts of antisemitic persecution occurred. Some were tortured, degraded, and even murdered for the sole fact of being Jewish. In the secret detention centers it was common practice to burn the Star of David onto the bodies of Jewish prisoners.[31] Ramon Camps, the Chief of Police in Buenos Aires, who allegedly kidnapped and tortured Jacobo Timerman, claimed that Zionists were enemies of Argentina and had a plan to destroy the country. This ideology was used as a pretext to implement illegal repressive methods to resolve what was referred to as "the Jewish issue".[32]
+Antisemitism in daily life is widely apparent in Argentina. A prime example of this occurs regularly at the Atlanta association football club located in the Villa Crespo neighborhood of Buenos Aires, a district that has a significant Jewish population. For several years now the fans of opposing teams root for their clubs by waving Nazi flags and throwing soaps onto the playing field.[33]
+A report by the DAIA revealed that discriminatory acts against Jews in Argentina rose 32% in 2006.[34]
+Racism against other Latin-Americans
+[edit]Paraguayans and Bolivians were the two principal sources of Latin American immigrants to Argentina in 2007. It is estimated that almost 5% of the population in Argentina is from Paraguay or Bolivia, or has Bolivian or Paraguayan ancestors.[35][circular reference][36]
+Another incident was the racially motivated murder of Marcelina Meneses and her ten-month-old son Josua Torrez who were pushed under a moving train near the Avellaneda station on July 10, 2001. The Bolivian community in Argentina protested with the slogan "Do not forget Marcelina".[37]
+Legacy
+[edit]Contemporary demographics
+[edit]The current Argentine population reflects the former immigration policy conducted by the government in the 19th and 20th century only partially, considering that Italians and Spaniards were not intended to predominate as they do.[38] There are also significant Germanic, Slavic, British, Arab[39][40] and French populations.
+Argentina does not publish a complete official racial classification of its population. White Argentines are generally considered the country’s largest group, largely reflecting the major European immigration waves of the nineteenth and twentieth centuries, especially from Italy and Spain. Estimates have placed the white population at roughly 79–89%, although these figures vary by methodology. The 2022 census separately recorded 2.83% of the population as Indigenous or of Indigenous descent and 0.66% as Afro-descendant; most of the remaining population was not classified by race. Genetic studies also indicate substantial mixed ancestry, with European ancestry predominating alongside significant Indigenous and smaller sub-Saharan African contributions.
+In 2001, Afro-Argentine activist Pocha Lamadrid and founder of the NGO África Vive collaborated with the Buenos Aires Ombudsman's Office to carry out an "Afro-Argentine census" in Buenos Aires, in parallel to the national census being held that year, as the official census did not include questions regarding race self-identification.[41] According to Lamadrid, as of 2002 there were "at least 2 million" Argentines of African descent, but many of them ignore their background due to pervasive racism deeply entrenched in Argentine society.[42][43] Lamadrid's activism contributed to the 2010 Argentine national census including a question on Afro-Argentine background.[44][45]
+See also
+[edit]References
+[edit]- ↑ Sáez Capel, José (2001). "Los migrantes y la discriminación en Argentina". Scripta Nova. Revista Electrónica de Geografía y Ciencias Sociales. Universidad de Barcelona.
+- ↑ "La escuela es el peor nido de los prejuicios y el racismo en Argentina", Interview with Víctor Ramos, president of SOS Internacional (in Spanish) Archived September 28, 2007, at the Wayback Machine
+- ↑ Armony, Ariel (5 April 2008). "Lo que nos enseñó D'Elía". La Nación (in Spanish).
+- ↑ Adamovsky, Ezequiel (21 April 2008). "Gringos y negros". Página/12 (in Spanish).
+- 1 2 Gayles, Prisca (2021-09-02). "¿De dónde sos?: (Black) Argentina and the mechanisms of maintaining racial myths". Ethnic and Racial Studies. 44 (11): 2093–2112. doi:10.1080/01419870.2020.1823448. ISSN 0141-9870.
+- 1 2 Adamovsky, Ezequiel (2017-09-02). "Ethnic nicknaming: 'negro' as a term of endearment and vicarious blackness in Argentina". Latin American and Caribbean Ethnic Studies. 12 (3): 273–289. doi:10.1080/17442222.2017.1368895. ISSN 1744-2222.
+- 1 2 Perelman, Mariano (2017). "Notes about Racist Argentina and a Class-Based Government". American Anthropologist. 119 (3): 532–534. ISSN 0002-7294.
+- ↑ "¿Hay negros en Argentina?", BBC Mundo, 16 de marzo de 2007
+- ↑ "De donde sos?", The impossible Union of Blackness and Argentinidad by Arielle C. Knight, Wesleyan University, 2011
+- ↑ Incentivan a poner nombres indígenas, La Gaceta de Tucumán, 20 de diciembre de 2005 Archived 2007-09-27 at the Wayback Machine
+- ↑ Por la Ley 23.162 de 1984 se agregó el artículo 3 bis a la Ley del Nombre nacional, autoriza la inscripción de "nombres aborígenes o derivados de voces aborígenes autóctonas y latinoamericanas".
+- ↑ MANN, Charles (2006), 1491, Apéndice A: Palabras lastradas, Madrid, Taurus, pag. 443-449
+- ↑ Garbulsky, Edgardo (2003). La antropología argentina en su historia y perspectivas: el tratamiento de la diversidad, desde la negación/omisión a la opción emancipadora. Vol. Documentos. Archived from the original on 9 April 2006. Retrieved 8 September 2006. {{cite book}}:|work=ignored (help)
+- ↑ INADI (2005). Buenos Aires: INADI (ed.). La discriminación en Argentina. Diagnóstico y propuestas (PDF). ISBN 987-22203-0-1. Archived from the original (PDF) on 2009-12-29.
+- ↑ Margulis, Mario; Urresti, Marcelo (1998). Buenos Aires: Biblos (ed.). La segregación negada: cultura y discriminación social. ISBN 950-786-224-2.
+- ↑ Navarro Floria, Pedro (1999). Un país sin indios: la imagen de la Pampa y la Patagonia en la geografía naciente del Estado Argentino. ISSN 1138-9788. Retrieved 8 September 2008. {{cite book}}:|work=ignored (help)
+- ↑ La investigadora María Elena Sáenz Faulhaber sostiene que el concepto de "raza" debe ser referido al ADN y el de "mestizaje" a su combinación. Para ella "mestizaje" significa que "los respectivos cromosomas con sus genes se combinan entre sí, sin mostrar preferencia alguna por los de uno u otro grupo y con una independencia absoluta de la cultura". Sáenz Faulhaber, María Elena (1993). El mestizaje en la integración de la población colonial, en Bernardo García Martínez, Cecilia Rabell Romero, et al., El poblamiento de México. Una visión histórico demográfica, tomo II: El México colonial, México: Consejo Nacional de Población, pp. 86-107.
+- ↑ Catalunya, crisol de culturas o elogio del mestizaje humano y cultural, Juan Agustín Goytisolo, La Factoría, Nº 9, Junio-Septiembre 1999
+- ↑ Prócer mestizo. Investigadores señalan que el ideal americanista y popular del libertador fue impulsado por su sangre indígena, La Capital, 7 de noviembre de 2006[permanent dead link]
+- ↑ El terremoto sanmartiniano, Los Andes, 31 de agosto de 2001 Archived 2007-12-21 at the Wayback Machine
+- ↑ Amia Cuba, Las 40 de la 22, 2002
+- ↑ La discriminación en la discursividad social, por Mario Margulis, en Margulis (1998):17-37
+- ↑ "El racismo argentino es un racismo europeo, por Teun van Dijk, Centro de Documentación Mapuche, 2004". Archived from the original on 2007-12-05. Retrieved 2008-01-27.
+- ↑ Alberdi, Juan B. (1852), Bases y puntos de partida para la reorganización nacional, Cap. XV, pág. 90 consulta del libro en la Biblioteca Virtual Cervantes
+- ↑ Bárbaros y civilizados, por Pacho O'DONNEL, Desarrollo y región, 30 de mayo de 2006 Archived October 15, 2007, at the Wayback Machine
+- 1 2 Argentina: Grietas nazis en pasado encubierto, por Marcela Valente, 2005 Archived 2008-04-22 at the Wayback Machine
+- ↑ Senkman,1989
+- ↑ Doce Años y aún sin Respuesta: El Impacto del Atentado a la AMIA Sobre la Comunidad Internacional, por E. R. Goodkind, 18 de julio de 2006, Washington, D.C. (ver)
+- ↑ El libro "Nacionalismo y antisemitismo en la Argentina", de Daniel Lvovich, La Capital, 12 de octubre de 2003 Archived 2003-11-02 at the Wayback Machine
+- ↑ Carta del Cónsul argentino Marcos A. Savon al Ministro Carlos Saavedra Lamas del 14 de julio de 1937, ARCHIVOS: Informes de las misiones diplomáticas argentinas sobre la política racista Alemania y los paises de la Europa ocupada (1933-1945), Polonia (1937-1945), Portal Iberoamérica y el Mundo
+- ↑ "El antisemitismo y la Argentina, Mario Geller, Instituto Ana Harendt" (PDF). Archived from the original (PDF) on 2007-09-28. Retrieved 2006-08-31.
+- ↑ Ramón Camps: el peor de todos, Terra, 18 de marzo de 2006
+- ↑ Jorge Rubinska, presidente de Atlanta, responde sobre el significado del antisemitismo contra su club y dentro de él, Página 12, 17 de septiembre de 2000
+- ↑ La DAIA se reúne con Kirchner y le pedirá que sea firme con Irán, Clarín, 31 de enero de 2007
+- ↑ Wikipedia en español (in Spanish)
+- ↑ Raúl Kollmann, Cónsul boliviano con los días contados, Página 12,9 de abril de 2006
+- ↑ Un testigo cuenta como una mujer boliviana fue arrojada del tren: Relato de un viaje a la xenofobia, por Cristian Alarcón, Página/12, 2 de junio de 2001
+- ↑ "Federaciones Regionales". Feditalia.org.ar. Archived from the original on 2016-05-02. Retrieved 2010-04-25.
+- ↑ "Inmigración sirio-libanesa en Argentina" (in Spanish). Fearab.org.ar. Archived from the original on 20 June 2010. Retrieved 13 April 2010.
+- ↑ Barros, Carolina (23 August 2012). "Argentina's Syrians". www.buenosairesherald.com. Retrieved 4 November 2016.
+- ↑ "Proponen homenajear a la activista afro "Pocha" Lamadrid con una placa recordatoria en Plaza Dorrego". La Urdimbre (in Spanish). 9 August 2022. Retrieved 10 December 2022.
+- ↑ "Una mujer denunció que la discriminaron por ser negra". Clarín (in Spanish). 24 August 2002. Retrieved 10 December 2022.
+- ↑ Sinay, Javier (10 March 2021). "La comunidad invisibilizada de 2 millones de personas que lleva a preguntarse: ¿es Argentina un país racista?". Redacción (in Spanish). Retrieved 10 December 2022.
+- ↑ Delgado, Alí (28 April 2022). "Pocha Lamadrid y la lucha por una Argentina antirracista". El Grito del Sur (in Spanish). Retrieved 10 December 2022.
+- ↑ "Argentina también es Afro" (in Spanish). Instituto Nacional contra la Discriminación, la Xenofobia y el Racismo. 2022. p. 67.
+
+======================================================================
+
+[03/5]  REVISAR
+----------------------------------------------------------------------
+URL    : https://www.infobae.com/sociedad/2026/03/12/por-que-la-argentina-enfrenta-dificultades-para-reconocer-su-raiz-indigena-y-debatir-el-racismo-estructural/
+FECHA  : 2026-03-12
+SCORES : palabras 2 · densidad 22
+SHA256 : 5a7573bbd44efa6f43c2708047c81f845eb5311a25875245732e956a75ab813a
+----------------------------------------------------------------------
+
+En una entrevista en Infobae en vivo, la politóloga Inés Palacios sostuvo que el racismo en la Argentina se manifiesta de manera internalizada y estructural, impactando a quienes tienen raíces indígenas en un escenario social marcado por resistencias históricas y negación identitaria.
+En diálogo con el equipo de Infobae a la Tarde, integrado por Manu Jove, Maia Jastreblansky, Paula Guardia Bourdin y Tomás Trapé, Inés Palacios expuso su mirada sobre cómo el racismo y el clasismo se entrelazan en la Argentina. “Por sí o por no, sí somos racistas”, afirmó, y describió las distintas formas en que este fenómeno se expresa: “El racismo argentino opera en cuatro formas. La primera, un tipo de racismo que yo le llamo internalizado... Cuando uno mira el censo de la Argentina, solo el 2,4% de argentinos se reconocen o pertenecientes a una población originaria o con raíces indígenas. Pero cuando mirás los estudios genéticos, lo que se ve es que las provincias con menos participación indígena tienen un 40% y las provincias con más tienen un 98%. Si los argentinos genéticamente somos entre un 40 y un 98% indígenas, pero solo el 2% lo reconoce, claramente ahí hay un fenómeno de vergüenza de decir que somos indígenas”.
+PUBLICIDAD
+El racismo estructural y la negación de la identidad
+Palacios contextualizó su análisis a partir de su historia personal y su recorrido académico: “Mi familia es de los Valles Calchaquíes, de Santa María de Catamarca. A los 18 me vine a estudiar a Buenos Aires con una beca en Di Tella. Después me fui ganando becas para hacer un intercambio en Washington, otra con la Fundación Obama en la Universidad de Columbia”.
+Relató que su experiencia le permitió ver cómo el racismo se manifiesta desde la infancia: “La chica que me cuidaba me decía negra fiera y a mi hermana le decía flaca linda, y mi hermana no era marrona como yo. Por mucho tiempo creí que lo que yo vivía era hiperpersonal. Hasta que cuando tenía 21, y estaba haciendo mi intercambio en Washington, una amiga afro me preguntó cómo me sentía siendo de color. Ahí entendí que no era solo algo personal”.
+PUBLICIDAD
+La politóloga subrayó la importancia de la negación identitaria en la Argentina: “Hay un fenómeno de vergüenza de decir que somos indígenas. Eso está asociado no solo a la historia de cómo se construyó la nación argentina, sino también a lo que transmitieron los medios: ‘No hay indígenas en Argentina como hay en otras partes de Latinoamérica’. Probablemente fuimos un país supereuropeizado, pero eso no quita que tengamos un 40 u 80% de población indígena”.
+Racismo, clasismo y desigualdad social
+Durante la charla, Maia Jastreblansky propuso analizar la relación entre racismo y clasismo. Palacios coincidió: “En la Argentina hay clasismo, una discriminación por tus oportunidades socioeconómicas. Pero ese clasismo opera fuertemente con racismo, que hay una desigualdad. Los pueblos originarios tienen peores indicadores de desarrollo humano que el resto de los argentinos”.
+PUBLICIDAD
+Aportó que los datos académicos muestran una correlación “muy fuerte en Argentina entre color de piel oscuro y menos oportunidades educativas. La pobreza de la Argentina es indígena o descendiente. Los indígenas o descendientes como yo hemos tendido históricamente a tener menos oportunidades económicas y sociales”.
+A la hora de comparar con otros países, Palacios marcó diferencias estructurales: “Las categorías étnico-raciales en países como Estados Unidos, donde hubo segregación, llevaron a que un blanco se autoperciba blanco. En Argentina es neutral ser no indígena”.
+PUBLICIDAD
+Nuevas representaciones y desafíos para la inclusión
+Palacios puso en valor la aparición de referentes en la cultura pop y el deporte: “Algo positivo que está pasando es el patrón común entre Milo J., Cazzu y Anabel Sánchez. Surgieron figuras que representan ese tipo de belleza, aunque tal vez no digan ‘tengo raíces indígenas’, yo me animo a decir que las tienen y que están haciendo historia en la Argentina. Son los primeros arquetipos que representan un símbolo de poder simbólico para los marrones”.
+Consultada sobre la resignificación de palabras en el habla cotidiana, Palacios fue taxativa: “A mí me han dicho toda la vida negrita, que entiendo perfectamente cuando me lo dicen de cariño y cuando no. Pero también entiendo que me digan negrita es que me racialicen, porque yo no le digo a mis hermanas blanquitas. Si hilamos fino, es complejo... Es verdad que hay una buena intención, pero esa buena intención, si la desempacás, es racialización”.
+PUBLICIDAD
+Al cierre, la politóloga evaluó el estado actual del debate público: “Creo que cambió un montón. Si uno hace un paralelismo con el feminismo, la Argentina no es la misma después de lo que pasó en 2017 y 2019. Todavía a la Argentina no le pasó eso en términos de antirracismo. Soy optimista y creo que eso va a pasar. Sí, estamos en un momento supercrítico, superconservador, con mucho backlash, donde incluso se ponen en cuestión cosas que habíamos aceptado culturalmente en términos de desigualdad de género. Creo que en algún momento puede haber mayor conciencia cultural, social, sobre que la Argentina tiene una deuda sobre este tema”.
+--
+Infobae te acompaña cada día en YouTube con entrevistas, análisis y la información más destacada, en un formato cercano y dinámico.
+• De 7 a 9: Infobae al Amanecer: Nacho Giron, Luciana Rubinska y Belén Escobar.
+• De 9 a 12: Infobae a las Nueve: Gonzalo Sánchez, Tatiana Schapiro, Ramón Indart y Cecilia Boufflet.
+• De 12 a 15: Infobae al Mediodia: Maru Duffard, Andrei Serbin Pont, Jimena Grandinetti, Fede Mayol y Facundo Kablan.
+• De 15 a 18: Infobae a la Tarde: Manu Jove, Maia Jastreblansky y Paula Guardia Bourdin; rotan en la semana Marcos Shaw, Lara López Calvo y Tomás Trapé
+PUBLICIDAD
+• De 18 a 21: Infobae al Regreso: Gonzalo Aziz, Diego Iglesias, Malena de los Ríos y Matías Barbería; rotan en la semana Gustavo Lazzari, Martín Tetaz y Mica Mendelevich
+Seguinos en nuestro canal de YouTube @infobae.
+PUBLICIDAD
+PUBLICIDAD
+
+======================================================================
+
+[04/5]  REVISAR
+----------------------------------------------------------------------
+URL    : https://www.mdzol.com/sociedad/que-tipo-racismo-hay-argentina-el-analisis-historiadores-la-polemica-campana-redes-n1571319
+FECHA  : 2026-07-25
+SCORES : palabras 2 · densidad 30
+SHA256 : 9763a559d9f4f2763e57a4ca29f2d644dd5a7f8cabdbab45d02ad4814c78e3f4
+----------------------------------------------------------------------
+
+¿Qué tipo de racismo hay en Argentina? El análisis de historiadores tras la polémica campaña en redes
+En diálogo con MDZ, expertos analizaron la "campaña anti-Argentina", la historia de la comunidad afro en Argentina y explicaron qué tipo de racismo hay actualmente en el país.
+Durante todo el Mundial 2026, comenzó a gestarse en redes sociales una especie de campaña, que fue denominada mediáticamente como “campaña anti-Argentina”, que impulsaba el contenido con mensajes de odio dirigidos a la Selección argentina de fútbol, que se perfilaba como una de las favoritas en el torneo, siendo el último “baile” del capitán, Lionel Andrés Messi. A medida que el seleccionado de Lionel Scaloni avanzaba, se hacían más fuertes los comentarios conspiranoicos que apuntaban contra la albiceleste, como fue el caso de “ArgenFIFA”. Sin embargo, las teorías trascendieron lo futbolístico y lo conspiranoico, haciendo la problemática aun más profunda, cuando ganó terreno una ola de contenidos celebrando la derrota argentina ante España en la final, por considerarlo un país “racista”.
+Personalidades internacionales como Samuel L. Jackson y Mia Khalifa -sin mencionar el reposteo de Rosalía- se sumaron a los festejos por la victoria española en la final de la Copa del Mundo, asegurando que Argentina se merecía perder por ser “uno de los países más racistas del mundo”. Esa campaña de odio en redes -impulsada por el algoritmo que recompensa a los usuarios que difunden contenidos que generan ira o fake news- llevó a que personas de cualquier parte del mundo apuntaran y demonizaran a la Argentina sin siquiera conocerla, creyendo que “por no haber personas negras” en el plantel, haya racismo.
+- Te puede interesar- Joe Jonas apoyó a la Argentina con un fuerte gesto en pleno concierto
+Pero no solo los ataques acapararon la atención en las redes. En los últimos días, también, hubo quienes salieron a defender al país y señalar que, detrás de cada búsqueda por dividirnos, hay intereses. En ese contexto, el escritor y divulgador Felipe Pigna hizo un descargo asegurando que se trata de una acusación hipócrita, teniendo en cuenta que gran parte de Europa se dedicó, a lo largo de varios siglos, a colonizar territorios y luego comercializar a las poblaciones de sus colonias como esclavos y, en el caso de Estados Unidos, a violentar y a segregar a personas únicamente por su color de piel.
+Mirá el descargo de Felipe Pigna tras las acusaciones de racismo en Argentina
+“¿No les parece raro que los países más racistas del mundo nos estén acusando de racistas a nosotros? España, con tres siglos de dominación colonial, durante los cuales estableció una sociedad de castas, en la que la población estaba dividida en castas: negros, zambos, indios, españoles y americanos. Francia, con un imperio colonial tremendo. Bélgica, que hizo un genocidio espantoso en el Congo. Estados Unidos, que hasta la década de 1960 tuvo baños para blancos, baños para negros y colectivos para cada uno. ¿Ellos nos acusan de racistas? ¿En serio? ¿A nosotros? Nosotros no somos una sociedad que se defina como racista. Por supuesto, hay racistas en la Argentina y hubo episodios de racismo en la Argentina, pero no nos definimos como una sociedad racista”, cuestionó Pigna en un video que subió como descargo a la red social Instagram.
+- 		Te puede interesar¿Llega Tesla a la Argentina?, el desafío más allá de las rutas y la energía
+Ahora bien, los argentinos, ¿somos racistas? Pese a que la demonización y el ataque a la Argentina fue extremo -por parte de personas que ni siquiera pisaron ni conocen la historia del país- esta situación puede llevarnos a hacer una revisión y autocrítica. Si bien el racismo en Argentina no es igual al de Estados Unidos ni al europeo, hay que aceptar que, como cada país, Argentina sí tiene racismo. Pero, como dicen los expertos, es distinto.
+La historia afro en Argentina
+Orlando Gabriel Morales es investigador del Instituto de Ciencias Humanas, Sociales y Ambientales (Incishusa) del Conicet Mendoza y se especializa en estudios afrolatinoamericanos. Según explicó, la presencia de población africana en el territorio argentino se remonta al sistema esclavista impuesto por la España colonizadora. Miles de personas fueron trasladadas de manera forzada a América a través del tráfico transatlántico. En el Río de la Plata, muchas fueron destinadas al trabajo doméstico, aunque también se desempeñaron en diferentes oficios, actividades comerciales y servicios urbanos.
+Morales aclaró que ciertas normas coloniales reconocían a las personas esclavizadas algunos derechos, como la posibilidad de comprar su libertad, recibirla por decisión del amo o recurrir a la Justicia ante situaciones de maltrato. Eso no significaba, remarcó, que existiera una esclavitud benigna. “Seguía siendo esclavitud, había violencia y esas personas no tenían los mismos derechos que la población libre”, explicó, en diálogo con MDZ.
+Mestizaje, guerras e inmigración
+Durante el siglo XVIII se produjo un amplio mestizaje entre españoles, comunidades originarias y afrodescendientes. Crecieron las poblaciones identificadas en los registros históricos como mulatas, pardas, zambas o afromestizas. Más tarde, durante el proceso revolucionario y las guerras por la Independencia, numerosos hombres afrodescendientes fueron incorporados a los ejércitos patriotas. Algunos murieron, otros se desplazaron hacia distintas regiones y muchos no regresaron a sus lugares de origen.
+A esos movimientos se sumaron la mortalidad infantil, las enfermedades, las epidemias y diferentes catástrofes que afectaron a toda la población, pero tuvieron un impacto particular en los sectores más vulnerables. Sin embargo, para el investigador, la población afro en el entonces Río de la Plata -ahora Argentina- no se extinguió, sino que se mezcló y dejó de ser identificada por un organismo oficial.
+La llegada masiva de inmigrantes europeos entre fines del siglo XIX y comienzos del XX también redujo proporcionalmente su peso demográfico. Al mismo tiempo, el Estado construyó una narrativa nacional asociada con una Argentina blanca y de origen europeo. “Hubo una política de invisibilización y de asimilación de todo lo que fuera diverso o extraño al componente europeo que se quería privilegiar”, sostuvo Morales.
+Esa representación tuvo consecuencias concretas. Durante décadas, muchas familias dejaron de reconocerse como afrodescendientes y el Estado dejó de incorporar esa categoría en los censos y registros oficiales.
+Más de cien años sin contar a la población afro
+En Mendoza, según detalló Morales, la última medición específica de la población afrodescendiente durante el siglo XIX se realizó en 1823. En otras provincias, como Buenos Aires o Córdoba, los registros continuaron durante más tiempo. Sin embargo, al ingresar en el siglo XX, esa población ya no era contabilizada de forma diferenciada en ningún punto del país. La pregunta sobre ascendencia africana recién reapareció en el Censo de 2010, después de más de un siglo de ausencia.
+El Censo de 2022 volvió a incorporar esa identificación. De acuerdo con los datos citados por el investigador, 302.936 personas se autorreconocieron afrodescendientes, lo que corresponde al 0,7% de la población argentina, mientras que en Mendoza el porcentaje alcanzó el 0,4%.
+Dentro de ese universo conviven personas con raíces afroargentinas de varias generaciones, migrantes de otros países de América Latina y habitantes llegados desde distintas regiones de África. La cifra es reducida en comparación con otros países, pero contradice la idea de que en la Argentina no existen personas afrodescendientes.
+¿Qué forma adopta el racismo argentino?
+Morales sostuvo que en todas las sociedades existen el racismo y la discriminación. Sin embargo, consideró difícil establecer un ranking que permita afirmar en qué países hay más o menos. En la Argentina, explicó, una de las manifestaciones más extendidas es la discriminación social o de clase, combinada con rasgos físicos, étnicos y culturales.
+Expresiones como “cabecita negra” o “negro villero” no aluden necesariamente a una persona afrodescendiente, pero sí aluden al color de piel “marrón”, el origen territorial, la pobreza, la vestimenta y la pertenencia social. “Lo más fuerte en Argentina es la discriminación social, o también lo que se llama racismo social. El componente de clase es central, pero se combina con características fenotípicas”, señaló.
+El investigador también reconoció la existencia de organizaciones afrodescendientes que denuncian formas de racismo estructural. Esas agrupaciones reclaman una mayor presencia en la memoria pública, políticas de reconocimiento y acceso igualitario a derechos. “Hay racismo y discriminación racial en Argentina. Es algo histórico”, enfatizó Morales.
+Una identidad blanca que no representa a todo el país
+El politólogo argentino Javier Franzé, radicado en Madrid, también pidió cautela al abordar el tema. Para él, la Argentina tuvo normas avanzadas en determinados momentos históricos -como lo fue la abolición de la esclavitud en 1860-, pero eso no impidió que el racismo se filtrara en la vida social.
+Franzé también habló del peso simbólico de la expresión “cabecita negra” y cuestionó la construcción de una identidad nacional basada casi exclusivamente en la inmigración europea, como lo dijo el expresidente Alberto Fernández con la polémica frase: “Los argentinos llegamos de los barcos”. Para el politólogo, esa es una representación que niega o relega la presencia indígena, afrodescendiente y mestiza.
+Volviendo al Mundial 2026, Franzé sostuvo que el racismo argentino no puede analizarse únicamente mediante la cantidad de futbolistas negros que aparecen en la Selección. Esa pregunta puede resultar pertinente en países con historias coloniales y migratorias diferentes, pero no funciona como una medida universal.
+La presencia de jugadores negros en equipos europeos tampoco demuestra que esas sociedades hayan superado el racismo. Un club puede incluir deportistas de distintos orígenes y, al mismo tiempo, conservar prácticas discriminatorias en sus tribunas o instituciones.
+Para Franzé, uno de los principales errores del debate internacional consiste en trasladar de manera automática las categorías raciales de Estados Unidos o Europa a la realidad argentina. “Las realidades nacionales son todas muy particulares. El racismo existe en todos lados, pero sus formas de expresión tienen que ver con cada historia”, explicó.
+En Estados Unidos, la segregación racial, las leyes discriminatorias y la división histórica entre blancos y negros organizaron buena parte de la vida social. En la Argentina, en cambio, el mestizaje, la clase social, la inmigración y la invisibilización estatal configuraron un escenario diferente. Eso no significa que el país esté libre de racismo. Significa, según Franzé, que el fenómeno debe estudiarse con herramientas capaces de comprender sus expresiones locales.
+Redes sociales, desconocimiento y simplificación
+Morales vinculó la polémica actual con el funcionamiento de las plataformas digitales. En las redes circulan fragmentos de información, videos breves y declaraciones descontextualizadas que favorecen las generalizaciones. “Hay mucho de ignorancia en lo que se dice sobre los otros porque se habla desde la información mínima que circula en redes sociales”, señaló.
+La lógica de los algoritmos también premia los contenidos que generan indignación, confrontación o rechazo. En ese marco, una acusación extrema contra un país puede alcanzar más visibilidad que una explicación histórica compleja. El investigador observó además que muchas de las críticas provienen de sociedades que también mantienen conflictos raciales, desigualdades estructurales y problemas de integración de minorías.
+Eso, aclaró, no invalida automáticamente las denuncias sobre la Argentina. Pero sí debería impulsar una reflexión sobre las contradicciones de quienes señalan problemas ajenos sin revisar sus propios contextos. “Antes de hablar sobre otros lugares desde el desconocimiento, también valdría la pena debatir las prácticas de discriminación que existen en las sociedades desde las que se habla”, concluyó Morales.
+Contar futbolistas negros o afrodescendientes o comparar realidades nacionales sin conocer sus historias no alcanza para explicar un fenómeno tan complejo. Las acusaciones difundidas en las redes pueden estar atravesadas por la desinformación y las generalizaciones. Pero la respuesta tampoco debería consistir en negar los prejuicios, las desigualdades o la invisibilización que persisten dentro del país.
+La discusión exige reconocer dos realidades al mismo tiempo: la Argentina no puede analizarse con las mismas categorías que Estados Unidos o las antiguas potencias coloniales, pero tampoco está libre de racismo.
+
+======================================================================
+
+[05/5]  REVISAR
+----------------------------------------------------------------------
+URL    : https://www.perfil.com/noticias/sociedad/en-argentina-nunca-hubo-regimenes-de-segregacion-racial-como-hubo-en-estados-unidos-destaca-el-historiador-ezequiel-adamovsky.phtml
+FECHA  : 2026-07-22
+SCORES : palabras 8 · densidad 26
+SHA256 : 98ea2d3a4683a2415e0a4b139203a76e6cb364fe1b6d26d777860e0cc99f1184
+----------------------------------------------------------------------
+
+Ezequiel Adamovsky, doctor en Historia por el University College London (UCL), licenciado en Historia por la Universidad de Buenos Aires e investigador del CONICET, lleva décadas estudiando las clases populares en la Argentina y las complejas formas en que el término "negro" es aplicado en el país: tanto como expresión de desprecio como de afecto y de identidad. Por eso, considera que toda afirmación taxativa sobre el racismo en el país peca de simplista
+"La conversación se está dando en términos bastante idiotas", dice, en relación al acalorado debate generado en el contexto del Mundial de Fútbol. "Es ridículo decir que en Argentina no existe racismo; existe un racismo intenso. Pero es igualmente ridículo decir que es el país más racista del mundo. No sé de dónde saca Samuel L. Jackson que somos el país más racista del mundo, probablemente de videos de YouTube con información falsa", afirma.
+El origen histórico del racismo en Argentina
+—¿Qué quiere decir exactamente que un país sea racista?
+—El racismo es una forma activa de discriminación. Quiere decir que es un modo de separar y jerarquizar el valor de las personas según una creencia, que es falsa: la idea de que hay atributos que se transmiten por el cuerpo, de generación en generación. Eso es el racismo. Y esa es una idea que estructuró todo el mundo moderno, especialmente en el espacio atlántico: Europa, América y África. Esa idea se utilizó para secuestrar personas de África, convertirlas en esclavas, trasladarlas forzosamente a trabajar a las Américas y Europa, y generar riqueza. En las sociedades atlánticas, el sistema de estratificación social está construido por diferencias de clases (de dinero, de tipo de ocupación), pero también por diferencias de color. Pasa en todas las Américas, de norte a sur, y por supuesto sigue afectando a África. Así que si la pregunta es si la Argentina es una sociedad estructurada por el racismo y si este forma parte de su cultura, por supuesto que sí, tal como sucede en todos los otros países del espacio atlántico.
+Scaloni y De la Fuente: de la escuela a la final del mundo
+De la colonia a la invisibilización afroargentina
+—¿Cómo comenzó el racismo en la Argentina en relación a la población afrodescendiente, y cómo evolucionó?
+—Argentina nace de una colonia española, y en la época colonial la sociedad estaba establecida como una sociedad de castas. Es decir, una estructura en la cual el grupo étnico y el color de una persona determinaban por nacimiento el lugar que ocupaba. Eso asoció el color negro y la procedencia africana con la condición abyecta de la esclavitud; la menor valía de una persona por ser esclava era una especie de sinónimo de su color de piel, y eso generó todo un sistema de prejuicios, desprecio y odio hacia la población afrodescendiente que nos acompaña hasta hoy. En todo el mundo sigue habiendo una percepción antinegra muy poderosa y nuestro país no es la excepción.
+Buenos Aires fue un puerto importante de tráfico de esclavos y en todo nuestro país hubo presencia de ellos. En 1830, los afrodescendientes, tanto libres como esclavos, formaban el 30% de la población; tenían una presencia y visibilidad muy grande. Esa visibilidad comenzó a perderse a fines del siglo XIX, por varios motivos.
+—¿Cuáles?
+  
+  —Por un lado, disminuyó su peso demográfico porque llegó una oleada masiva de inmigración europea. La población afrodescendiente pasó de ser el 30% en 1830 al 2% en 1880, sin que hayan desaparecido ni se hayan extinguido. También perdieron visibilidad por un proceso de gentrificación en la ciudad de Buenos Aires: antes vivían juntos en zonas como San Telmo y luego fueron desplazados hacia el conurbano y se dispersaron.
+—¿De dónde viene la idea de la "Argentina blanca"?
+—Eso es lo más importante en este proceso de invisibilización: desde fines del siglo XIX, el Estado argentino adoptó una narrativa que indicaba que la Argentina es un país blanco y europeo. Ese discurso se enseñó en las escuelas y presionó fuertemente hacia la invisibilización de la comunidad afroargentina, bajo la premisa de que "en Argentina somos todos blancos". Con lo cual la comunidad afroargentina recibió violencia simbólica por partida doble: por el desprecio hacia lo negro y por la negación de su presencia.
+Integración y racismo: por qué "negro" puede representar cariño o desprecio
+—¿Cómo convive ese desprecio por lo negro con su integración cultural? 
+  
+  —Hubo un proceso simultáneo en el que en la sociedad argentina se fueron construyendo lazos de solidaridad desde muy temprano entre blancos, negros, mestizos e indígenas, sobre todo entre las clases populares. Además, la Revolución de Mayo y la independencia en Argentina tuvieron un sesgo muy igualitarista. En 1813 se sancionó la Libertad de Vientres, que acabó con la transmisión hereditaria de la esclavitud, y se interrumpió el tráfico. La esclavitud se terminó de abolir en 1853 con la Constitución Nacional (en Buenos Aires, en 1860). Desde muy temprano, la población negra libre fue declarada igual en derechos que la blanca. En 1831, Buenos Aires tenía una ley electoral muy progresiva que le daba el derecho al sufragio a cualquier varón libre sin importar su educación o color.
+Esa igualdad formal convivía con la continuidad del racismo. A diferencia de Estados Unidos, en Argentina no hubo regímenes de segregación racial. Jamás hubo prohibición del casamiento interracial ni formas legales de separación en transporte, hospitales o baños. En el mundo popular hubo contactos muy estrechos y los afroporteños participaron decisivamente en la formación de la cultura popular como el tango, el carnaval y el candombe.
+—¿Cómo es que "negro" en Argentina puede usarse como apelativo afectuoso o como insulto?
+—A fines del siglo XIX pasa algo muy interesante: este lazo de solidaridad en el mundo popular crea una cultura compartida con elementos negros muy poderosos. Se afirma una costumbre muy particular: las personas empiezan a dirigirse unas a otras diciéndose "negro" en sentido afectuoso. En la década de 1880 ya aparece documentado que gente de clase popular que no es negra se llama "negro" entre sí. Mi hipótesis es que los blancos copiaron esa costumbre afectuosa de los afroargentinos.
+Milei, en contra de condenar al racismo
+Simultáneamente, las clases altas comienzan a transferir sobre todos los pobres, sin importar el color de piel, el apelativo "negro" en sentido de desprecio. Algo muy peculiar de la Argentina es que se usa el término para referirse a alguien plebeyo culturalmente o pobre, sin importar si tiene la piel clara u oscura. El desprecio racista que antes se dirigía a los afroargentinos se derramó sobre el conjunto de las clases populares.
+Así, durante todo el siglo XX conviven el racismo antinegro tradicional (que ataca a cualquier persona de tez amarronada o simplemente pobre) y, al mismo tiempo, la valoración de lo negro como algo genuinamente popular o afectivo.
+—¿Esta resignificación del término "negro" es exclusiva de nuestro país?
+  
+  —El uso de "negro" en sentido afectivo, nombrando a personas que no necesariamente son de piel oscura, es común en Argentina, Uruguay y otros países latinoamericanos como Cuba. Lo que es peculiar de Argentina es usarlo para referirse al conjunto de las clases bajas (llamar "negro" a un blanco si es pobre).
+El uso como afecto tiene que ver con la formación de un sentido de comunidad en el mundo popular. En ese "nosotros popular", los afrodescendientes tuvieron un lugar central aportando prácticas festivas como el candombe. Esos lazos de transferencia cultural le dieron una connotación positiva relacionada con lo popular y la alegría, que convive con la persistencia del uso racista.
+Además, como las clases altas trataban de descalificar a las clases bajas llamándolas "negras", el término fue utilizado políticamente como afirmación. Los antiperonistas llamaron "cabecitas negras" a los peronistas para descalificarlos, y tiempo después el peronismo levantó esa bandera en sentido desafiante. Hace unos años hubo incluso una agrupación kirchnerista cuyo nombre era "Negros de Mierda", afirmando esa negritud como algo de valor, a pesar de que la mayoría eran de tez clara.
+También aparece el apodo "El Negro" o "La Negra" para personas blancas de renombre, como el Negro Fontanarrosa o la Negra Bozán. En la cultura popular lo negro adquirió un cierto prestigio como algo alternativo, rebelde y moderno.
+—Entonces, ¿cómo se explica una expresión como "yo no digo negro de piel, digo negro de alma"?
+—Se relaciona con un cambio en las doctrinas racistas a fines del siglo XIX: el racismo científico y el positivismo. Se planteó que la mezcla con alguien no blanco generaba una "mancha" en los genes que persistía incluso si la persona lucía blanca. La idea era que alguien podía ser blanco pero tener esa mancha por ancestría o por compartir el universo popular, y que podía transmitirlo a su descendencia: lo que los positivistas llamaban atavismos..Se asoció con atributos de desprecio moral: que son vagos, violentos, irracionales, desordenados, promiscuos, de vida disipada; todo lo que se asocia a lo plebeyo. Cuando se dice "negro de alma", se desprecia todo ese universo cultural más que la apariencia física.
+La mirada internacional y el debate sobre los discursos vs. la realidad material
+—Entonces, ¿de dónde cree que surgió esta idea de que la Argentina es un país más racista que otros, que circuló tanto durante este Mundial?
+  
+  —Hubo un movimiento sin precedentes de ataque a la Argentina y uno de los ejes fue este supuesto racismo singular. Por un lado, la denigración de la Argentina es una prédica constante incluso en propios sectores locales. Tuvimos un vocero presidencial que acaba de decir que Argentina es un país "bananero", utilizando un desprecio que alude a lo caribeño e indirectamente a lo afro. Invitaría a ver el desprecio por lo argentino que hay por parte de los propios argentinos: periodistas hablando del conurbano "africanizado" o alusiones constantes relacionando lo argentino con lo negro y africano en sentido de desprecio.
+Argentina es de los pocos países cuyas élites invitaron a pensarse como un país blanco y europeo, lo que significa negar la presencia del no blanco. Eso produce un sentido de superioridad de muchos argentinos respecto de lo latinoamericano. Recordamos a Alberto Fernández diciendo que "los argentinos descendemos de los barcos y los brasileños de la selva", o a Mauricio Macri diciendo algo parecido. Eso repercute en toda América Latina y genera problemas internos y externos.
+—¿Cómo se interpretan en este marco las declaraciones de la vicegobernadora de Mendoza, Hebe Casado, que llamó a la Selección de Francia "equipo africano"?
+Las declaraciones como las de la vicegobernadora de Mendoza corren por otro carril: ahí hay ignorancia al no ver que Francia hoy es una sociedad diversa y se busca desacreditar a su selección por asociación con lo africano.
+—¿Qué relación hay entre tener un país racista y que se escuchen cantos racistas en las canchas?
+—El racismo no es una cuestión de palabras ni de que alguien opine mal de otro. Lo principal del racismo es que ordena a las personas, y a algunas les quita oportunidades y las somete a violencias materiales concretas. Si tengo que decir qué es lo más racista de la sociedad argentina, es lo mismo que en cualquier otra sociedad: si uno ve quiénes son los pobres y quiénes son los ricos, va a ver que los ricos tienden a ser todos blancos y los más pobres tienden a ser de tez más oscura. Eso es el racismo. Si uno ve quién está en las cárceles o a quién le aplica gatillo fácil la policía, va a encontrar que esos cuerpos son particularmente de tez amarronada y no blancos.
+A veces se corre el foco a la cuestión del vocabulario y esto me parece un problema. Uno podría "limpiar" el vocabulario, quitar todas las palabras o los cantitos de fútbol despectivos del ámbito público; sin embargo, si la sociedad sigue siendo exactamente igual de racista, la policía seguirá matando a chicos de tez amarronada y ellos seguirán ganando menos en el mercado de trabajo que los blancos.
+En este sentido, es cierto que los cantos de una hinchada argentina con agresiones racistas contribuyen al racismo. Y cuando son escuchados por sociedades como la francesa, la estadounidense o la inglesa —que ya limpiaron su lenguaje público de expresiones racistas implícitas—, les suena totalmente chocante. Perciben que quienes cantan son personas abominablemente racistas. Todo eso contribuye. Pero quiero insistir: ni la palabra ni el canto en una cancha de fútbol son una indicación crucial para determinar si una persona o una sociedad es o no racista. El foco está en la práctica material de la discriminación. Luego vemos lo simbólico y los términos, que por supuesto también son importantes, pero no hay que descuidar lo crucial.
+
+======================================================================
+
+FronterIA-Lab · 100tifiko · Soberanía cognitiva del Sur Global
