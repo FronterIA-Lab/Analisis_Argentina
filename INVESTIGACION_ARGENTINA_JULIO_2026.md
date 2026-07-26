@@ -51,9 +51,70 @@ Se distinguen tres tipos de afirmación:
 
 El informe no adopta ninguna de las dos narrativas virales. Las trata como *objetos* a desarmar.
 
-### 1.3 Reserva sobre “Acuerdos de Isaac”
+### 1.3 Acuerdos de Isaac: estratificación forense (corrección metodológica)
 
-El documento de resistencia continental aporta un marco de alineamientos (Argentina entre gobiernos capturables; Patagonia como infraestructura; intercambio soberanía/vigilancia). Se registra como **hipótesis geopolítica del corpus**, no como hecho cerrado. Lo que sí se sostiene con independencia de ese marco: hay un patrón observable de apertura territorial, estigmatización de pueblos originarios y desfinanciamiento ambiental en 2023–2026.
+En la primera versión de este informe se condensó el marco de *El Mapa de la Resistencia…* como “hipótesis geopolítica, no hecho cerrado”. Esa formulación fue **demasiado gruesa**: mezcló en un solo cajón (a) hechos o patrones con respaldo fuerte en el resto del corpus, (b) afirmaciones mediáticas sobre un acuerdo Argentina–Israel, y (c) la interpretación maximalista del documento (vigilancia, biometría, “modelo Gaza”). Aquí se separan.
+
+#### Por qué se aplicó cautela (y qué justifica esa cautela)
+
+Al auditar *El Mapa de la Resistencia…* (mayo 2026) aparece esto:
+
+| Problema epistémico | Evidencia en el propio texto |
+|---|---|
+| Fuente madre del gran relato | La nota [1] —que sostiene guerra EE.UU./Israel–Irán, “Plan B” latinoamericano, bloques 120 vs 477 millones, etc.— apunta a un **TikTok** (`@javierhalamadrid`) |
+| Lagunas admitidas | La tabla país-por-país repite: **“Información no disponible en fuentes proporcionadas”** (Argentina incluida en la columna de datos de mayo) |
+| Contaminación de corpus | Se mezclan UNESCO, Banco Mundial, OCHA-Gaza, JSTOR con TikToks (incl. uno sobre el “Gral. Isaac Bravo” en México, homonimia irrelevante) |
+| Salto interpretativo | El texto dice explícitamente “según esta interpretación” al pasar de cooperación estratégica a exportación de vigilancia / “modelo Gaza” |
+| Autolimitación | Concluye que la semana 16–21 mayo “no está detallada en eventos específicos en las fuentes proporcionadas” |
+
+Eso **no autoriza a descartar el eje**. Autoriza a no tomar el empaquetado narrativo como tratado verificado.
+
+#### Tres capas que no deben confundirse
+
+**Capa A — Patrón material documentado en otros textos del repo (alta confianza)**
+
+Independiente del nombre “Isaac”, el corpus sostiene:
+
+1. **Patagonia como territorio estratégico en disputa**, no “desierto”: agua dulce, hidrocarburos, biodiversidad; tierra abierta a capital extranjero tras derogación de la Ley de Tierras (2023); Benetton ~900.000 ha; cuatro grupos extranjeros ~110.000 ha Bariloche–El Bolsón (*La Patagonia arde dos veces*).
+2. **Securitización racista del pueblo mapuche** como enemigo interno (“terrorismo ambiental”), desmentida por la Justicia de Chubut, funcional al despojo.
+3. **Desfinanciamiento ambiental deliberado** (presupuesto Ambiente −80%, brigadistas −50%, etc.) coherente con liberación de territorio.
+4. **Extractivismo de litio** en Puna con narrativa de territorios vacíos y asimetría informativa (Fornillo et al.).
+5. **Aparato de seguridad que no tipifica odio étnico** (SNIC) mientras la narrativa política sí fabrica amenazas.
+
+Esta capa **no es hipótesis**. Es el piso sobre el que cualquier alianza externa se apoya. Decir “Patagonia como infraestructura” en sentido de *territorio ofrecido al capital y al modelo securitario* está respaldado aquí; decir que eso ya está “instalado como base Isaac” exige otra prueba.
+
+**Capa B — Hecho mediático alegado (confianza media; verificación externa pendiente)**
+
+El documento cita:
+
+- [6] `defonline.com.ar` — “Acuerdos de Isaac: el nuevo acuerdo entre Argentina e Israel” (viaje Milei a Jerusalén).
+- [4] `jpost.com/spanish` — “Los Acuerdos de Isaac: Construyendo Nuevos Puentes…”.
+- Premio Génesis 2025 a Milei donado como capital semilla a *American Friends of the Isaac Accords* / Genesis Prize Foundation; rol de Fitz Haney.
+
+En este entorno de ejecución **no hubo egress** hacia esos dominios (allowlist restringida a infra Cursor/GitHub), así que no se pudo re-leer el texto completo de DEF/JPost ni el acta del acuerdo. Queda como: **afirmación periodística citada por el corpus, no triangulada aquí**. Eso es “no cerrado”, no “falso”.
+
+**Capa C — Interpretación geopolítica maximalista (hipótesis de trabajo)**
+
+De la Capa B el *Mapa* deduce:
+
+- bloque de “gobiernos capturables” vs. “bloque soberano”;
+- intercambio soberanía ↔ vigilancia/armamento/drones;
+- Patagonia / zonas francas / Galápagos como nodos de infraestructura del pacto;
+- datos biométricos de poblaciones racializadas para IA;
+- continuidad colonial 1492 bajo lenguaje “judeocristiano”.
+
+Eso es **marco hermenéutico** útil para leer la coyuntura, no inventario de cláusulas verificadas. Su valor analítico aumenta cuando se ancla en la Capa A; disminuye cuando se cita como si fuera el tratado.
+
+#### Criterio corregido
+
+| Afirmación | Estatus |
+|---|---|
+| Argentina bajo Milei abre tierra patagónica y criminaliza mapuches | **Hecho de corpus** (Capa A) |
+| Existe un acuerdo/marco “Isaac” Argentina–Israel mediáticamente reportado (abr. 2026) | **Pendiente de triangulación** (Capa B) |
+| Ese acuerdo = instalación de vigilancia tipo Gaza + biometría racializada en Patagonia | **Hipótesis interpretativa** (Capa C) |
+| El patrón despojo + racismo de Estado + alineación securitaria externa es el conflicto central | **Conclusión analítica fuerte**, no depende del branding “Isaac” |
+
+En resumen: la reserva no era “ignorar Isaac”; era **no dejar que un TikTok + collage de fuentes lleven el peso de toda la geopolítica**, mientras el despojo patagónico —mejor documentado— quedaba en segundo plano. El error de la v1 fue formularlo como cuarentena total en lugar de estratificación.
 
 ---
 
