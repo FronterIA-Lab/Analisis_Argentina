@@ -6,29 +6,41 @@
 
 ---
 
-La Argentina de julio de 2026 disputa tres frentes a la vez: la reputación en el algoritmo, el territorio bajo fuego y litio, y la tubería de control que une Jerusalén, Casa Rosada y el Ministerio de Seguridad. Quien mira un solo frente pierde el mapa. Quien los lee juntos ve el *Ollin*: el mismo movimiento que blanquea cuerpos, securitiza pueblos y abre tierra al capital.
+El núcleo de este mapa es el **racismo**. Todo lo demás —Mundial, Isaac, litio, fuego, algoritmo— gira alrededor de quién puede habitar, hablar, aparecer en pantalla y negar con autoridad. La Argentina de julio de 2026 disputa reputación, territorio y tubería de control; el hilo que los cose es racial. Quien lee solo geopolítica de tratados pierde el cuerpo. Quien lee solo el gesto de tribuna pierde el Estado. El *Ollin* une ambos: blanquea pantallas, securitiza pueblos y abre tierra al capital.
 
 ---
 
-## I. El *chimalli* digital: racismo filmado y bronca monetizada
+## I. El absurdo fundante: blancos negando el racismo
 
-El 3 de julio, en el Hard Rock Stadium de Miami, una hincha con camiseta albiceleste le ordena a IShowSpeed —Darren Watkins Jr.— que se vaya a llorar al zoológico. El 7 de julio, en Atlanta, otra tribuna le ofrece el ademán del mono. La FIFA abre investigación; BBC, Associated Press, Infobae y BioBioChile fijan el registro. El gesto y la norma caminan juntos: el racismo entra al Mundial con camiseta y sale con expediente.
+Quienes niegan el racismo argentino son, de manera abrumadora, **personas blancas**. Ocupan el noticiero, el panel, el hilo viral, el atril libertario, la columna que “defiende al país”. Morenos y negros faltan en las pantallas argentinas como sujeto cotidiano; aparecen de golpe —token, excepción, “prueba”— para sostener que el racismo falta. La pantalla y el cuerpo cortan con dos filos: la pantalla exhibe una nación blanca; el cuerpo racializado carga el gesto, el “boliguayo”, el “cabecita negra”, el ademán de mono.
 
-Ad Hoc Digital midió la conversación entre el 11 de junio y el 20 de julio: 826.000 menciones a Argentina como sociedad “racista”; 764.000 al vínculo con Israel; 688.000 a “ArgenFIFA” / Mundial amañado; 379.000 a la “campaña antiargentina”. El eje racial pesó más que el relato de victimización. Los picos siguieron el fixture: Cabo Verde, Egipto, Inglaterra, la final. Mercedes Máspero, sobre cerca de 300 mil publicaciones en X, halló mensajes idénticos, perfiles falsos y disparos simultáneos; Facundo Sagárnaga nombró además a los creadores que monetizan la tendencia y a quienes critican episodios racistas reales.
+Esa negación es absurdo epistémico. Quien **no es sujeto del racismo** —quien el sistema trata como norma, no como amenaza— habla desde un cuerpo que el orden protege. El feminismo ya calibró el parámetro: los hombres callan sobre el aborto porque el útero y la policía del embarazo habitan otro cuerpo; la experiencia organiza la autoridad de la palabra. El racismo exige la misma extensión. Agustín Laje, Varsavsky, el panel europeísta, el influencer “verdadero argentino”, el legislador que convierte la ofensa en arancel: hablan del racismo como meteorología ajena. Afirman lo que su piel desconoce. La palabra y el latigazo se han vuelto mascarilla cuando el negador mide el dolor ajeno con la regla de su propio privilegio.
 
-La bronca tiene caja. Maximiliano Firtman (Perfil) y Bruno Sgarzini rastrean cuentas patrocinadas por Rainbet —Curazao, Comoras— con millones de visualizaciones sobre faltas inventadas de Messi; Mia Khalifa exhibe ganancias en 1WIN tras apostar a España. El *ragebait* cobra por indignación: provoca, mide, empuja, factura. Chequeado documentó oleadas de fake news —virus en video, Haaland/Malvinas, piezas con IA—. El feed y la tribuna trabajan el mismo *tletl*: fuego que ilumina el hecho y fuego que lo vende.
+Adamovsky documenta el mito de la Argentina blanca-europea: las élites invitaron al país a imaginarse pueblo europeo; “negro” marca clase, provincia, plebeyez, color. El artículo 25 de la Constitución sigue mandando fomentar la inmigración europea. El Censo de 2022 autorreconoce 302.936 personas afro (≈0,7%): cifra del borrado tanto como del conteo. Isabel Santi nombra el dicho que aún circula en bocas blancas: “acá no hay racismo porque no hay negros”. Esa frase confiesa el proyecto: el racismo trabaja borrando al sujeto que lo denunciaría.
 
-Milei convierte ese ruido en política. Sin comunicado de Cancillería, amplifica en X a Varsavsky, Felipe Núñez, Diego Laje, Juan Pablo Carreira y el marco de Agustín Laje (Fundación Faro): “guerra híbrida”, batalla cultural, cancelación. Infobae reconstruye el dispositivo: el Mundial pasa a repertorio reputacional del mileísmo. Tiempo Argentino registra el paso siguiente: legisladores de La Libertad Avanza toman la “campaña antiargentina” para relanzar el arancelamiento de salud y educación a extranjeros. El *chimalli* de la ofensa se vuelve cuchillo migratorio.
-
-La bandera y el feed cortan con dos filos. La bandera pide unidad blanca-europea; el feed vende indignación global. Quienes visten Europa cuando discriminan y Latinoamérica cuando se victimizan ensayan el mito blanqueador en formato vertical. El artículo 25 de la Constitución sigue mandando fomentar la inmigración europea; Adamovsky lleva décadas nombrando ese mito. Es ridículo decir que en Argentina no existe racismo. La percepción de quien recibe el gesto llega calibrada: lee un orden.
+Es ridículo decir que en Argentina no existe racismo. La percepción de quien lo recibe en el cuerpo —afroargentino, indígena, migrante boliviano o paraguayo, clase popular amarronada— llega calibrada. Lee un orden. El blanco que niega pide ranking, “contexto”, “campaña”. Pide permiso a su propia ausencia de herida.
 
 ---
 
-## II. El *petlatl* partido: fuego, mapuche, litio
+## II. El *chimalli* digital: el gesto, el feed y el escudo blanco
 
-Entre fines de 2025 y enero–febrero de 2026, el fuego consume cerca de 230.000 hectáreas —La Pampa ~168.000, Chubut ~45.000, más Neuquén, Río Negro, Santa Cruz—. Gobernadores piden Emergencia Ígnea. FARN mide el Presupuesto 2026 del Servicio Nacional de Manejo del Fuego: caída real del **71,6%** respecto de 2025; Euronews y Perfil confirman el orden del −70/−71%. El Fondo Nacional del Manejo del Fuego ya había sido disuelto. La brigada pelea con contrato vencido; el cerro arde con planilla seca.
+El 3 de julio, en el Hard Rock Stadium de Miami, una hincha con camiseta albiceleste le ordena a IShowSpeed —Darren Watkins Jr., hombre negro— que se vaya a llorar al zoológico. El 7 de julio, en Atlanta, otra tribuna le ofrece el ademán del mono. La FIFA abre investigación; BBC, Associated Press, Infobae y BioBioChile fijan el registro. El racismo entra al Mundial con camiseta y sale con expediente. El cuerpo negro en la tribuna recibe lo que el cuerpo blanco en el panel niega.
 
-Mientras Chubut quema, el Ministerio de Seguridad de la Nación apunta a “grupos terroristas autodenominados mapuches” y “terrorismo ambiental”. El fiscal jefe de Lago Puelo, Carlos Díaz Mayer, responde en Clarín, Ámbito y elDiarioAR: **“está totalmente descartado”** que mapuches hayan provocado los incendios; descarta teorías conspirativas; confirma acelerantes e intencionalidad, con autores aún por identificar. Nación fabrica enemigo; la Justicia provincial desmiente. El racismo aquí viste uniforme: produce legítima defensa estatal para liberar territorio. El werken lo dijo sin adorno en el ciclo del fuego: después del fuego, la tierra.
+Ad Hoc Digital midió la conversación entre el 11 de junio y el 20 de julio: **826.000** menciones a Argentina como sociedad “racista”; 764.000 al vínculo con Israel; 688.000 a “ArgenFIFA”; **379.000** a la “campaña antiargentina”. El eje racial pesó más que el relato de victimización. Los picos siguieron el fixture —Cabo Verde, Egipto, Inglaterra, la final—: partidos donde el contraste racial del plantel rival y de las tribunas volvió visible lo que la pantalla local oculta. Mercedes Máspero, sobre ~300 mil publicaciones en X, halló bots y mensajes idénticos; Sagárnaga nombró también a quienes critican episodios racistas **reales**. El hecho y la granja caminan juntos.
+
+La bronca tiene caja. Firtman (Perfil) y Sgarzini rastrean cuentas Rainbet con millones de views sobre faltas inventadas; Khalifa exhibe ganancias en 1WIN. El *ragebait* cobra por indignación. Chequeado documentó fake news. El feed vende el racismo dos veces: una como acusación global; otra como ofensa que el blanco argentino convierte en identidad herida.
+
+Milei —figura del blanqueo libertario en el atril— convierte ese ruido en política. Amplifica en X a Varsavsky, Núñez, Diego Laje, Carreira y Agustín Laje: “guerra híbrida”, batalla cultural. Infobae reconstruye el dispositivo. Tiempo Argentino registra el paso siguiente: LLA usa la “campaña” para arancelar salud y educación a extranjeros —cuerpos racializados del continente—. El *chimalli* de la ofensa blanca se vuelve cuchillo contra el migrante marrón.
+
+La bandera y el feed cortan con dos filos. La bandera pide unidad europea; el feed vende bronca. El mismo sector que niega el racismo porque “somos todos argentinos” aparece europeo cuando discrimina y latinoamericano cuando se victimiza. Esa disonancia es el software del mito blanqueador en vertical.
+
+---
+
+## III. El *petlatl* partido: fuego, mapuche, litio — racismo hecho tierra
+
+El racismo argentino deja la tribuna y baja al territorio. Entre fines de 2025 y enero–febrero de 2026, el fuego consume cerca de 230.000 hectáreas —La Pampa ~168.000, Chubut ~45.000, más Neuquén, Río Negro, Santa Cruz—. Gobernadores piden Emergencia Ígnea. FARN mide el Presupuesto 2026 del Servicio Nacional de Manejo del Fuego: caída real del **71,6%** respecto de 2025; Euronews y Perfil confirman el orden del −70/−71%. El Fondo Nacional del Manejo del Fuego ya había sido disuelto. La brigada pelea con contrato vencido; el cerro arde con planilla seca.
+
+Mientras Chubut quema, el Ministerio de Seguridad de la Nación —voz del Estado blanco-securitario— apunta a “grupos terroristas autodenominados mapuches” y “terrorismo ambiental”. El pueblo originario vuelve a ser el enemigo útil del relato. El fiscal jefe de Lago Puelo, Carlos Díaz Mayer, responde en Clarín, Ámbito y elDiarioAR: **“está totalmente descartado”** que mapuches hayan provocado los incendios; confirma acelerantes e intencionalidad, con autores aún por identificar. Nación fabrica enemigo racializado; la Justicia provincial desmiente. El racismo viste uniforme: produce legítima defensa estatal para liberar territorio. El werken lo dijo sin adorno: después del fuego, la tierra.
 
 En la Puna, el capital nombra transición lo que el salar mide en gotas. Clarín y DATA Legislativa reportan (julio 2026): de 21 proyectos RIGI, 12 son mineros; **seis de litio** suman más de **US$ 6.361 millones** —Rio Tinto–Rincón US$ 2.744 M; Exar–Caucharí Olaroz US$ 1.241 M (Resolución 825/2026); Posco, Galán, Liex—. El RIGI blinda treinta años de beneficios. Observatorio RIGI y CELS advierten: en escasez de agua, la prioridad corporativa pesa más que el abastecimiento interno; la consulta indígena llega rota. Agencia Tierra Viva muestra proyectos sobre conflictos previos. El “desierto” del siglo XIX reaparece como zona de sacrificio del XXI: misma gramática, otra mercancía.
 
@@ -36,7 +48,7 @@ La carretera y la vena cortan el mismo cerro. La carretera trae inversión anunc
 
 ---
 
-## III. La tubería: UIAAS, Isaac, Palantir, ley por ley
+## IV. La tubería: UIAAS, Isaac, Palantir, ley por ley — quién vigila a quién
 
 El 19 de abril de 2026, en Jerusalén, Javier Milei y Benjamín Netanyahu lanzan los Acuerdos de Isaac. Cancillería publica el marco: “descendientes de Isaac”, “tradición judeocristiana”, antiterrorismo, antisemitismo, narcotráfico, foco en Irán, innovación y comercio; inspiración en Acuerdos de Abraham. Quirno confirma el paquete operativo: memorando antiterrorista (detección de financiamiento), memorando de inteligencia artificial, línea de crédito de **US$ 150 millones** para empresas israelíes en Argentina, vuelos El Al Buenos Aires–Tel Aviv.
 
@@ -48,35 +60,38 @@ El 23 de abril de 2026 —cuatro días después de Jerusalén— Milei recibe a 
 
 American Friends of Isaac Accords —semilla de US$ 1 millón del Genesis Prize donado por Milei; dirección regional de Fitz Haney— organiza en Buenos Aires una cumbre de legisladores de catorce países. Haney formula la estrategia: seguridad y posición “relación por relación, **ley por ley**”. JNS, AJN y el sitio de AFOIA documentan el caucus. El alineamiento deja el atril y entra al Congreso continental. Rio Times registra la expulsión del representante iraní en abril como acto previo a la firma. El *petlatl* externo se teje mientras el interno securitiza.
 
-Durante el Mundial, Ad Hoc cuenta 764.000 menciones que ligan Argentina e Israel —pedido ministerial de “traer la 4ª”, bandera en el estadio, Malvinas—. Diplomacia y feed se miran. El pacto oficial y el ruido digital alimentan el mismo relato de civilización sitiada; ese relato justifica la tubería.
+Durante el Mundial, Ad Hoc cuenta 764.000 menciones que ligan Argentina e Israel. Diplomacia y feed se miran. El relato de civilización sitiada —judeocristiana, occidental, blanca en el imaginario local— justifica la tubería. El mismo bloque que niega el racismo interno alinea el país con una guerra racializada en Gaza y con software de control; el *chimalli* externo y el interno se refuerzan.
+
+El reconocimiento facial de la UIAAS pesará sobre rostros ya marcados por el orden: migrante, mapuche, piquetero, “negro” de clase. La biometría hereda el censo que borró. Vigilar y blanquear son dos operaciones del mismo Estado.
 
 ---
 
-## IV. Geopolítica del movimiento único
+## V. Geopolítica del movimiento único — el racismo como eje
 
-Leídos por separado, cada episodio pide un titular. Leídos juntos, componen un solo dispositivo:
+Leídos por separado, cada episodio pide un titular. Leídos juntos, el racismo organiza el mapa:
 
-**Reputación.** El racismo filmado produce hecho. El algoritmo y las casas de apuestas producen escala. El oficialismo produce escudo: convierte la denuncia en “campaña” y la usa para cerrar la crítica interna y legislar contra el extranjero.
+**Pantalla y palabra.** Blancos niegan. Moreno y negro faltan en la TV cotidiana y aparecen como alibi. El feminismo ya enseñó que el cuerpo organiza la autoridad: el hombre calla sobre el aborto; el blanco calla —o debería callar— cuando afirma la inocencia racial del país. El panel y la cicatriz se han vuelto mascarilla cuando quien nunca recibió el gesto dicta si el gesto existe.
 
-**Territorio.** El fuego encuentra brigadas desfinanciadas. La acusación mapuche encuentra desmentida judicial y, aun así, cumple función política. El RIGI encuentra salares y blinda capital. Tierra, agua y estigma se mueven al unísono.
+**Feed y escudo.** Speed recibe el zoológico y el mono. Ad Hoc mide 826.000 menciones al racismo frente a 379.000 a la “campaña”. Rainbet factura la bronca. Milei y LLA convierten la ofensa blanca en arancel contra el extranjero racializado. El racismo produce el hecho; el blanco produce el relato que lo tapa.
 
-**Control.** La UIAAS ya patrulla rostros y redes. Isaac aporta MOUs de IA “misión crítica” y antiterrorismo, crédito a firmas israelíes, caucus “ley por ley”. Thiel/Palantir y los fusiles ARAD marcan el empalme con el complejo datos–armas. El enemigo interno (mapuche, migrante, “terrorista”) y el enemigo externo (Irán, “campaña”) justifican la misma tubería.
+**Tierra.** El fuego encuentra brigadas desfinanciadas (−71,6%). Nación acusa al mapuche; Díaz Mayer descarta. El RIGI blinda > US$ 6.361 M de litio sobre territorios indígenas. El racismo deja de ser insulto y vuelve a ser criterio de quién pierde el salar y el bosque.
 
-El expoliador llega con factura en dólares, MOU y trending; el sembrado —comunidad del salar, brigadista, afroargentino, mapuche, migrante limítrofe— mide en gotas, humo y gestos. La urna y el feed se han vuelto mascarilla cuando el RIGI y el reconocimiento facial pesan más que la consulta y el nombre propio.
+**Control.** UIAAS + Isaac + Palantir + ARAD + caucus “ley por ley”. El enemigo interno (mapuche, migrante, “terrorista”) y el enemigo externo (Irán, “campaña woke”) justifican la misma tubería. La civilización que se imagina blanca pide cámaras y fusiles.
 
-La memoria larga reconoce el ciclo: Conquista del Desierto → borrado afro → “cabecita negra” → RAM mediática → terrorismo ambiental 2026 → litio RIGI → Isaac. *Ollin*. Cada vuelta aprieta el *chimalli* de unos y deja a otros de pie frente al salar y la cámara.
+El expoliador llega con factura en dólares, MOU y trending; el sembrado —comunidad del salar, afroargentino, mapuche, migrante limítrofe, clase amarronada— mide en gotas, humo y gestos. La memoria larga reconoce el ciclo: Conquista del Desierto → borrado afro → “cabecita negra” → RAM → terrorismo ambiental 2026 → litio RIGI → Isaac. *Ollin*. Cada vuelta aprieta el *chimalli* blanco y deja al cuerpo racializado de pie frente al salar y a la cámara que lo niega.
 
 ---
 
-## V. Constatación
+## VI. Constatación
 
-A julio de 2026, la Argentina bajo Milei opera un triple engrane verificado en fuentes públicas:
+A julio de 2026, el dispositivo argentino opera así:
 
-1. **Escudo cognitivo:** hechos racistas documentados (Speed/FIFA) + conversación digital masiva (Ad Hoc) + monetización (Rainbet/algoritmo) + captura política (reposts Milei, aranceles a extranjeros).
-2. **Despojo material:** ~230.000 ha quemadas + SNMF −71,6% + acusación mapuche desmentida por Díaz Mayer + RIGI litio > US$ 6.361 millones.
-3. **Arquitectura de control:** UIAAS (reconocimiento facial, patrulla de redes) + Acuerdos de Isaac (IA misión crítica, antiterrorismo, US$ 150 M, El Al) + Thiel/Palantir + ARAD + caucus AFOIA “ley por ley”.
+1. **Racismo como hecho y como negación:** gestos Speed/FIFA sobre un cuerpo negro; pantallas blancas que niegan; autoridades blancas que hablan sin haber recibido el golpe; mito constitucional europeísta (art. 25); Adamovsky y el dicho “no hay negros”.
+2. **Escudo cognitivo blanco:** Ad Hoc (826k racismo > 379k “campaña”) + Rainbet/algoritmo + reposts Milei + aranceles LLA al extranjero.
+3. **Despojo racializado:** ~230.000 ha + SNMF −71,6% + acusación mapuche desmentida + RIGI litio > US$ 6.361 M sobre consulta rota.
+4. **Arquitectura de control:** UIAAS (facial, redes) + Isaac (IA misión crítica, antiterrorismo, US$ 150 M) + Thiel/Palantir + ARAD + AFOIA “ley por ley”.
 
-Quién merece tierra, agua, protección, nombre y vigilancia: esa es la pregunta geopolítica. El feed responde con trending. El presupuesto responde con recorte. El Boletín Oficial y Cancillería responden con tubería. La estera queda partida; la tinta negra y la tinta roja fijan el corte.
+Quién merece tierra, agua, protección, nombre, pantalla y vigilancia: esa es la pregunta. El blanco que niega el racismo responde desde un cuerpo que el orden ya eligió. El cuerpo racializado responde desde la herida. La estera queda partida; la tinta negra y la tinta roja fijan el corte.
 
 ---
 
