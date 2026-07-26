@@ -12,9 +12,9 @@ El README del repositorio formula el problema con precisión:
 
 > Desestructurar la campaña de odio que denuncian y entender qué está pasando. […] lo de campaña de odio contra Argentina es una herramienta de Estado, lo mismo que el racismo […] los señalamientos que hay son reales […] el grupo de argentinos de redes […] se apropió de esa supuesta campaña para no aceptar lo obvio.
 
-La pregunta no es si “Argentina es el país más racista del mundo” ni si “existe una campaña antiargentina”. Es más dura:
+La pregunta no es un ranking moral ni un tribunal de naciones. Tampoco se agota en “existe o no una campaña antiargentina”. Es más dura:
 
-**¿Cómo opera, a la vez, un racismo estructural históricamente construido y una operación cognitiva que convierte su denuncia en “odio” o “victimismo”, desactivando el pensamiento crítico?**
+**¿Cómo opera, a la vez, un racismo estructural históricamente construido —percibido, vivido, filmado— y una operación cognitiva que convierte su denuncia en “odio” o “victimismo”, desactivando el pensamiento crítico?**
 
 Este informe responde con tres capas que deben leerse juntas:
 
@@ -89,7 +89,7 @@ Triangulación web (26 jul. 2026) confirma el branding y el anuncio, no el relat
 
 | Fuente | Qué establece |
 |---|---|
-| **Cancillería argentina** (19 abr. 2026) | Milei y Netanyahu anuncian en Jerusalén el lanzamiento de los Acuerdos de Isaac: marco estratégico Argentina–Israel–“socios afines” del Hemisferio Occidental; lenguaje de “descendientes de Isaac” y “naciónes de tradición judeocristiana”; ejes terrorismo / antisemitismo / narcotráfico; foco especial en Irán; cooperación en innovación, tecnología, comercio; inspiración en Acuerdos de Abraham (Trump); concebidos por Milei |
+| **Cancillería argentina** (19 abr. 2026) | Milei y Netanyahu anuncian en Jerusalén el lanzamiento de los Acuerdos de Isaac: marco estratégico Argentina–Israel–“socios afines” del Hemisferio Occidental; lenguaje de “descendientes de Isaac” y “naciones de tradición judeocristiana”; ejes terrorismo / antisemitismo / narcotráfico; foco especial en Irán; cooperación en innovación, tecnología, comercio; inspiración en Acuerdos de Abraham (Trump); concebidos por Milei |
 | EFE / AJN / TRT Español / RPP | Mismo acto; memorandos en lucha antiterrorista, inteligencia artificial y transporte aéreo; ruta aérea directa Buenos Aires–Tel Aviv anunciada (El Al) |
 | Corpus *Mapa* (DEF Online, JPost) | Coherente con lo anterior como cobertura mediática del mismo anuncio |
 
@@ -130,11 +130,27 @@ En resumen: la reserva no era “ignorar Isaac”; era **no dejar que un TikTok 
 - La narrativa de “campaña de odio” convierte esos hechos en *ataque externo*, permitiendo a un sector (mediático, político, de redes) afirmarse como víctima colectiva y negar, a la vez, la experiencia de argentinos no blancos.
 - Esa negación —“nombrar el racismo es victimismo porque no existe”— es la fórmula que lo vuelve herramienta de Estado: no hace falta un régimen de segregación tipo Jim Crow si el mito de la Argentina blanca ya organiza oportunidades, tierra, seguridad y sentido común.
 
-Ezequiel Adamovsky lo sintetiza sin caer en el ranking viral (Perfil, 22 jul. 2026):
+El piso epistémico de esta investigación es uno solo:
+
+> **Es ridículo decir que en Argentina no existe racismo.**
+
+Esa frase basta. No necesita segunda cláusula.
+
+### 2.1 Crítica a la fórmula “existe, pero no es el más…”
+
+Ezequiel Adamovsky (Perfil, 22 jul. 2026) formuló:
 
 > Es ridículo decir que en Argentina no existe racismo; existe un racismo intenso. Pero es igualmente ridículo decir que es el país más racista del mundo.
 
-La investigación parte de ese doble rechazo: ni absolutismo moral viral, ni negacionismo patriótico.
+La primera mitad es correcta. La segunda **parece equilibrada y no aporta nada**: recentra el debate en un ranking imposible (“¿el más?”) que nadie puede medir y que nadie que vive el racismo necesita. Es una respuesta **colonial** en el sentido preciso:
+
+1. Acepta el tribunal del Norte (métrica comparativa global) como marco de validez.
+2. Trata la percepción de quienes son racializados como si exigiera prueba de “intensidad relativa”.
+3. Abre la puerta al negacionismo suave: “sí hay racismo, *pero*…” — y ese *pero* es el que desactiva.
+
+La percepción del racismo **no necesita medidas**. Quien recibe el gesto de mono, el “boliguayo”, el “cabecita negra” o el estigma mapuche no está midiendo un índice internacional: está leyendo un orden. Exigir ranking para legitimar esa lectura es otra forma de pedirle permiso al mismo sistema que blanqueó al país.
+
+Por eso esta investigación **no parte del doble rechazo** (ni viralismo ni negacionismo). Parte del rechazo al negacionismo. El viral “país más racista” se trata como ruido algorítmico —objeto a desarmar cuando opera como clickbait—, no como hipótesis rival que obligue a relativizar lo que ya está documentado y percibido.
 
 ---
 
@@ -229,8 +245,8 @@ La triangulación también sostiene amplificación no orgánica —con matices q
 
 También es real:
 
-- El ranking “país más racista del mundo” es **métrica imposible** y moralmente ruidosa; sirve al clickbait, no al diagnóstico (Adamovsky / Perfil).
-- Hay asimetría: sociedades que “limpiaron” el lenguaje público perciben como abominable lo que en Argentina aún circula como humor o “costumbre”.
+- El slogan viral “país más racista del mundo” es ruido de engagement, no diagnóstico. **No hace falta refutarlo con un ranking inverso**: basta no dejar que esa métrica secuestre la conversación sobre el racismo que sí existe y se percibe (§2.1).
+- Hay asimetría: sociedades que “limpiaron” el lenguaje público perciben como abominable lo que en Argentina aún circula como humor o “costumbre”. Eso explica indignación externa; no absuelve ni relativiza lo interno.
 - Sectores locales —incluidos influencers que venden una Argentina blanca, europea cuando discrimina y “latina” cuando se defiende— **capturan** la ofensa externa para cerrar la conversación interna.
 
 Esa disonancia cognitiva (europeos para discriminar / latinoamericanos para victimizarse) es exactamente el mecanismo que el README señala. No es anécdota: es la puesta en escena del mito blanqueador en redes.
@@ -375,13 +391,13 @@ Hechos racistas visibles (cancha, redes, Estado, tierra)
 
 ## 8. Respuestas a las hipótesis del README
 
-| Hipótesis del README | Veredicto del corpus |
+| Hipótesis del README | Veredicto (corpus + web) |
 |---|---|
-| La “campaña de odio antiargentina” funciona como herramienta (también) de Estado / sentido común dominante | **Sostenida.** Opera como escudo cognitivo que unifica identidad y niega evidencia interna. |
+| La “campaña de odio antiargentina” funciona como herramienta (también) de Estado / sentido común dominante | **Sostenida.** Amplificación inauténtica documentada *y* captura legislativa/partidaria del relato; opera como escudo cognitivo. |
 | El racismo está normalizado; nombrarlo = victimismo | **Sostenida.** Genealogía de la negación desde el siglo XIX hasta Laje/Pigna-en-clave-absoluta. |
-| Los señalamientos (Mundial, gestos, etc.) son reales | **Sostenida**, sin aceptar el ranking moral viral. |
+| Los señalamientos (Mundial, gestos, etc.) son reales | **Sostenida y triangulada** (Speed/FIFA/AP). La percepción de quienes los viven no necesita ranking global para ser válida. |
 | Influencers “verdaderos argentinos” (blancos) usan disonancia Europa/Latinoamérica | **Sostenida** como patrón cultural del mito blanqueador en redes. |
-| Artículos que solo ven “campaña” desactivan pensamiento crítico | **Sostenida.** El antídoto no es el viralismo inverso, sino historia + materialidad (tierra, agua, cárcel, ingreso, fuego). |
+| Artículos que solo ven “campaña” desactivan pensamiento crítico | **Sostenida.** Incluso los estudios de la “campaña” admiten críticas genuinas; el antídoto es historia + materialidad (tierra, agua, cárcel, ingreso, fuego, RIGI, Isaac). |
 
 ---
 
