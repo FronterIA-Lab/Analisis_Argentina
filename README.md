@@ -9,6 +9,8 @@ Revisa los documentos que te dejo aquí como marco de referencia y genera una in
 
 ## Investigación
 
-Informe de cierre (julio 2026): **[INVESTIGACION_ARGENTINA_JULIO_2026.md](./INVESTIGACION_ARGENTINA_JULIO_2026.md)**
+Informe de cierre (julio 2026, rev. triangulación web): **[INVESTIGACION_ARGENTINA_JULIO_2026.md](./INVESTIGACION_ARGENTINA_JULIO_2026.md)**
 
-Hallazgo central: la narrativa de “campaña de odio antiargentina” y el racismo estructural no son hipótesis rivales; la primera opera como escudo cognitivo que niega el segundo, mientras el despojo territorial (Patagonia, litio) materializa el mismo orden racial-colonial. 
+Hallazgo central: la narrativa de “campaña de odio antiargentina” y el racismo estructural no son hipótesis rivales; la primera opera como escudo cognitivo que niega el segundo, mientras el despojo territorial (Patagonia, litio) materializa el mismo orden racial-colonial.
+
+Verificado en fuentes externas (anexo §11): Acuerdos de Isaac (Cancillería, 19/04/2026); incidentes racistas Speed/FIFA; amplificación inauténtica *y* críticas genuinas coexistentes; escala de incendios patagónicos + recorte SNMF; avance litio vía RIGI. 
